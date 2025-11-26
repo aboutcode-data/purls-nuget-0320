@@ -27,3 +27,4 @@
 - pkg:nuget/SFA.DAS.Payments.FundingSource.Messages@1.1.0-prerelease-4
 - pkg:nuget/SFA.DAS.Payments.FundingSource.Messages@1.1.0-prerelease-5
 - pkg:nuget/SFA.DAS.Payments.FundingSource.Messages@1.1.1-prerelease-6
+- pkg:nuget/SFA.DAS.Payments.FundingSource.Messages@1.2.2

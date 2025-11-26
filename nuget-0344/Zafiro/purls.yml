@@ -191,6 +191,7 @@
 - pkg:nuget/Zafiro@4.0.9
 - pkg:nuget/Zafiro@41.1.0
 - pkg:nuget/Zafiro@42.0.0
+- pkg:nuget/Zafiro@42.0.3
 - pkg:nuget/Zafiro@5.0.0
 - pkg:nuget/Zafiro@5.0.1
 - pkg:nuget/Zafiro@6.0.0
