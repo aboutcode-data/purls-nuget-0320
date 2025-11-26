@@ -24,6 +24,8 @@
 - pkg:nuget/fm.Extensions.Common@11.0.0
 - pkg:nuget/fm.Extensions.Common@11.1.0
 - pkg:nuget/fm.Extensions.Common@11.2.0
+- pkg:nuget/fm.Extensions.Common@12.1.0-preview.1
+- pkg:nuget/fm.Extensions.Common@12.1.0-preview.2
 - pkg:nuget/fm.Extensions.Common@2.0.0
 - pkg:nuget/fm.Extensions.Common@2.0.0-beta1
 - pkg:nuget/fm.Extensions.Common@2.0.0-beta3
