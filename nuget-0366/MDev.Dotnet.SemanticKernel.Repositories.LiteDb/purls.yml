@@ -1,0 +1,4 @@
+- pkg:nuget/MDev.Dotnet.SemanticKernel.Repositories.LiteDb@1.1.0-preview-053
+- pkg:nuget/MDev.Dotnet.SemanticKernel.Repositories.LiteDb@1.1.0-preview-059
+- pkg:nuget/MDev.Dotnet.SemanticKernel.Repositories.LiteDb@1.1.0-preview-060
+- pkg:nuget/MDev.Dotnet.SemanticKernel.Repositories.LiteDb@1.3.0
