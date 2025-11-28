@@ -3,3 +3,5 @@
 - pkg:nuget/ReflectionIT.ComparisonOperatorsGenerator@0.1.2-preview
 - pkg:nuget/ReflectionIT.ComparisonOperatorsGenerator@1.0.0
 - pkg:nuget/ReflectionIT.ComparisonOperatorsGenerator@1.0.1
+- pkg:nuget/ReflectionIT.ComparisonOperatorsGenerator@1.1.0
+- pkg:nuget/ReflectionIT.ComparisonOperatorsGenerator@1.1.1
