@@ -36,6 +36,7 @@
 - pkg:nuget/CK.SqlServer.Dapper@12.0.0
 - pkg:nuget/CK.SqlServer.Dapper@13.0.0
 - pkg:nuget/CK.SqlServer.Dapper@13.0.1
+- pkg:nuget/CK.SqlServer.Dapper@14.1.1
 - pkg:nuget/CK.SqlServer.Dapper@2.0.0
 - pkg:nuget/CK.SqlServer.Dapper@3.0.0
 - pkg:nuget/CK.SqlServer.Dapper@4.0.0

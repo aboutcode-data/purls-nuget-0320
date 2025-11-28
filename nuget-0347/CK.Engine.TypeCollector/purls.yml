@@ -11,3 +11,4 @@
 - pkg:nuget/CK.Engine.TypeCollector@30.0.0
 - pkg:nuget/CK.Engine.TypeCollector@31.0.0
 - pkg:nuget/CK.Engine.TypeCollector@31.0.1
+- pkg:nuget/CK.Engine.TypeCollector@32.1.1
