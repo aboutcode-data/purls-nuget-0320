@@ -193,6 +193,7 @@
 - pkg:nuget/MFiles.VAF.Configuration.Logging.NLog@25.10.11
 - pkg:nuget/MFiles.VAF.Configuration.Logging.NLog@25.10.13
 - pkg:nuget/MFiles.VAF.Configuration.Logging.NLog@25.11.9
+- pkg:nuget/MFiles.VAF.Configuration.Logging.NLog@25.12.2
 - pkg:nuget/MFiles.VAF.Configuration.Logging.NLog@25.2.1
 - pkg:nuget/MFiles.VAF.Configuration.Logging.NLog@25.2.10
 - pkg:nuget/MFiles.VAF.Configuration.Logging.NLog@25.2.11
