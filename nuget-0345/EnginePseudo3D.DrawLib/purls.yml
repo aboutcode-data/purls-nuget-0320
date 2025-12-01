@@ -119,3 +119,5 @@
 - pkg:nuget/EnginePseudo3D.DrawLib@2.1.9
 - pkg:nuget/EnginePseudo3D.DrawLib@2.2.0
 - pkg:nuget/EnginePseudo3D.DrawLib@2.4.4
+- pkg:nuget/EnginePseudo3D.DrawLib@2.4.8
+- pkg:nuget/EnginePseudo3D.DrawLib@2.4.9
