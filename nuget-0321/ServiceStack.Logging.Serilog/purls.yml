@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.Logging.Serilog@1.0.0
+- pkg:nuget/ServiceStack.Logging.Serilog@10.0.0
 - pkg:nuget/ServiceStack.Logging.Serilog@4.5.10
 - pkg:nuget/ServiceStack.Logging.Serilog@4.5.12
 - pkg:nuget/ServiceStack.Logging.Serilog@4.5.14
