@@ -28,5 +28,6 @@
 - pkg:nuget/Devolutions.Gateway.Client@2024.5.2
 - pkg:nuget/Devolutions.Gateway.Client@2024.8.30
 - pkg:nuget/Devolutions.Gateway.Client@2024.9.1
+- pkg:nuget/Devolutions.Gateway.Client@2025.12.2
 - pkg:nuget/Devolutions.Gateway.Client@2025.6.19
 - pkg:nuget/Devolutions.Gateway.Client@2025.9.8
