@@ -1,3 +1,4 @@
+- pkg:nuget/AlibabaCloud.SDK.PTS20201020@1.10.0
 - pkg:nuget/AlibabaCloud.SDK.PTS20201020@1.8.1
 - pkg:nuget/AlibabaCloud.SDK.PTS20201020@1.8.10
 - pkg:nuget/AlibabaCloud.SDK.PTS20201020@1.8.11
