@@ -18,6 +18,7 @@
 - pkg:nuget/WireMock.Net.RestClient@1.11.2
 - pkg:nuget/WireMock.Net.RestClient@1.12.0
 - pkg:nuget/WireMock.Net.RestClient@1.13.0
+- pkg:nuget/WireMock.Net.RestClient@1.18.0
 - pkg:nuget/WireMock.Net.RestClient@1.2.0
 - pkg:nuget/WireMock.Net.RestClient@1.2.1
 - pkg:nuget/WireMock.Net.RestClient@1.2.10
