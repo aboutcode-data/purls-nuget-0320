@@ -19,5 +19,6 @@
 - pkg:nuget/otsom.fs.Bot.Telegram@0.0.5
 - pkg:nuget/otsom.fs.Bot.Telegram@0.0.50
 - pkg:nuget/otsom.fs.Bot.Telegram@0.0.53
+- pkg:nuget/otsom.fs.Bot.Telegram@0.0.69
 - pkg:nuget/otsom.fs.Bot.Telegram@0.0.7
 - pkg:nuget/otsom.fs.Bot.Telegram@0.0.9
