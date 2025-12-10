@@ -40,4 +40,6 @@
 - pkg:nuget/MetaFrm.ApiServer.net8.0@8.0.4.55
 - pkg:nuget/MetaFrm.ApiServer.net8.0@8.0.4.57
 - pkg:nuget/MetaFrm.ApiServer.net8.0@8.0.4.6
+- pkg:nuget/MetaFrm.ApiServer.net8.0@8.0.4.64
+- pkg:nuget/MetaFrm.ApiServer.net8.0@8.0.4.67
 - pkg:nuget/MetaFrm.ApiServer.net8.0@8.0.4.7
