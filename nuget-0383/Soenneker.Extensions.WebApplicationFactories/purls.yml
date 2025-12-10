@@ -126,3 +126,4 @@
 - pkg:nuget/Soenneker.Extensions.WebApplicationFactories@3.0.99
 - pkg:nuget/Soenneker.Extensions.WebApplicationFactories@4.0.136
 - pkg:nuget/Soenneker.Extensions.WebApplicationFactories@4.0.142
+- pkg:nuget/Soenneker.Extensions.WebApplicationFactories@4.0.150
