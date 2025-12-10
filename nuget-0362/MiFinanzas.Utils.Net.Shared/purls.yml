@@ -140,6 +140,7 @@
 - pkg:nuget/MiFinanzas.Utils.Net.Shared@1.0.37
 - pkg:nuget/MiFinanzas.Utils.Net.Shared@1.0.37.1-dev
 - pkg:nuget/MiFinanzas.Utils.Net.Shared@1.0.37.2-dev
+- pkg:nuget/MiFinanzas.Utils.Net.Shared@1.0.39
 - pkg:nuget/MiFinanzas.Utils.Net.Shared@1.0.5.18-dev
 - pkg:nuget/MiFinanzas.Utils.Net.Shared@1.0.5.19-dev
 - pkg:nuget/MiFinanzas.Utils.Net.Shared@1.0.5.20-dev
