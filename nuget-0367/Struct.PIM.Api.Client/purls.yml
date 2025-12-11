@@ -351,6 +351,7 @@
 - pkg:nuget/Struct.PIM.Api.Client@3.16.13
 - pkg:nuget/Struct.PIM.Api.Client@3.16.14
 - pkg:nuget/Struct.PIM.Api.Client@3.16.2
+- pkg:nuget/Struct.PIM.Api.Client@3.16.26
 - pkg:nuget/Struct.PIM.Api.Client@3.16.3
 - pkg:nuget/Struct.PIM.Api.Client@3.16.4
 - pkg:nuget/Struct.PIM.Api.Client@3.16.5
