@@ -309,3 +309,4 @@
 - pkg:nuget/Messaia.Net.Base.Identity.Razor@9.1.1-RC06
 - pkg:nuget/Messaia.Net.Base.Identity.Razor@9.1.1-RC07
 - pkg:nuget/Messaia.Net.Base.Identity.Razor@9.3.0-rc01
+- pkg:nuget/Messaia.Net.Base.Identity.Razor@9.3.2
