@@ -1,3 +1,4 @@
+- pkg:nuget/Arcturus.EventBus.AzureServiceBus@2025.12.12.203
 - pkg:nuget/Arcturus.EventBus.AzureServiceBus@2025.8.13.166
 - pkg:nuget/Arcturus.EventBus.AzureServiceBus@2025.8.14.168
 - pkg:nuget/Arcturus.EventBus.AzureServiceBus@2025.9.1.173
