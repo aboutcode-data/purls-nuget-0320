@@ -40,3 +40,4 @@
 - pkg:nuget/CreativeCoders.AspNetCore.Blazor@4.5.0
 - pkg:nuget/CreativeCoders.AspNetCore.Blazor@4.6.0
 - pkg:nuget/CreativeCoders.AspNetCore.Blazor@5.1.0
+- pkg:nuget/CreativeCoders.AspNetCore.Blazor@5.4.0
