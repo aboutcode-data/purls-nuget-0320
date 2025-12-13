@@ -1201,6 +1201,7 @@
 - pkg:nuget/AWSSDK.ElasticTranscoder@3.7.501.8
 - pkg:nuget/AWSSDK.ElasticTranscoder@3.7.501.9
 - pkg:nuget/AWSSDK.ElasticTranscoder@3.7.502.11
+- pkg:nuget/AWSSDK.ElasticTranscoder@3.7.502.15
 - pkg:nuget/AWSSDK.ElasticTranscoder@3.7.502.7
 - pkg:nuget/AWSSDK.ElasticTranscoder@3.7.502.9
 - pkg:nuget/AWSSDK.ElasticTranscoder@4.0.0
