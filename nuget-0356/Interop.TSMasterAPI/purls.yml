@@ -3,6 +3,7 @@
 - pkg:nuget/Interop.TSMasterAPI@2025.10.15.1683
 - pkg:nuget/Interop.TSMasterAPI@2025.11.12.1716
 - pkg:nuget/Interop.TSMasterAPI@2025.11.18.1724
+- pkg:nuget/Interop.TSMasterAPI@2025.12.15.1766
 - pkg:nuget/Interop.TSMasterAPI@2025.5.23.1446
 - pkg:nuget/Interop.TSMasterAPI@2025.6.10.1475
 - pkg:nuget/Interop.TSMasterAPI@2025.6.11.1478
