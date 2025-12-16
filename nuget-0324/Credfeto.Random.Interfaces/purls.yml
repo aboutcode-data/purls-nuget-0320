@@ -411,6 +411,8 @@
 - pkg:nuget/Credfeto.Random.Interfaces@1.0.141.1383-main
 - pkg:nuget/Credfeto.Random.Interfaces@1.0.141.1384-main
 - pkg:nuget/Credfeto.Random.Interfaces@1.0.141.1385-main
+- pkg:nuget/Credfeto.Random.Interfaces@1.0.143.1469-main
+- pkg:nuget/Credfeto.Random.Interfaces@1.0.143.1486-main
 - pkg:nuget/Credfeto.Random.Interfaces@1.0.15.125-main
 - pkg:nuget/Credfeto.Random.Interfaces@1.0.15.126-main
 - pkg:nuget/Credfeto.Random.Interfaces@1.0.15.127-main
