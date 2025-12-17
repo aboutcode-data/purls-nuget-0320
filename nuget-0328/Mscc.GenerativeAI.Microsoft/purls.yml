@@ -76,3 +76,4 @@
 - pkg:nuget/Mscc.GenerativeAI.Microsoft@2.8.8
 - pkg:nuget/Mscc.GenerativeAI.Microsoft@2.8.9
 - pkg:nuget/Mscc.GenerativeAI.Microsoft@2.9.8
+- pkg:nuget/Mscc.GenerativeAI.Microsoft@3.0.0
