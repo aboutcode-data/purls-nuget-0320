@@ -169,6 +169,7 @@
 - pkg:nuget/Reactor.Maui.TemplatePack@3.0.35
 - pkg:nuget/Reactor.Maui.TemplatePack@3.0.36
 - pkg:nuget/Reactor.Maui.TemplatePack@3.0.4-beta
+- pkg:nuget/Reactor.Maui.TemplatePack@3.0.40
 - pkg:nuget/Reactor.Maui.TemplatePack@3.0.5-beta
 - pkg:nuget/Reactor.Maui.TemplatePack@3.0.6-beta
 - pkg:nuget/Reactor.Maui.TemplatePack@3.0.7-beta
