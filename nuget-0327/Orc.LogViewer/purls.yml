@@ -68,3 +68,4 @@
 - pkg:nuget/Orc.LogViewer@5.0.0-alpha0292
 - pkg:nuget/Orc.LogViewer@5.0.0-alpha0329
 - pkg:nuget/Orc.LogViewer@5.1.1
+- pkg:nuget/Orc.LogViewer@5.2.0
