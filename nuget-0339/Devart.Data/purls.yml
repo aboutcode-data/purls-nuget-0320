@@ -65,3 +65,4 @@
 - pkg:nuget/Devart.Data@6.0.21
 - pkg:nuget/Devart.Data@6.0.235
 - pkg:nuget/Devart.Data@6.0.290
+- pkg:nuget/Devart.Data@7.0.0
