@@ -199,3 +199,4 @@
 - pkg:nuget/Pulumi.KubernetesCertManager@0.3.0-alpha.1758924506
 - pkg:nuget/Pulumi.KubernetesCertManager@0.3.0-alpha.1759104385
 - pkg:nuget/Pulumi.KubernetesCertManager@0.3.0-alpha.1762873269
+- pkg:nuget/Pulumi.KubernetesCertManager@0.3.0-alpha.1766096979

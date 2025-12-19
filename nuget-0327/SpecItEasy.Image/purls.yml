@@ -7,6 +7,7 @@
 - pkg:nuget/SpecItEasy.Image@1.2.0-alpha
 - pkg:nuget/SpecItEasy.Image@1.2.100-alpha-g0e73270c40
 - pkg:nuget/SpecItEasy.Image@1.2.101%2B428e0ab48a
+- pkg:nuget/SpecItEasy.Image@1.2.103-alpha-gc6076ccd7f
 - pkg:nuget/SpecItEasy.Image@1.2.34-alpha-gfd31d86dda
 - pkg:nuget/SpecItEasy.Image@1.2.35-alpha-g4ebcd58df9
 - pkg:nuget/SpecItEasy.Image@1.2.36-alpha-gbdd699bf3f
