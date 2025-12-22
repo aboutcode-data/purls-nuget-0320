@@ -98,4 +98,5 @@
 - pkg:nuget/ThingsGateway.Plugin.SyncBridge@10.9.98
 - pkg:nuget/ThingsGateway.Plugin.SyncBridge@10.9.99
 - pkg:nuget/ThingsGateway.Plugin.SyncBridge@12.4.10
+- pkg:nuget/ThingsGateway.Plugin.SyncBridge@12.4.18
 - pkg:nuget/ThingsGateway.Plugin.SyncBridge@12.4.8
