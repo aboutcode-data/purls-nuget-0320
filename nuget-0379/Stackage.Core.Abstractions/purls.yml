@@ -20,3 +20,4 @@
 - pkg:nuget/Stackage.Core.Abstractions@2.0.0
 - pkg:nuget/Stackage.Core.Abstractions@3.0.0
 - pkg:nuget/Stackage.Core.Abstractions@3.0.0-preview002
+- pkg:nuget/Stackage.Core.Abstractions@3.1.0-preview001
