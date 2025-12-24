@@ -766,6 +766,7 @@
 - pkg:nuget/AWSSDK.AppRunner@3.7.502.13
 - pkg:nuget/AWSSDK.AppRunner@3.7.502.15
 - pkg:nuget/AWSSDK.AppRunner@3.7.502.17
+- pkg:nuget/AWSSDK.AppRunner@3.7.502.26
 - pkg:nuget/AWSSDK.AppRunner@4.0.0
 - pkg:nuget/AWSSDK.AppRunner@4.0.0-preview
 - pkg:nuget/AWSSDK.AppRunner@4.0.0-preview.10
