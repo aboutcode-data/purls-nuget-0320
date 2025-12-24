@@ -1,1 +1,2 @@
 - pkg:nuget/WireMock.Net.xUnit.v3@1.18.0
+- pkg:nuget/WireMock.Net.xUnit.v3@1.20.0
