@@ -25,3 +25,4 @@
 - pkg:nuget/PgfPlotsSdk@1.0.1
 - pkg:nuget/PgfPlotsSdk@1.0.2
 - pkg:nuget/PgfPlotsSdk@1.0.3
+- pkg:nuget/PgfPlotsSdk@2.0.0
