@@ -724,6 +724,7 @@
 - pkg:nuget/AWSSDK.GlueDataBrew@3.7.502.22
 - pkg:nuget/AWSSDK.GlueDataBrew@3.7.502.26
 - pkg:nuget/AWSSDK.GlueDataBrew@3.7.502.27
+- pkg:nuget/AWSSDK.GlueDataBrew@3.7.502.28
 - pkg:nuget/AWSSDK.GlueDataBrew@3.7.502.6
 - pkg:nuget/AWSSDK.GlueDataBrew@3.7.6
 - pkg:nuget/AWSSDK.GlueDataBrew@3.7.6.1
