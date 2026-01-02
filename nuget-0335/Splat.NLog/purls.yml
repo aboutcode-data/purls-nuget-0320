@@ -48,6 +48,7 @@
 - pkg:nuget/Splat.NLog@16.1.1
 - pkg:nuget/Splat.NLog@16.2.1
 - pkg:nuget/Splat.NLog@17.0.1
+- pkg:nuget/Splat.NLog@19.1.1
 - pkg:nuget/Splat.NLog@7.0.1
 - pkg:nuget/Splat.NLog@7.0.8
 - pkg:nuget/Splat.NLog@7.1.1
