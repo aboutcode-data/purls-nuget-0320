@@ -15,6 +15,7 @@
 - pkg:nuget/WireMock.Net.FluentAssertions@1.2.17
 - pkg:nuget/WireMock.Net.FluentAssertions@1.2.18
 - pkg:nuget/WireMock.Net.FluentAssertions@1.20.0
+- pkg:nuget/WireMock.Net.FluentAssertions@1.23.0
 - pkg:nuget/WireMock.Net.FluentAssertions@1.3.0
 - pkg:nuget/WireMock.Net.FluentAssertions@1.3.1
 - pkg:nuget/WireMock.Net.FluentAssertions@1.3.10
