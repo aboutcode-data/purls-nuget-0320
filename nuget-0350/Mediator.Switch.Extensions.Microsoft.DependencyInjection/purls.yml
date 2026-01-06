@@ -25,3 +25,4 @@
 - pkg:nuget/Mediator.Switch.Extensions.Microsoft.DependencyInjection@1.7.1
 - pkg:nuget/Mediator.Switch.Extensions.Microsoft.DependencyInjection@1.8.0
 - pkg:nuget/Mediator.Switch.Extensions.Microsoft.DependencyInjection@1.9.0
+- pkg:nuget/Mediator.Switch.Extensions.Microsoft.DependencyInjection@2.2.0-preview1

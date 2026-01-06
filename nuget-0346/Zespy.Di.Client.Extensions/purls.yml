@@ -418,4 +418,5 @@
 - pkg:nuget/Zespy.Di.Client.Extensions@0.82.0-dev.43
 - pkg:nuget/Zespy.Di.Client.Extensions@0.82.0-dev.9
 - pkg:nuget/Zespy.Di.Client.Extensions@0.82.0-stage.38
+- pkg:nuget/Zespy.Di.Client.Extensions@0.86.0-dev.3
 - pkg:nuget/Zespy.Di.Client.Extensions@0.9.0-alpha.1
