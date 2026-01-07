@@ -1,3 +1,4 @@
 - pkg:nuget/Ground.Extensions.Logger.Abstractions@1.0.0
 - pkg:nuget/Ground.Extensions.Logger.Abstractions@2.0.0
 - pkg:nuget/Ground.Extensions.Logger.Abstractions@3.0.0
+- pkg:nuget/Ground.Extensions.Logger.Abstractions@9.0.2
