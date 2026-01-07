@@ -99,3 +99,4 @@
 - pkg:nuget/nanoFramework.Networking.Sntp@1.6.40
 - pkg:nuget/nanoFramework.Networking.Sntp@1.6.41
 - pkg:nuget/nanoFramework.Networking.Sntp@1.6.42
+- pkg:nuget/nanoFramework.Networking.Sntp@2.0.0-preview.1
