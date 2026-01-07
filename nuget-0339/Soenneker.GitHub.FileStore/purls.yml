@@ -152,3 +152,4 @@
 - pkg:nuget/Soenneker.GitHub.FileStore@4.0.220
 - pkg:nuget/Soenneker.GitHub.FileStore@4.0.234
 - pkg:nuget/Soenneker.GitHub.FileStore@4.0.248
+- pkg:nuget/Soenneker.GitHub.FileStore@4.0.259

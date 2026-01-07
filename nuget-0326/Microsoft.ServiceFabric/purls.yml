@@ -27,6 +27,7 @@
 - pkg:nuget/Microsoft.ServiceFabric@11.3.475
 - pkg:nuget/Microsoft.ServiceFabric@12.0.0-dev.user-cburg-wi-32024996.1003
 - pkg:nuget/Microsoft.ServiceFabric@12.0.0-dev.user-cburg-wi-32024996.1005
+- pkg:nuget/Microsoft.ServiceFabric@12.0.714-beta
 - pkg:nuget/Microsoft.ServiceFabric@4.0.1427-preview1
 - pkg:nuget/Microsoft.ServiceFabric@4.0.95-preview1
 - pkg:nuget/Microsoft.ServiceFabric@4.4.87-preview
