@@ -1,3 +1,4 @@
+- pkg:nuget/EFCore.BulkExtensions.Core@10.0.0
 - pkg:nuget/EFCore.BulkExtensions.Core@8.1.0
 - pkg:nuget/EFCore.BulkExtensions.Core@8.1.1
 - pkg:nuget/EFCore.BulkExtensions.Core@8.1.2

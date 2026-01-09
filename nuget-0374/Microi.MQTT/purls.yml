@@ -1,2 +1,3 @@
 - pkg:nuget/Microi.MQTT@1.0.0
 - pkg:nuget/Microi.MQTT@1.1.0
+- pkg:nuget/Microi.MQTT@4.4.0
