@@ -18,3 +18,4 @@
 - pkg:nuget/Relatude.PaymentMethods@1.3.9.7
 - pkg:nuget/Relatude.PaymentMethods@1.3.9.8
 - pkg:nuget/Relatude.PaymentMethods@1.3.9.9
+- pkg:nuget/Relatude.PaymentMethods@1.4.0-beta
