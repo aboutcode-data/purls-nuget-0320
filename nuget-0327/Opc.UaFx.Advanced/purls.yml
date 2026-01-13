@@ -80,6 +80,7 @@
 - pkg:nuget/Opc.UaFx.Advanced@2.50.5
 - pkg:nuget/Opc.UaFx.Advanced@2.50.6
 - pkg:nuget/Opc.UaFx.Advanced@2.50.7
+- pkg:nuget/Opc.UaFx.Advanced@2.51.2
 - pkg:nuget/Opc.UaFx.Advanced@2.6.0
 - pkg:nuget/Opc.UaFx.Advanced@2.7.0
 - pkg:nuget/Opc.UaFx.Advanced@2.7.0.1
