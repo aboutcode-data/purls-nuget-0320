@@ -32,3 +32,4 @@
 - pkg:nuget/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions@1.313.1
 - pkg:nuget/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions@1.317.1
 - pkg:nuget/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions@1.319.1
+- pkg:nuget/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions@1.329.2
