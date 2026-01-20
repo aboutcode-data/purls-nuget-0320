@@ -36,6 +36,7 @@
 - pkg:nuget/Commands.NET@2.0.0-alpha.26
 - pkg:nuget/Commands.NET@2.0.0-alpha.27
 - pkg:nuget/Commands.NET@2.0.0-alpha.3
+- pkg:nuget/Commands.NET@2.0.0-alpha.31
 - pkg:nuget/Commands.NET@2.0.0-alpha.4
 - pkg:nuget/Commands.NET@2.0.0-alpha.5
 - pkg:nuget/Commands.NET@2.0.0-alpha.6
