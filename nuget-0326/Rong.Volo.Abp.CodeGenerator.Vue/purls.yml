@@ -62,5 +62,6 @@
 - pkg:nuget/Rong.Volo.Abp.CodeGenerator.Vue@8.2.1
 - pkg:nuget/Rong.Volo.Abp.CodeGenerator.Vue@8.2.2
 - pkg:nuget/Rong.Volo.Abp.CodeGenerator.Vue@9.0.0
+- pkg:nuget/Rong.Volo.Abp.CodeGenerator.Vue@9.0.20
 - pkg:nuget/Rong.Volo.Abp.CodeGenerator.Vue@9.0.6
 - pkg:nuget/Rong.Volo.Abp.CodeGenerator.Vue@9.1.0
