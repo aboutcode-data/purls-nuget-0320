@@ -1110,6 +1110,7 @@
 - pkg:nuget/AWSSDK.ApiGatewayManagementApi@3.7.502.1
 - pkg:nuget/AWSSDK.ApiGatewayManagementApi@3.7.502.15
 - pkg:nuget/AWSSDK.ApiGatewayManagementApi@3.7.502.26
+- pkg:nuget/AWSSDK.ApiGatewayManagementApi@3.7.502.36
 - pkg:nuget/AWSSDK.ApiGatewayManagementApi@3.7.502.6
 - pkg:nuget/AWSSDK.ApiGatewayManagementApi@4.0.0
 - pkg:nuget/AWSSDK.ApiGatewayManagementApi@4.0.0-preview

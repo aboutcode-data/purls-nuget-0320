@@ -266,6 +266,7 @@
 - pkg:nuget/AWSSDK.ControlCatalog@3.7.503.12
 - pkg:nuget/AWSSDK.ControlCatalog@3.7.503.16
 - pkg:nuget/AWSSDK.ControlCatalog@3.7.503.18
+- pkg:nuget/AWSSDK.ControlCatalog@3.7.503.26
 - pkg:nuget/AWSSDK.ControlCatalog@3.7.503.5
 - pkg:nuget/AWSSDK.ControlCatalog@3.7.503.7
 - pkg:nuget/AWSSDK.ControlCatalog@4.0.0
