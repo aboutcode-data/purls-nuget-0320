@@ -9,3 +9,4 @@
 - pkg:nuget/Soenneker.Cloudflare.OriginCerts.Fetcher@3.0.9
 - pkg:nuget/Soenneker.Cloudflare.OriginCerts.Fetcher@4.0.35
 - pkg:nuget/Soenneker.Cloudflare.OriginCerts.Fetcher@4.0.43
+- pkg:nuget/Soenneker.Cloudflare.OriginCerts.Fetcher@4.0.49
