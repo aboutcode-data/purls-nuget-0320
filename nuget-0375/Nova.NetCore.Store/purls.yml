@@ -13,6 +13,7 @@
 - pkg:nuget/Nova.NetCore.Store@1.0.7
 - pkg:nuget/Nova.NetCore.Store@1.0.8
 - pkg:nuget/Nova.NetCore.Store@1.0.9
+- pkg:nuget/Nova.NetCore.Store@10.0.1
 - pkg:nuget/Nova.NetCore.Store@3.1.0
 - pkg:nuget/Nova.NetCore.Store@3.1.5
 - pkg:nuget/Nova.NetCore.Store@3.1.6
