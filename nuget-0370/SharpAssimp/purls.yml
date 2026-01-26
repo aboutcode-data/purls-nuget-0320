@@ -1,4 +1,6 @@
 - pkg:nuget/SharpAssimp@6.0.1
+- pkg:nuget/SharpAssimp@6.0.10
+- pkg:nuget/SharpAssimp@6.0.11
 - pkg:nuget/SharpAssimp@6.0.2
 - pkg:nuget/SharpAssimp@6.0.3
 - pkg:nuget/SharpAssimp@6.0.4

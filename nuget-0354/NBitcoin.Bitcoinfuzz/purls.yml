@@ -1,1 +1,2 @@
 - pkg:nuget/NBitcoin.Bitcoinfuzz@9.0.1-custom
+- pkg:nuget/NBitcoin.Bitcoinfuzz@9.0.5-custom
