@@ -1156,6 +1156,7 @@
 - pkg:nuget/HotChocolate.Execution@16.0.0-p.1.9
 - pkg:nuget/HotChocolate.Execution@16.0.0-p.10.10
 - pkg:nuget/HotChocolate.Execution@16.0.0-p.10.29
+- pkg:nuget/HotChocolate.Execution@16.0.0-p.10.35
 - pkg:nuget/HotChocolate.Execution@16.0.0-p.10.6
 - pkg:nuget/HotChocolate.Execution@16.0.0-p.2.0
 - pkg:nuget/HotChocolate.Execution@16.0.0-p.3.0
