@@ -149,4 +149,5 @@
 - pkg:nuget/ArmoniK.Utils.Diagnostics@0.6.2-renovatemajornuget.1.sha.b1a7630
 - pkg:nuget/ArmoniK.Utils.Diagnostics@0.6.2-renovatemajornuget.17.sha.a84fecc
 - pkg:nuget/ArmoniK.Utils.Diagnostics@0.6.3-SNAPSHOT.4.sha.f969bd3
+- pkg:nuget/ArmoniK.Utils.Diagnostics@0.7.1-SNAPSHOT.4.sha.ea5f82c
 - pkg:nuget/ArmoniK.Utils.Diagnostics@0.7.1-renovategithubactions.1.sha.447ff0e
