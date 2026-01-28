@@ -155,6 +155,7 @@
 - pkg:nuget/DevSDK@2.1.50
 - pkg:nuget/DevSDK@2.1.51
 - pkg:nuget/DevSDK@2.1.6
+- pkg:nuget/DevSDK@2.1.66
 - pkg:nuget/DevSDK@2.1.7
 - pkg:nuget/DevSDK@2.1.8
 - pkg:nuget/DevSDK@2.1.9
