@@ -922,3 +922,6 @@
 - pkg:nuget/DH.NCore@4.14.2025.926-beta1057
 - pkg:nuget/DH.NCore@4.17.2026.112-beta0953
 - pkg:nuget/DH.NCore@4.17.2026.122-beta0746
+- pkg:nuget/DH.NCore@4.17.2026.129-beta0117
+- pkg:nuget/DH.NCore@4.17.2026.129-beta0118
+- pkg:nuget/DH.NCore@4.17.2026.129-beta0119
