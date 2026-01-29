@@ -36,6 +36,10 @@
 - pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.30.0-alpha.1224
 - pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.30.0-alpha.1226
 - pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.30.0-alpha.1227
+- pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.4.0-build.1
+- pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.4.0-build.2
+- pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.4.0-preview.5
+- pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.4.0-preview.6
 - pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.6.0-alpha.1004
 - pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.6.0-alpha.1005
 - pkg:nuget/FractalDataWorks.Commands.Data.Extensions@0.6.0-alpha.1006
