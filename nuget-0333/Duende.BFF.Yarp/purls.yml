@@ -34,3 +34,5 @@
 - pkg:nuget/Duende.BFF.Yarp@4.0.0-preview3
 - pkg:nuget/Duende.BFF.Yarp@4.0.0-rc.1
 - pkg:nuget/Duende.BFF.Yarp@4.0.0-rc.2
+- pkg:nuget/Duende.BFF.Yarp@4.0.3
+- pkg:nuget/Duende.BFF.Yarp@4.1.0
