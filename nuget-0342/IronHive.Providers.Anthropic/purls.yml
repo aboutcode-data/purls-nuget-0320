@@ -1,1 +1,2 @@
 - pkg:nuget/IronHive.Providers.Anthropic@0.1.0
+- pkg:nuget/IronHive.Providers.Anthropic@0.2.2
