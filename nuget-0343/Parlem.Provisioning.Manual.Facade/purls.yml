@@ -88,6 +88,7 @@
 - pkg:nuget/Parlem.Provisioning.Manual.Facade@8.0.4
 - pkg:nuget/Parlem.Provisioning.Manual.Facade@8.0.41-beta1
 - pkg:nuget/Parlem.Provisioning.Manual.Facade@8.0.5
+- pkg:nuget/Parlem.Provisioning.Manual.Facade@8.0.57
 - pkg:nuget/Parlem.Provisioning.Manual.Facade@8.0.6
 - pkg:nuget/Parlem.Provisioning.Manual.Facade@8.0.7
 - pkg:nuget/Parlem.Provisioning.Manual.Facade@8.0.8
