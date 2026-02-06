@@ -1115,6 +1115,7 @@
 - pkg:nuget/AWSSDK.DocDB@3.7.504.21
 - pkg:nuget/AWSSDK.DocDB@3.7.504.29
 - pkg:nuget/AWSSDK.DocDB@3.7.504.31
+- pkg:nuget/AWSSDK.DocDB@3.7.504.36
 - pkg:nuget/AWSSDK.DocDB@3.7.504.6
 - pkg:nuget/AWSSDK.DocDB@3.7.504.8
 - pkg:nuget/AWSSDK.DocDB@4.0.0
