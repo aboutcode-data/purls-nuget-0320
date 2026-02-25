@@ -16,6 +16,7 @@
 - pkg:nuget/Borg.Cloud.Configuration@1.15.0
 - pkg:nuget/Borg.Cloud.Configuration@1.15.1
 - pkg:nuget/Borg.Cloud.Configuration@1.16.0
+- pkg:nuget/Borg.Cloud.Configuration@1.17.0
 - pkg:nuget/Borg.Cloud.Configuration@1.2.0
 - pkg:nuget/Borg.Cloud.Configuration@1.3.0
 - pkg:nuget/Borg.Cloud.Configuration@1.4.0

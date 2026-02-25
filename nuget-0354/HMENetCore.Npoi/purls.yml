@@ -1,3 +1,4 @@
+- pkg:nuget/HMENetCore.Npoi@10.0.5
 - pkg:nuget/HMENetCore.Npoi@6.0.0.1
 - pkg:nuget/HMENetCore.Npoi@6.0.0.10
 - pkg:nuget/HMENetCore.Npoi@6.0.0.13

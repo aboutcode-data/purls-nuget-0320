@@ -23,6 +23,8 @@
 - pkg:nuget/SbModbus@0.2.1
 - pkg:nuget/SbModbus@0.2.2
 - pkg:nuget/SbModbus@0.3.0
+- pkg:nuget/SbModbus@0.3.17
+- pkg:nuget/SbModbus@0.3.18
 - pkg:nuget/SbModbus@0.3.2
 - pkg:nuget/SbModbus@0.3.3
 - pkg:nuget/SbModbus@0.3.5

@@ -32,3 +32,4 @@
 - pkg:nuget/SDL3-CS@3.2.8.2
 - pkg:nuget/SDL3-CS@3.2.8.3
 - pkg:nuget/SDL3-CS@3.3.3-preview.20251108-095121
+- pkg:nuget/SDL3-CS@3.5.0-preview.20260213-150035

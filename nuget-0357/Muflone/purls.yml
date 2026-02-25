@@ -8,6 +8,7 @@
 - pkg:nuget/Muflone@0.9.4
 - pkg:nuget/Muflone@1.0.0
 - pkg:nuget/Muflone@1.0.1
+- pkg:nuget/Muflone@10.1.0-rc1
 - pkg:nuget/Muflone@6.0.2
 - pkg:nuget/Muflone@6.0.3
 - pkg:nuget/Muflone@6.0.4

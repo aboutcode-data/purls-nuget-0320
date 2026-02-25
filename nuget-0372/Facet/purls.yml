@@ -38,3 +38,4 @@
 - pkg:nuget/Facet@4.4.3
 - pkg:nuget/Facet@5.0.2
 - pkg:nuget/Facet@5.1.11
+- pkg:nuget/Facet@5.7.0

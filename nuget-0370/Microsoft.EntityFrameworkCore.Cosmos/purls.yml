@@ -7,6 +7,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@10.0.0-preview.7.25380.108
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@10.0.1
+- pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@11.0.0-preview.1.26104.118
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@2.2.0-preview3-35497
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@2.2.4
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@3.0.0
@@ -202,6 +203,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@9.0.0-rc.2.24474.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@9.0.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@9.0.10
+- pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@9.0.13
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@9.0.2
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@9.0.3
 - pkg:nuget/Microsoft.EntityFrameworkCore.Cosmos@9.0.4
