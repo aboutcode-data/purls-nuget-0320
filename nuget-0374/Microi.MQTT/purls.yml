@@ -7,3 +7,4 @@
 - pkg:nuget/Microi.MQTT@4.6.2
 - pkg:nuget/Microi.MQTT@4.6.3
 - pkg:nuget/Microi.MQTT@4.7.1
+- pkg:nuget/Microi.MQTT@4.7.6

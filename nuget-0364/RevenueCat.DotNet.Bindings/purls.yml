@@ -2,3 +2,5 @@
 - pkg:nuget/RevenueCat.DotNet.Bindings@5.3.0-rc1
 - pkg:nuget/RevenueCat.DotNet.Bindings@5.3.6
 - pkg:nuget/RevenueCat.DotNet.Bindings@5.38.1
+- pkg:nuget/RevenueCat.DotNet.Bindings@5.58.0
+- pkg:nuget/RevenueCat.DotNet.Bindings@5.58.0-rc1

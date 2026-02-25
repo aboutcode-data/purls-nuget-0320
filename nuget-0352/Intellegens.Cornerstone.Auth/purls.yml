@@ -43,3 +43,4 @@
 - pkg:nuget/Intellegens.Cornerstone.Auth@0.0.7
 - pkg:nuget/Intellegens.Cornerstone.Auth@0.0.8
 - pkg:nuget/Intellegens.Cornerstone.Auth@0.0.9
+- pkg:nuget/Intellegens.Cornerstone.Auth@0.0.9999-alpha-39

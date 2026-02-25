@@ -1,1 +1,3 @@
 - pkg:nuget/BccCode.Payment.Client@1.0.1
+- pkg:nuget/BccCode.Payment.Client@1.0.7
+- pkg:nuget/BccCode.Payment.Client@1.0.9
