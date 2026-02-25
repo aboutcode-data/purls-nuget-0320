@@ -3,3 +3,4 @@
 - pkg:nuget/NPv.DataAccess.Abstractions@1.0.2
 - pkg:nuget/NPv.DataAccess.Abstractions@1.1.0
 - pkg:nuget/NPv.DataAccess.Abstractions@1.1.1
+- pkg:nuget/NPv.DataAccess.Abstractions@2.6.0
