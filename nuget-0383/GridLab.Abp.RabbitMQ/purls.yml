@@ -1,2 +1,5 @@
 - pkg:nuget/GridLab.Abp.RabbitMQ@10.1.0.410
+- pkg:nuget/GridLab.Abp.RabbitMQ@10.1.0.427
+- pkg:nuget/GridLab.Abp.RabbitMQ@10.1.0.455
+- pkg:nuget/GridLab.Abp.RabbitMQ@10.1.0.471
 - pkg:nuget/GridLab.Abp.RabbitMQ@9.3.2.362
