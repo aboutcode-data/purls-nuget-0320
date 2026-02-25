@@ -7,3 +7,4 @@
 - pkg:nuget/CoverageChecker.CommandLine@0.6.4
 - pkg:nuget/CoverageChecker.CommandLine@0.6.5
 - pkg:nuget/CoverageChecker.CommandLine@0.6.6
+- pkg:nuget/CoverageChecker.CommandLine@0.9.0

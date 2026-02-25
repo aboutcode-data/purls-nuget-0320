@@ -1,2 +1,4 @@
 - pkg:nuget/RevenueCatUI.DotNet.Bindings@5.3.6
 - pkg:nuget/RevenueCatUI.DotNet.Bindings@5.38.1
+- pkg:nuget/RevenueCatUI.DotNet.Bindings@5.58.0
+- pkg:nuget/RevenueCatUI.DotNet.Bindings@5.58.0-rc1
