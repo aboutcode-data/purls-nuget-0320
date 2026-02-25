@@ -1,3 +1,4 @@
+- pkg:nuget/HMENetCore.SMS@10.0.5
 - pkg:nuget/HMENetCore.SMS@6.0.0.10
 - pkg:nuget/HMENetCore.SMS@6.0.0.11
 - pkg:nuget/HMENetCore.SMS@6.0.0.13

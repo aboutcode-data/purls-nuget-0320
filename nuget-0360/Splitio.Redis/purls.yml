@@ -200,6 +200,7 @@
 - pkg:nuget/Splitio.Redis@7.12.0-rc.161
 - pkg:nuget/Splitio.Redis@7.12.0-rc.90
 - pkg:nuget/Splitio.Redis@7.12.0-rc.94
+- pkg:nuget/Splitio.Redis@7.12.1-rc.1
 - pkg:nuget/Splitio.Redis@7.2.0
 - pkg:nuget/Splitio.Redis@7.2.0-rc11
 - pkg:nuget/Splitio.Redis@7.2.0-rc2

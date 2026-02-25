@@ -1107,6 +1107,8 @@
 - pkg:nuget/AWSSDK.TranscribeService@3.7.502.28
 - pkg:nuget/AWSSDK.TranscribeService@3.7.502.3
 - pkg:nuget/AWSSDK.TranscribeService@3.7.503.12
+- pkg:nuget/AWSSDK.TranscribeService@3.7.503.16
+- pkg:nuget/AWSSDK.TranscribeService@3.7.503.17
 - pkg:nuget/AWSSDK.TranscribeService@3.7.503.5
 - pkg:nuget/AWSSDK.TranscribeService@3.7.6
 - pkg:nuget/AWSSDK.TranscribeService@3.7.6.1

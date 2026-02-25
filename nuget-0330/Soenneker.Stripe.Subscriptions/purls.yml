@@ -1003,3 +1003,6 @@
 - pkg:nuget/Soenneker.Stripe.Subscriptions@4.0.1069
 - pkg:nuget/Soenneker.Stripe.Subscriptions@4.0.1075
 - pkg:nuget/Soenneker.Stripe.Subscriptions@4.0.1086
+- pkg:nuget/Soenneker.Stripe.Subscriptions@4.0.1113
+- pkg:nuget/Soenneker.Stripe.Subscriptions@4.0.1115
+- pkg:nuget/Soenneker.Stripe.Subscriptions@4.0.1123

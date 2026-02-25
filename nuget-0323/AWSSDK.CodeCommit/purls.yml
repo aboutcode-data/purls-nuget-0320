@@ -1210,6 +1210,8 @@
 - pkg:nuget/AWSSDK.CodeCommit@3.7.502.19
 - pkg:nuget/AWSSDK.CodeCommit@3.7.502.22
 - pkg:nuget/AWSSDK.CodeCommit@3.7.502.36
+- pkg:nuget/AWSSDK.CodeCommit@3.7.502.40
+- pkg:nuget/AWSSDK.CodeCommit@3.7.502.41
 - pkg:nuget/AWSSDK.CodeCommit@3.7.502.6
 - pkg:nuget/AWSSDK.CodeCommit@3.7.502.8
 - pkg:nuget/AWSSDK.CodeCommit@4.0.0

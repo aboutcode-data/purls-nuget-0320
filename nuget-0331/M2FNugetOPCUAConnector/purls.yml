@@ -20,3 +20,4 @@
 - pkg:nuget/M2FNugetOPCUAConnector@1.0.40
 - pkg:nuget/M2FNugetOPCUAConnector@1.0.41
 - pkg:nuget/M2FNugetOPCUAConnector@1.0.43
+- pkg:nuget/M2FNugetOPCUAConnector@10.0.0

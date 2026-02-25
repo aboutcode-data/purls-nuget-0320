@@ -68,6 +68,7 @@
 - pkg:nuget/Pulumi.Fastly@11.2.0-alpha.1763618349
 - pkg:nuget/Pulumi.Fastly@11.4.0-alpha.1767139637
 - pkg:nuget/Pulumi.Fastly@11.4.0-alpha.1769445714
+- pkg:nuget/Pulumi.Fastly@11.4.0-alpha.1771913038
 - pkg:nuget/Pulumi.Fastly@2.0.0
 - pkg:nuget/Pulumi.Fastly@2.0.0-beta.1
 - pkg:nuget/Pulumi.Fastly@2.1.0

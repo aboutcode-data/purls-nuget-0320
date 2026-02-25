@@ -1,2 +1,4 @@
 - pkg:nuget/SmartStack@2.0.0
 - pkg:nuget/SmartStack@2.0.0-preview.359
+- pkg:nuget/SmartStack@2.5.0
+- pkg:nuget/SmartStack@2.5.0-preview.532

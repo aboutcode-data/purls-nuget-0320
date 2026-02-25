@@ -129,6 +129,7 @@
 - pkg:nuget/Ecng.Compilation@1.0.28
 - pkg:nuget/Ecng.Compilation@1.0.285
 - pkg:nuget/Ecng.Compilation@1.0.29
+- pkg:nuget/Ecng.Compilation@1.0.291
 - pkg:nuget/Ecng.Compilation@1.0.3
 - pkg:nuget/Ecng.Compilation@1.0.30
 - pkg:nuget/Ecng.Compilation@1.0.31

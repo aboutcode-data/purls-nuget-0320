@@ -136,3 +136,6 @@
 - pkg:nuget/OO.DynamicCode@1.9.4
 - pkg:nuget/OO.DynamicCode@2.0.0
 - pkg:nuget/OO.DynamicCode@2.0.3
+- pkg:nuget/OO.DynamicCode@2.1.2
+- pkg:nuget/OO.DynamicCode@2.1.3
+- pkg:nuget/OO.DynamicCode@2.1.4

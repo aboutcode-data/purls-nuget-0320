@@ -1211,6 +1211,7 @@
 - pkg:nuget/AWSSDK.Glacier@3.7.503.1
 - pkg:nuget/AWSSDK.Glacier@3.7.503.15
 - pkg:nuget/AWSSDK.Glacier@3.7.503.22
+- pkg:nuget/AWSSDK.Glacier@3.7.503.27
 - pkg:nuget/AWSSDK.Glacier@3.7.503.5
 - pkg:nuget/AWSSDK.Glacier@4.0.0
 - pkg:nuget/AWSSDK.Glacier@4.0.0-preview
