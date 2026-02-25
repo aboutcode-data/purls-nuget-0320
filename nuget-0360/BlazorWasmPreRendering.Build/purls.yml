@@ -59,3 +59,4 @@
 - pkg:nuget/BlazorWasmPreRendering.Build@6.0.0-preview.1
 - pkg:nuget/BlazorWasmPreRendering.Build@6.0.0-preview.2
 - pkg:nuget/BlazorWasmPreRendering.Build@7.0.0-preview.1
+- pkg:nuget/BlazorWasmPreRendering.Build@8.0.0-preview.1
