@@ -7,6 +7,7 @@
 - pkg:nuget/MCore.API@1.7.0
 - pkg:nuget/MCore.API@1.8.0
 - pkg:nuget/MCore.API@1.9.0
+- pkg:nuget/MCore.API@10.0.5
 - pkg:nuget/MCore.API@2.0.0
 - pkg:nuget/MCore.API@2.1.0
 - pkg:nuget/MCore.API@2.2.0
