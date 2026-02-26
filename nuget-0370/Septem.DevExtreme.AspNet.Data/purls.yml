@@ -4,3 +4,5 @@
 - pkg:nuget/Septem.DevExtreme.AspNet.Data@3.0.1
 - pkg:nuget/Septem.DevExtreme.AspNet.Data@4.0.0
 - pkg:nuget/Septem.DevExtreme.AspNet.Data@4.0.1
+- pkg:nuget/Septem.DevExtreme.AspNet.Data@4.0.3
+- pkg:nuget/Septem.DevExtreme.AspNet.Data@4.0.4
