@@ -15,6 +15,7 @@
 - pkg:nuget/TinyTypeGen.AspNetCore@1.0.0.15-alpha
 - pkg:nuget/TinyTypeGen.AspNetCore@1.0.0.16-alpha
 - pkg:nuget/TinyTypeGen.AspNetCore@1.0.0.17-alpha
+- pkg:nuget/TinyTypeGen.AspNetCore@1.0.0.188-alpha
 - pkg:nuget/TinyTypeGen.AspNetCore@1.0.0.19-alpha
 - pkg:nuget/TinyTypeGen.AspNetCore@1.0.0.2-alpha
 - pkg:nuget/TinyTypeGen.AspNetCore@1.0.0.20-alpha
