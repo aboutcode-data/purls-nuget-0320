@@ -1,1 +1,2 @@
 - pkg:nuget/Eksen.EntityFrameworkCore.SqlServer@0.1.5
+- pkg:nuget/Eksen.EntityFrameworkCore.SqlServer@0.1.9
