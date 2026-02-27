@@ -25,3 +25,4 @@
 - pkg:nuget/AutomationEngine.Entities@1.0.8
 - pkg:nuget/AutomationEngine.Entities@1.0.9
 - pkg:nuget/AutomationEngine.Entities@1.1.25
+- pkg:nuget/AutomationEngine.Entities@1.2.11
