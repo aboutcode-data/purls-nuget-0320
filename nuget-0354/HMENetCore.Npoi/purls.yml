@@ -1,4 +1,5 @@
 - pkg:nuget/HMENetCore.Npoi@10.0.5
+- pkg:nuget/HMENetCore.Npoi@10.0.6
 - pkg:nuget/HMENetCore.Npoi@6.0.0.1
 - pkg:nuget/HMENetCore.Npoi@6.0.0.10
 - pkg:nuget/HMENetCore.Npoi@6.0.0.13
@@ -32,3 +33,4 @@
 - pkg:nuget/HMENetCore.Npoi@6.0.7
 - pkg:nuget/HMENetCore.Npoi@6.0.8
 - pkg:nuget/HMENetCore.Npoi@6.1.0
+- pkg:nuget/HMENetCore.Npoi@6.1.7
