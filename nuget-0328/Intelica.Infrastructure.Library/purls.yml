@@ -58,6 +58,9 @@
 - pkg:nuget/Intelica.Infrastructure.Library@1.1.13
 - pkg:nuget/Intelica.Infrastructure.Library@1.1.14
 - pkg:nuget/Intelica.Infrastructure.Library@1.1.15
+- pkg:nuget/Intelica.Infrastructure.Library@1.1.154
+- pkg:nuget/Intelica.Infrastructure.Library@1.1.155
+- pkg:nuget/Intelica.Infrastructure.Library@1.1.156
 - pkg:nuget/Intelica.Infrastructure.Library@1.1.16
 - pkg:nuget/Intelica.Infrastructure.Library@1.1.17
 - pkg:nuget/Intelica.Infrastructure.Library@1.1.18
