@@ -1,3 +1,7 @@
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.PostgreSql@10.0.2
 - pkg:nuget/eQuantic.Core.Data.EntityFramework.PostgreSql@4.3.10
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.PostgreSql@4.4.2
 - pkg:nuget/eQuantic.Core.Data.EntityFramework.PostgreSql@8.0.0
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.PostgreSql@8.1.2
 - pkg:nuget/eQuantic.Core.Data.EntityFramework.PostgreSql@9.0.0
+- pkg:nuget/eQuantic.Core.Data.EntityFramework.PostgreSql@9.1.2
