@@ -79,4 +79,5 @@
 - pkg:nuget/DHI.Services@15.1.0-rc4
 - pkg:nuget/DHI.Services@16.0.0
 - pkg:nuget/DHI.Services@16.1.0
+- pkg:nuget/DHI.Services@16.2.1
 - pkg:nuget/DHI.Services@9.0.1
