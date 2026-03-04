@@ -58,6 +58,7 @@
 - pkg:nuget/Bones.Monitoring@0.0.74
 - pkg:nuget/Bones.Monitoring@1.0.0
 - pkg:nuget/Bones.Monitoring@1.0.1
+- pkg:nuget/Bones.Monitoring@1.0.11-dom-renderer-2
 - pkg:nuget/Bones.Monitoring@1.0.2
 - pkg:nuget/Bones.Monitoring@1.0.3
 - pkg:nuget/Bones.Monitoring@1.0.4
