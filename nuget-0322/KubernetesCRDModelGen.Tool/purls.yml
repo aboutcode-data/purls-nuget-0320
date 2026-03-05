@@ -282,3 +282,4 @@
 - pkg:nuget/KubernetesCRDModelGen.Tool@1.0.0-alpha.620
 - pkg:nuget/KubernetesCRDModelGen.Tool@1.0.0-alpha.621
 - pkg:nuget/KubernetesCRDModelGen.Tool@1.1.2
+- pkg:nuget/KubernetesCRDModelGen.Tool@1.2.4
