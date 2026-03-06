@@ -14,3 +14,4 @@
 - pkg:nuget/OasReader@1.6.11.9
 - pkg:nuget/OasReader@1.6.16.15
 - pkg:nuget/OasReader@1.6.16.16
+- pkg:nuget/OasReader@3.4.0.18
