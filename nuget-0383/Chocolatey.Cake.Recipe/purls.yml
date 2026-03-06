@@ -50,6 +50,7 @@
 - pkg:nuget/Chocolatey.Cake.Recipe@0.3.1
 - pkg:nuget/Chocolatey.Cake.Recipe@0.30.0
 - pkg:nuget/Chocolatey.Cake.Recipe@0.30.1
+- pkg:nuget/Chocolatey.Cake.Recipe@0.32.0
 - pkg:nuget/Chocolatey.Cake.Recipe@0.4.0
 - pkg:nuget/Chocolatey.Cake.Recipe@0.4.1
 - pkg:nuget/Chocolatey.Cake.Recipe@0.4.2
