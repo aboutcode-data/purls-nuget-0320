@@ -1,3 +1,4 @@
+- pkg:nuget/DHI.Services.Places.WebApi@16.0.0
 - pkg:nuget/DHI.Services.Places.WebApi@2.0.0
 - pkg:nuget/DHI.Services.Places.WebApi@3.0.0
 - pkg:nuget/DHI.Services.Places.WebApi@3.0.0-rc1
