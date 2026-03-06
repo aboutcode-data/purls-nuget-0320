@@ -56,6 +56,7 @@
 - pkg:nuget/workwise.common@1.0.8
 - pkg:nuget/workwise.common@1.0.9
 - pkg:nuget/workwise.common@1.2.17
+- pkg:nuget/workwise.common@1.2.22
 - pkg:nuget/workwise.common@1.2.5
 - pkg:nuget/workwise.common@1.2.6
 - pkg:nuget/workwise.common@1.2.7
