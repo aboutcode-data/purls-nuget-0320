@@ -61,6 +61,7 @@
 - pkg:nuget/StockSharp.Web.DomainModel@5.0.156
 - pkg:nuget/StockSharp.Web.DomainModel@5.0.157
 - pkg:nuget/StockSharp.Web.DomainModel@5.0.16
+- pkg:nuget/StockSharp.Web.DomainModel@5.0.161
 - pkg:nuget/StockSharp.Web.DomainModel@5.0.17
 - pkg:nuget/StockSharp.Web.DomainModel@5.0.18
 - pkg:nuget/StockSharp.Web.DomainModel@5.0.19
