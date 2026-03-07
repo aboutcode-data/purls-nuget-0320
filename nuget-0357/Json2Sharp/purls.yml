@@ -39,6 +39,7 @@
 - pkg:nuget/Json2Sharp@1.1.8-nightly-039
 - pkg:nuget/Json2Sharp@1.1.9
 - pkg:nuget/Json2Sharp@1.1.9-nightly-040
+- pkg:nuget/Json2Sharp@1.2.0
 - pkg:nuget/Json2Sharp@1.2.0-nightly-056
 - pkg:nuget/Json2Sharp@1.2.0-nightly-057
 - pkg:nuget/Json2Sharp@1.2.0-nightly-058
