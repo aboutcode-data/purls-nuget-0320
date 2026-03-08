@@ -5,3 +5,4 @@
 - pkg:nuget/FSharp.Data.Runtime.Utilities@6.4.1
 - pkg:nuget/FSharp.Data.Runtime.Utilities@6.5.0
 - pkg:nuget/FSharp.Data.Runtime.Utilities@6.6.0
+- pkg:nuget/FSharp.Data.Runtime.Utilities@8.1.0
