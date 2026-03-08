@@ -1,3 +1,4 @@
+- pkg:nuget/NuvTools.Security@10.1.1
 - pkg:nuget/NuvTools.Security@6.5.0
 - pkg:nuget/NuvTools.Security@7.0.0
 - pkg:nuget/NuvTools.Security@7.0.1
