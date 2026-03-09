@@ -44,3 +44,4 @@
 - pkg:nuget/Vortice.Win32.Graphics.Dxgi@2.2.6
 - pkg:nuget/Vortice.Win32.Graphics.Dxgi@2.2.7
 - pkg:nuget/Vortice.Win32.Graphics.Dxgi@2.3.0
+- pkg:nuget/Vortice.Win32.Graphics.Dxgi@2.4.1
