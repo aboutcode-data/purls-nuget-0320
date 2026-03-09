@@ -18,3 +18,4 @@
 - pkg:nuget/SharpDevLib@2.0.0.9-alpha
 - pkg:nuget/SharpDevLib@2.0.1
 - pkg:nuget/SharpDevLib@2.0.2
+- pkg:nuget/SharpDevLib@2.0.6.7
