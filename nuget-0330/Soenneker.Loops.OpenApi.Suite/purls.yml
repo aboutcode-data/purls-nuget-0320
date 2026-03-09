@@ -30,6 +30,7 @@
 - pkg:nuget/Soenneker.Loops.OpenApi.Suite@4.0.128
 - pkg:nuget/Soenneker.Loops.OpenApi.Suite@4.0.130
 - pkg:nuget/Soenneker.Loops.OpenApi.Suite@4.0.135
+- pkg:nuget/Soenneker.Loops.OpenApi.Suite@4.0.136
 - pkg:nuget/Soenneker.Loops.OpenApi.Suite@4.0.36
 - pkg:nuget/Soenneker.Loops.OpenApi.Suite@4.0.41
 - pkg:nuget/Soenneker.Loops.OpenApi.Suite@4.0.46
