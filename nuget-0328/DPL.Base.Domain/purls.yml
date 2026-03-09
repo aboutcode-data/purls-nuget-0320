@@ -68,4 +68,5 @@
 - pkg:nuget/DPL.Base.Domain@1.0.70
 - pkg:nuget/DPL.Base.Domain@1.0.8
 - pkg:nuget/DPL.Base.Domain@1.0.81
+- pkg:nuget/DPL.Base.Domain@1.0.84
 - pkg:nuget/DPL.Base.Domain@1.0.9
