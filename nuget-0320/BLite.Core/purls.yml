@@ -1,2 +1,3 @@
 - pkg:nuget/BLite.Core@1.1.1
 - pkg:nuget/BLite.Core@3.0.0
+- pkg:nuget/BLite.Core@3.4.1
