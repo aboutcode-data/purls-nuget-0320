@@ -9,6 +9,7 @@
 - pkg:nuget/BinaryLibs.Repository@0.108.0
 - pkg:nuget/BinaryLibs.Repository@0.109.0
 - pkg:nuget/BinaryLibs.Repository@0.114.0
+- pkg:nuget/BinaryLibs.Repository@0.124.0
 - pkg:nuget/BinaryLibs.Repository@0.62.0
 - pkg:nuget/BinaryLibs.Repository@0.63.0
 - pkg:nuget/BinaryLibs.Repository@0.64.0
