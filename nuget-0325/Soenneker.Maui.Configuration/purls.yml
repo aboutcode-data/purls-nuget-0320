@@ -40,6 +40,8 @@
 - pkg:nuget/Soenneker.Maui.Configuration@3.0.198
 - pkg:nuget/Soenneker.Maui.Configuration@3.0.2
 - pkg:nuget/Soenneker.Maui.Configuration@3.0.20
+- pkg:nuget/Soenneker.Maui.Configuration@3.0.203
+- pkg:nuget/Soenneker.Maui.Configuration@3.0.205
 - pkg:nuget/Soenneker.Maui.Configuration@3.0.21
 - pkg:nuget/Soenneker.Maui.Configuration@3.0.22
 - pkg:nuget/Soenneker.Maui.Configuration@3.0.23

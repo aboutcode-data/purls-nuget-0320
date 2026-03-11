@@ -850,3 +850,5 @@
 - pkg:nuget/Soenneker.Extensions.Configuration@4.0.756
 - pkg:nuget/Soenneker.Extensions.Configuration@4.0.762
 - pkg:nuget/Soenneker.Extensions.Configuration@4.0.766
+- pkg:nuget/Soenneker.Extensions.Configuration@4.0.792
+- pkg:nuget/Soenneker.Extensions.Configuration@4.0.793
