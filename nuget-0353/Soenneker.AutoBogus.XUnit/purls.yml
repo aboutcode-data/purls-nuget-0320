@@ -3,3 +3,4 @@
 - pkg:nuget/Soenneker.AutoBogus.XUnit@4.0.29
 - pkg:nuget/Soenneker.AutoBogus.XUnit@4.0.35
 - pkg:nuget/Soenneker.AutoBogus.XUnit@4.0.44
+- pkg:nuget/Soenneker.AutoBogus.XUnit@4.0.48
