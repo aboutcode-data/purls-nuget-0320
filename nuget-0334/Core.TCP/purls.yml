@@ -33,3 +33,4 @@
 - pkg:nuget/Core.TCP@3.2.0
 - pkg:nuget/Core.TCP@3.3.0
 - pkg:nuget/Core.TCP@4.2.2
+- pkg:nuget/Core.TCP@5.1.0

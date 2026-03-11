@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Grpc.JsonTranscoding@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.Grpc.JsonTranscoding@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.AspNetCore.Grpc.JsonTranscoding@10.0.1
+- pkg:nuget/Microsoft.AspNetCore.Grpc.JsonTranscoding@11.0.0-preview.2.26159.112
 - pkg:nuget/Microsoft.AspNetCore.Grpc.JsonTranscoding@7.0.0
 - pkg:nuget/Microsoft.AspNetCore.Grpc.JsonTranscoding@7.0.0-preview.4.22251.1
 - pkg:nuget/Microsoft.AspNetCore.Grpc.JsonTranscoding@7.0.0-preview.5.22303.8
