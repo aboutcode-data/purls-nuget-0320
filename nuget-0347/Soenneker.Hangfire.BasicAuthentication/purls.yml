@@ -2095,3 +2095,5 @@
 - pkg:nuget/Soenneker.Hangfire.BasicAuthentication@4.0.1973
 - pkg:nuget/Soenneker.Hangfire.BasicAuthentication@4.0.1974
 - pkg:nuget/Soenneker.Hangfire.BasicAuthentication@4.0.1987
+- pkg:nuget/Soenneker.Hangfire.BasicAuthentication@4.0.1990
+- pkg:nuget/Soenneker.Hangfire.BasicAuthentication@4.0.1993

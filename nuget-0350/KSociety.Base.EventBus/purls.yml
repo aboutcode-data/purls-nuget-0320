@@ -95,5 +95,6 @@
 - pkg:nuget/KSociety.Base.EventBus@1.4.34
 - pkg:nuget/KSociety.Base.EventBus@1.5.11
 - pkg:nuget/KSociety.Base.EventBus@1.5.13
+- pkg:nuget/KSociety.Base.EventBus@1.5.28
 - pkg:nuget/KSociety.Base.EventBus@1.5.5
 - pkg:nuget/KSociety.Base.EventBus@1.5.9
