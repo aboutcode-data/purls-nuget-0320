@@ -155,6 +155,7 @@
 - pkg:nuget/Google.Apis.Blogger.v3@1.7.0.28-beta
 - pkg:nuget/Google.Apis.Blogger.v3@1.7.0.29-beta
 - pkg:nuget/Google.Apis.Blogger.v3@1.7.0.30-beta
+- pkg:nuget/Google.Apis.Blogger.v3@1.73.0.4085
 - pkg:nuget/Google.Apis.Blogger.v3@1.8.0.300-rc
 - pkg:nuget/Google.Apis.Blogger.v3@1.8.1.310
 - pkg:nuget/Google.Apis.Blogger.v3@1.8.1.320
