@@ -1,1 +1,2 @@
+- pkg:nuget/Testcontainers.KurrentDb@4.11.0
 - pkg:nuget/Testcontainers.KurrentDb@4.9.0
