@@ -1990,3 +1990,5 @@
 - pkg:nuget/Soenneker.SendGrid.Client.Validation@4.0.2147
 - pkg:nuget/Soenneker.SendGrid.Client.Validation@4.0.2152
 - pkg:nuget/Soenneker.SendGrid.Client.Validation@4.0.2159
+- pkg:nuget/Soenneker.SendGrid.Client.Validation@4.0.2166
+- pkg:nuget/Soenneker.SendGrid.Client.Validation@4.0.2168
