@@ -1,1 +1,2 @@
 - pkg:nuget/Trax.Scheduler.Sqs@1.14.0
+- pkg:nuget/Trax.Scheduler.Sqs@1.16.1
