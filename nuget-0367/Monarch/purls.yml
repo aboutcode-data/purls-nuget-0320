@@ -133,6 +133,7 @@
 - pkg:nuget/Monarch@3.0.99
 - pkg:nuget/Monarch@4.0.0
 - pkg:nuget/Monarch@4.0.1
+- pkg:nuget/Monarch@4.0.10
 - pkg:nuget/Monarch@4.0.2
 - pkg:nuget/Monarch@4.0.3
 - pkg:nuget/Monarch@4.0.4
