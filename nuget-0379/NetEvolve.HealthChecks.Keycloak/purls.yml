@@ -1,3 +1,4 @@
 - pkg:nuget/NetEvolve.HealthChecks.Keycloak@4.14.3
 - pkg:nuget/NetEvolve.HealthChecks.Keycloak@4.15.1
 - pkg:nuget/NetEvolve.HealthChecks.Keycloak@4.20.61
+- pkg:nuget/NetEvolve.HealthChecks.Keycloak@5.13.51
