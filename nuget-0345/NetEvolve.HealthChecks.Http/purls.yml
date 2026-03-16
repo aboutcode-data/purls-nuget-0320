@@ -1,1 +1,2 @@
 - pkg:nuget/NetEvolve.HealthChecks.Http@4.20.61
+- pkg:nuget/NetEvolve.HealthChecks.Http@5.13.51
