@@ -18,3 +18,5 @@
 - pkg:nuget/SandevLibrary@2.4.0
 - pkg:nuget/SandevLibrary@2.5.0
 - pkg:nuget/SandevLibrary@2.5.1
+- pkg:nuget/SandevLibrary@2.7.0
+- pkg:nuget/SandevLibrary@2.8.0
