@@ -122,3 +122,5 @@
 - pkg:nuget/Intelica.Infrastructure.Library@1.1.99
 - pkg:nuget/Intelica.Infrastructure.Library@10.1.176
 - pkg:nuget/Intelica.Infrastructure.Library@10.1.178
+- pkg:nuget/Intelica.Infrastructure.Library@10.1.180
+- pkg:nuget/Intelica.Infrastructure.Library@10.1.181
