@@ -1,3 +1,4 @@
+- pkg:nuget/VirtoCommerce.NativePaymentMethods.Data.MySql@3.1000.0
 - pkg:nuget/VirtoCommerce.NativePaymentMethods.Data.MySql@3.204.0
 - pkg:nuget/VirtoCommerce.NativePaymentMethods.Data.MySql@3.204.0-alpha.54
 - pkg:nuget/VirtoCommerce.NativePaymentMethods.Data.MySql@3.205.0
