@@ -41,3 +41,4 @@
 - pkg:nuget/Skyline.DataMiner.CICD.Tools.Packager@3.0.1
 - pkg:nuget/Skyline.DataMiner.CICD.Tools.Packager@4.0.0-alpha
 - pkg:nuget/Skyline.DataMiner.CICD.Tools.Packager@5.1.3
+- pkg:nuget/Skyline.DataMiner.CICD.Tools.Packager@5.1.5
