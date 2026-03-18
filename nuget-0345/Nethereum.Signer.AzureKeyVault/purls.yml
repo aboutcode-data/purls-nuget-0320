@@ -55,3 +55,4 @@
 - pkg:nuget/Nethereum.Signer.AzureKeyVault@4.8.0
 - pkg:nuget/Nethereum.Signer.AzureKeyVault@4.9.0
 - pkg:nuget/Nethereum.Signer.AzureKeyVault@5.0.0
+- pkg:nuget/Nethereum.Signer.AzureKeyVault@6.0.4
