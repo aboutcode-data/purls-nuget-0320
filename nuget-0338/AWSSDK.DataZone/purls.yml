@@ -367,6 +367,7 @@
 - pkg:nuget/AWSSDK.DataZone@3.7.516.9
 - pkg:nuget/AWSSDK.DataZone@3.7.518.3
 - pkg:nuget/AWSSDK.DataZone@3.7.518.4
+- pkg:nuget/AWSSDK.DataZone@3.7.518.7
 - pkg:nuget/AWSSDK.DataZone@4.0.0
 - pkg:nuget/AWSSDK.DataZone@4.0.0-preview
 - pkg:nuget/AWSSDK.DataZone@4.0.0-preview.10

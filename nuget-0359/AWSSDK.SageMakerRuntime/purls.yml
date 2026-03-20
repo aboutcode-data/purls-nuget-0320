@@ -1157,6 +1157,7 @@
 - pkg:nuget/AWSSDK.SageMakerRuntime@3.7.501.40
 - pkg:nuget/AWSSDK.SageMakerRuntime@3.7.501.8
 - pkg:nuget/AWSSDK.SageMakerRuntime@3.7.502
+- pkg:nuget/AWSSDK.SageMakerRuntime@3.7.502.10
 - pkg:nuget/AWSSDK.SageMakerRuntime@3.7.502.7
 - pkg:nuget/AWSSDK.SageMakerRuntime@4.0.0
 - pkg:nuget/AWSSDK.SageMakerRuntime@4.0.0-preview
