@@ -46,3 +46,4 @@
 - pkg:nuget/Xaml.Behaviors@11.3.6.4
 - pkg:nuget/Xaml.Behaviors@11.3.8.2
 - pkg:nuget/Xaml.Behaviors@11.3.9
+- pkg:nuget/Xaml.Behaviors@12.0.0-rc1
