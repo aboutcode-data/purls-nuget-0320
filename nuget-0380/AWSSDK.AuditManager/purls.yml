@@ -746,6 +746,7 @@
 - pkg:nuget/AWSSDK.AuditManager@3.7.503.41
 - pkg:nuget/AWSSDK.AuditManager@3.7.503.48
 - pkg:nuget/AWSSDK.AuditManager@3.7.503.51
+- pkg:nuget/AWSSDK.AuditManager@3.7.503.52
 - pkg:nuget/AWSSDK.AuditManager@3.7.503.8
 - pkg:nuget/AWSSDK.AuditManager@3.7.6
 - pkg:nuget/AWSSDK.AuditManager@3.7.6.1

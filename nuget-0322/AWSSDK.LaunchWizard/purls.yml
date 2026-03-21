@@ -346,6 +346,7 @@
 - pkg:nuget/AWSSDK.LaunchWizard@3.7.502.8
 - pkg:nuget/AWSSDK.LaunchWizard@3.7.503.20
 - pkg:nuget/AWSSDK.LaunchWizard@3.7.503.23
+- pkg:nuget/AWSSDK.LaunchWizard@3.7.503.24
 - pkg:nuget/AWSSDK.LaunchWizard@3.7.503.3
 - pkg:nuget/AWSSDK.LaunchWizard@3.7.503.8
 - pkg:nuget/AWSSDK.LaunchWizard@4.0.0

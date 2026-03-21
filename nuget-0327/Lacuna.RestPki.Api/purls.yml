@@ -30,3 +30,5 @@
 - pkg:nuget/Lacuna.RestPki.Api@3.0.0
 - pkg:nuget/Lacuna.RestPki.Api@3.3.0-rc02
 - pkg:nuget/Lacuna.RestPki.Api@3.3.0-rc05
+- pkg:nuget/Lacuna.RestPki.Api@3.7.1
+- pkg:nuget/Lacuna.RestPki.Api@4.0.5

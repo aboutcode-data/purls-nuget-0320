@@ -8,6 +8,7 @@
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.101.0-alpha.12190
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.101.0-alpha.12192
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.101.0-alpha.12195
+- pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.1010.0-alpha.13258-vcst-4696-clean-modularity
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.200.0
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.201.0
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.202.0
