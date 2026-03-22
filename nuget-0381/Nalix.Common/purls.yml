@@ -27,6 +27,7 @@
 - pkg:nuget/Nalix.Common@10.7.0
 - pkg:nuget/Nalix.Common@11.6.1
 - pkg:nuget/Nalix.Common@11.7.1
+- pkg:nuget/Nalix.Common@11.7.6
 - pkg:nuget/Nalix.Common@2.1.7
 - pkg:nuget/Nalix.Common@2.5.7
 - pkg:nuget/Nalix.Common@2.7.1
