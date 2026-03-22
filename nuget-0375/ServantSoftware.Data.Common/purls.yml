@@ -219,6 +219,7 @@
 - pkg:nuget/ServantSoftware.Data.Common@1.0.0.364
 - pkg:nuget/ServantSoftware.Data.Common@1.0.0.383
 - pkg:nuget/ServantSoftware.Data.Common@1.0.0.384
+- pkg:nuget/ServantSoftware.Data.Common@1.0.0.410
 - pkg:nuget/ServantSoftware.Data.Common@1.0.0.84
 - pkg:nuget/ServantSoftware.Data.Common@1.0.0.90
 - pkg:nuget/ServantSoftware.Data.Common@1.0.0.91
