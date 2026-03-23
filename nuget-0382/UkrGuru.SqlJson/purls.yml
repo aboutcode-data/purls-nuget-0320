@@ -11,6 +11,7 @@
 - pkg:nuget/UkrGuru.SqlJson@10.1.7
 - pkg:nuget/UkrGuru.SqlJson@10.1.8
 - pkg:nuget/UkrGuru.SqlJson@10.1.9
+- pkg:nuget/UkrGuru.SqlJson@11.0.0
 - pkg:nuget/UkrGuru.SqlJson@2.0.0
 - pkg:nuget/UkrGuru.SqlJson@2.1.0
 - pkg:nuget/UkrGuru.SqlJson@2.1.2
