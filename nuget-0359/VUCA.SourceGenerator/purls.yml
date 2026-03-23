@@ -39,6 +39,7 @@
 - pkg:nuget/VUCA.SourceGenerator@0.138.0
 - pkg:nuget/VUCA.SourceGenerator@0.139.0
 - pkg:nuget/VUCA.SourceGenerator@0.140.0
+- pkg:nuget/VUCA.SourceGenerator@0.148.0
 - pkg:nuget/VUCA.SourceGenerator@0.3.0
 - pkg:nuget/VUCA.SourceGenerator@0.3.1
 - pkg:nuget/VUCA.SourceGenerator@0.69.0
