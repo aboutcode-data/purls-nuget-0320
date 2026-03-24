@@ -26,3 +26,4 @@
 - pkg:nuget/Citms.Discovery.Consul@1.2.0
 - pkg:nuget/Citms.Discovery.Consul@1.2.0-preview1
 - pkg:nuget/Citms.Discovery.Consul@1.2.0-preview2
+- pkg:nuget/Citms.Discovery.Consul@1.2.1
