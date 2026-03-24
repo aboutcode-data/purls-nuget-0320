@@ -1,3 +1,5 @@
+- pkg:nuget/Graphify@1.0.0-rc.14
+- pkg:nuget/Graphify@1.0.0-rc.15
 - pkg:nuget/Graphify@1.0.0-rc.2
 - pkg:nuget/Graphify@1.0.0-rc.3
 - pkg:nuget/Graphify@1.0.0-unstable
