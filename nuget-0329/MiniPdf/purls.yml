@@ -1,1 +1,5 @@
 - pkg:nuget/MiniPdf@0.0.0
+- pkg:nuget/MiniPdf@0.22.0
+- pkg:nuget/MiniPdf@0.23.0
+- pkg:nuget/MiniPdf@0.24.0
+- pkg:nuget/MiniPdf@0.25.0

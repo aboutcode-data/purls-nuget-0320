@@ -4,3 +4,4 @@
 - pkg:nuget/OpenFeature.Contrib.Provider.FeatureManagement@0.0.4-preview
 - pkg:nuget/OpenFeature.Contrib.Provider.FeatureManagement@0.1.0-preview
 - pkg:nuget/OpenFeature.Contrib.Provider.FeatureManagement@0.1.1-preview
+- pkg:nuget/OpenFeature.Contrib.Provider.FeatureManagement@0.1.2-preview

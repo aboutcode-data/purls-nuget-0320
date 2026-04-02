@@ -22,3 +22,5 @@
 - pkg:nuget/bunit.generators@2.0.41-preview
 - pkg:nuget/bunit.generators@2.0.49-preview
 - pkg:nuget/bunit.generators@2.0.50-preview
+- pkg:nuget/bunit.generators@2.7.1-preview
+- pkg:nuget/bunit.generators@2.7.2

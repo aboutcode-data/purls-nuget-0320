@@ -2,3 +2,7 @@
 - pkg:nuget/BLite.Core@3.0.0
 - pkg:nuget/BLite.Core@3.4.1
 - pkg:nuget/BLite.Core@3.8.0
+- pkg:nuget/BLite.Core@4.0.1
+- pkg:nuget/BLite.Core@4.0.2
+- pkg:nuget/BLite.Core@4.0.3
+- pkg:nuget/BLite.Core@4.1.0

@@ -1,6 +1,7 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.SnaponeWattbox@0.0.0
 - pkg:nuget/PepperDash.Essentials.Plugin.SnaponeWattbox@0.0.1-beta-17
 - pkg:nuget/PepperDash.Essentials.Plugin.SnaponeWattbox@1.0.0-feature-4-series.1
+- pkg:nuget/PepperDash.Essentials.Plugin.SnaponeWattbox@1.0.0-feature-4-series.3
 - pkg:nuget/PepperDash.Essentials.Plugin.SnaponeWattbox@2.3.2
 - pkg:nuget/PepperDash.Essentials.Plugin.SnaponeWattbox@2.3.3
 - pkg:nuget/PepperDash.Essentials.Plugin.SnaponeWattbox@2.3.3-beta-17

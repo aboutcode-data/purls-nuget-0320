@@ -30,3 +30,5 @@
 - pkg:nuget/Twitch.EventSub.Websocket@2.1.2
 - pkg:nuget/Twitch.EventSub.Websocket@2.2.0
 - pkg:nuget/Twitch.EventSub.Websocket@2.2.1
+- pkg:nuget/Twitch.EventSub.Websocket@3.0.1
+- pkg:nuget/Twitch.EventSub.Websocket@3.0.2

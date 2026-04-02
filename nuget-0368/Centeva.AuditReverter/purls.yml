@@ -2,3 +2,4 @@
 - pkg:nuget/Centeva.AuditReverter@2.0.0
 - pkg:nuget/Centeva.AuditReverter@2.0.1
 - pkg:nuget/Centeva.AuditReverter@4.1.0
+- pkg:nuget/Centeva.AuditReverter@5.1.1

@@ -55,3 +55,7 @@
 - pkg:nuget/Centurion.Equipped.SharedLibrary@1.6.1
 - pkg:nuget/Centurion.Equipped.SharedLibrary@1.6.2
 - pkg:nuget/Centurion.Equipped.SharedLibrary@1.6.3
+- pkg:nuget/Centurion.Equipped.SharedLibrary@1.8.1
+- pkg:nuget/Centurion.Equipped.SharedLibrary@1.8.2
+- pkg:nuget/Centurion.Equipped.SharedLibrary@1.8.3
+- pkg:nuget/Centurion.Equipped.SharedLibrary@1.8.4

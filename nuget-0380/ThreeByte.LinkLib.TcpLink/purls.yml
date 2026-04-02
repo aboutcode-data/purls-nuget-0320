@@ -5,3 +5,4 @@
 - pkg:nuget/ThreeByte.LinkLib.TcpLink@1.1.0
 - pkg:nuget/ThreeByte.LinkLib.TcpLink@1.1.1
 - pkg:nuget/ThreeByte.LinkLib.TcpLink@1.1.2
+- pkg:nuget/ThreeByte.LinkLib.TcpLink@1.1.6

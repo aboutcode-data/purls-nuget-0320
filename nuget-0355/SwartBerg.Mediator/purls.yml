@@ -1,3 +1,5 @@
 - pkg:nuget/SwartBerg.Mediator@0.1.4-ci0010
 - pkg:nuget/SwartBerg.Mediator@1.0.0
+- pkg:nuget/SwartBerg.Mediator@2.0.11
+- pkg:nuget/SwartBerg.Mediator@2.0.12
 - pkg:nuget/SwartBerg.Mediator@2.0.2

@@ -17,4 +17,5 @@
 - pkg:nuget/BarcodeLib.Barcode.Word@7.4.1.7
 - pkg:nuget/BarcodeLib.Barcode.Word@7.4.1.8
 - pkg:nuget/BarcodeLib.Barcode.Word@7.4.1.9
+- pkg:nuget/BarcodeLib.Barcode.Word@8.0.0.10
 - pkg:nuget/BarcodeLib.Barcode.Word@8.0.0.7
