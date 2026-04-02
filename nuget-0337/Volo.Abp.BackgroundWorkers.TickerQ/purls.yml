@@ -1,1 +1,3 @@
 - pkg:nuget/Volo.Abp.BackgroundWorkers.TickerQ@10.1.1
+- pkg:nuget/Volo.Abp.BackgroundWorkers.TickerQ@10.2.0
+- pkg:nuget/Volo.Abp.BackgroundWorkers.TickerQ@10.3.0-rc.1
