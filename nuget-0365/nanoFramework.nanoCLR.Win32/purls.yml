@@ -116,6 +116,8 @@
 - pkg:nuget/nanoFramework.nanoCLR.Win32@1.12.4.53
 - pkg:nuget/nanoFramework.nanoCLR.Win32@1.12.4.57
 - pkg:nuget/nanoFramework.nanoCLR.Win32@1.15.0.127
+- pkg:nuget/nanoFramework.nanoCLR.Win32@1.16.0.212
+- pkg:nuget/nanoFramework.nanoCLR.Win32@1.16.0.219
 - pkg:nuget/nanoFramework.nanoCLR.Win32@1.6.1-preview.100
 - pkg:nuget/nanoFramework.nanoCLR.Win32@1.6.1-preview.111
 - pkg:nuget/nanoFramework.nanoCLR.Win32@1.6.1-preview.112

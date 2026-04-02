@@ -39,4 +39,5 @@
 - pkg:nuget/Akka.Discovery.Azure@1.5.45.1
 - pkg:nuget/Akka.Discovery.Azure@1.5.48
 - pkg:nuget/Akka.Discovery.Azure@1.5.5
+- pkg:nuget/Akka.Discovery.Azure@1.5.63
 - pkg:nuget/Akka.Discovery.Azure@1.5.7

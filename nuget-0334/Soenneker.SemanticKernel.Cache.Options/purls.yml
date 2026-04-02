@@ -64,6 +64,8 @@
 - pkg:nuget/Soenneker.SemanticKernel.Cache.Options@4.0.138
 - pkg:nuget/Soenneker.SemanticKernel.Cache.Options@4.0.149
 - pkg:nuget/Soenneker.SemanticKernel.Cache.Options@4.0.162
+- pkg:nuget/Soenneker.SemanticKernel.Cache.Options@4.0.163
+- pkg:nuget/Soenneker.SemanticKernel.Cache.Options@4.0.164
 - pkg:nuget/Soenneker.SemanticKernel.Cache.Options@4.0.65
 - pkg:nuget/Soenneker.SemanticKernel.Cache.Options@4.0.66
 - pkg:nuget/Soenneker.SemanticKernel.Cache.Options@4.0.72

@@ -1,3 +1,7 @@
+- pkg:nuget/CommonsUtility@10.1.0
+- pkg:nuget/CommonsUtility@10.1.1
+- pkg:nuget/CommonsUtility@10.1.2
+- pkg:nuget/CommonsUtility@10.2.0
 - pkg:nuget/CommonsUtility@6.0.0
 - pkg:nuget/CommonsUtility@6.0.0.1
 - pkg:nuget/CommonsUtility@6.0.1

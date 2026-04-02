@@ -172,3 +172,4 @@
 - pkg:nuget/Google.Apis.Dialogflow.v2beta1@1.70.0.3830
 - pkg:nuget/Google.Apis.Dialogflow.v2beta1@1.70.0.3876
 - pkg:nuget/Google.Apis.Dialogflow.v2beta1@1.70.0.3892
+- pkg:nuget/Google.Apis.Dialogflow.v2beta1@1.73.0.4099

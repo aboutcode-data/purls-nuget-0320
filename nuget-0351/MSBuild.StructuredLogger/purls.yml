@@ -64,6 +64,7 @@
 - pkg:nuget/MSBuild.StructuredLogger@2.2.386
 - pkg:nuget/MSBuild.StructuredLogger@2.2.441
 - pkg:nuget/MSBuild.StructuredLogger@2.2.472
+- pkg:nuget/MSBuild.StructuredLogger@2.3.154
 - pkg:nuget/MSBuild.StructuredLogger@2.3.17
 - pkg:nuget/MSBuild.StructuredLogger@2.3.45
 - pkg:nuget/MSBuild.StructuredLogger@2.3.59

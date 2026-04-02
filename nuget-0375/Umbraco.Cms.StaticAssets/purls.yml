@@ -195,6 +195,8 @@
 - pkg:nuget/Umbraco.Cms.StaticAssets@16.2.0
 - pkg:nuget/Umbraco.Cms.StaticAssets@16.2.0-rc
 - pkg:nuget/Umbraco.Cms.StaticAssets@16.2.0-rc2
+- pkg:nuget/Umbraco.Cms.StaticAssets@17.3.0
+- pkg:nuget/Umbraco.Cms.StaticAssets@17.3.0-rc3
 - pkg:nuget/Umbraco.Cms.StaticAssets@9.0.0
 - pkg:nuget/Umbraco.Cms.StaticAssets@9.0.0-rc001
 - pkg:nuget/Umbraco.Cms.StaticAssets@9.0.0-rc002

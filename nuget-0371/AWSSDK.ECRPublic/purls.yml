@@ -834,6 +834,7 @@
 - pkg:nuget/AWSSDK.ECRPublic@3.7.502.52
 - pkg:nuget/AWSSDK.ECRPublic@3.7.502.55
 - pkg:nuget/AWSSDK.ECRPublic@3.7.502.56
+- pkg:nuget/AWSSDK.ECRPublic@3.7.502.57
 - pkg:nuget/AWSSDK.ECRPublic@4.0.0
 - pkg:nuget/AWSSDK.ECRPublic@4.0.0-preview
 - pkg:nuget/AWSSDK.ECRPublic@4.0.0-preview.10
@@ -871,3 +872,7 @@
 - pkg:nuget/AWSSDK.ECRPublic@4.0.2.1
 - pkg:nuget/AWSSDK.ECRPublic@4.0.2.2
 - pkg:nuget/AWSSDK.ECRPublic@4.0.2.4
+- pkg:nuget/AWSSDK.ECRPublic@4.0.3.19
+- pkg:nuget/AWSSDK.ECRPublic@4.0.3.20
+- pkg:nuget/AWSSDK.ECRPublic@4.0.3.21
+- pkg:nuget/AWSSDK.ECRPublic@4.0.3.22

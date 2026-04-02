@@ -130,5 +130,15 @@
 - pkg:nuget/tryAGI.OpenAI@4.2.0
 - pkg:nuget/tryAGI.OpenAI@4.2.1-dev.131
 - pkg:nuget/tryAGI.OpenAI@4.2.1-dev.179
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.199
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.201
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.202
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.203
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.211
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.214
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.215
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.216
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.221
+- pkg:nuget/tryAGI.OpenAI@4.2.1-dev.222
 - pkg:nuget/tryAGI.OpenAI@4.2.1-dev.3
 - pkg:nuget/tryAGI.OpenAI@4.2.1-dev.6

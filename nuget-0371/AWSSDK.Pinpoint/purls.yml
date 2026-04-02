@@ -1092,6 +1092,7 @@
 - pkg:nuget/AWSSDK.Pinpoint@3.7.502.50
 - pkg:nuget/AWSSDK.Pinpoint@3.7.502.53
 - pkg:nuget/AWSSDK.Pinpoint@3.7.502.54
+- pkg:nuget/AWSSDK.Pinpoint@3.7.502.55
 - pkg:nuget/AWSSDK.Pinpoint@3.7.502.8
 - pkg:nuget/AWSSDK.Pinpoint@3.7.6
 - pkg:nuget/AWSSDK.Pinpoint@3.7.6.1
@@ -1237,3 +1238,7 @@
 - pkg:nuget/AWSSDK.Pinpoint@4.0.1.4
 - pkg:nuget/AWSSDK.Pinpoint@4.0.1.8
 - pkg:nuget/AWSSDK.Pinpoint@4.0.2.16
+- pkg:nuget/AWSSDK.Pinpoint@4.0.2.18
+- pkg:nuget/AWSSDK.Pinpoint@4.0.2.19
+- pkg:nuget/AWSSDK.Pinpoint@4.0.2.20
+- pkg:nuget/AWSSDK.Pinpoint@4.0.2.21

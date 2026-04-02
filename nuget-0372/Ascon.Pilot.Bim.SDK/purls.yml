@@ -215,3 +215,4 @@
 - pkg:nuget/Ascon.Pilot.Bim.SDK@25.9.87-alpha
 - pkg:nuget/Ascon.Pilot.Bim.SDK@25.9.88-alpha
 - pkg:nuget/Ascon.Pilot.Bim.SDK@25.9.89-alpha
+- pkg:nuget/Ascon.Pilot.Bim.SDK@26.4.0

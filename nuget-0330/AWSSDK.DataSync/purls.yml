@@ -1064,6 +1064,7 @@
 - pkg:nuget/AWSSDK.DataSync@3.7.505.5
 - pkg:nuget/AWSSDK.DataSync@3.7.506
 - pkg:nuget/AWSSDK.DataSync@3.7.506.3
+- pkg:nuget/AWSSDK.DataSync@3.7.506.5
 - pkg:nuget/AWSSDK.DataSync@3.7.6
 - pkg:nuget/AWSSDK.DataSync@3.7.6.1
 - pkg:nuget/AWSSDK.DataSync@3.7.6.10
@@ -1181,3 +1182,7 @@
 - pkg:nuget/AWSSDK.DataSync@4.0.6
 - pkg:nuget/AWSSDK.DataSync@4.0.9
 - pkg:nuget/AWSSDK.DataSync@4.0.9.1
+- pkg:nuget/AWSSDK.DataSync@4.0.9.2
+- pkg:nuget/AWSSDK.DataSync@4.0.9.3
+- pkg:nuget/AWSSDK.DataSync@4.0.9.4
+- pkg:nuget/AWSSDK.DataSync@4.0.9.5

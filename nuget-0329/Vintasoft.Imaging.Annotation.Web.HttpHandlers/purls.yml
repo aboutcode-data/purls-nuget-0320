@@ -201,6 +201,7 @@
 - pkg:nuget/Vintasoft.Imaging.Annotation.Web.HttpHandlers@14.1.7.1
 - pkg:nuget/Vintasoft.Imaging.Annotation.Web.HttpHandlers@14.1.8.1
 - pkg:nuget/Vintasoft.Imaging.Annotation.Web.HttpHandlers@14.1.9.1
+- pkg:nuget/Vintasoft.Imaging.Annotation.Web.HttpHandlers@15.0.8.1
 - pkg:nuget/Vintasoft.Imaging.Annotation.Web.HttpHandlers@2.0.0.1
 - pkg:nuget/Vintasoft.Imaging.Annotation.Web.HttpHandlers@2.0.0.11
 - pkg:nuget/Vintasoft.Imaging.Annotation.Web.HttpHandlers@2.0.0.15

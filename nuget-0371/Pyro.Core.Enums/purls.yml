@@ -1,4 +1,6 @@
 - pkg:nuget/Pyro.Core.Enums@1.0.5
+- pkg:nuget/Pyro.Core.Enums@1.10.13
+- pkg:nuget/Pyro.Core.Enums@1.10.14
 - pkg:nuget/Pyro.Core.Enums@1.10.4
 - pkg:nuget/Pyro.Core.Enums@1.3.0
 - pkg:nuget/Pyro.Core.Enums@1.3.1

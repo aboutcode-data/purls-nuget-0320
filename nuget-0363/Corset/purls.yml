@@ -74,3 +74,5 @@
 - pkg:nuget/Corset@5.0.5
 - pkg:nuget/Corset@5.0.6
 - pkg:nuget/Corset@5.0.7
+- pkg:nuget/Corset@5.1.0
+- pkg:nuget/Corset@5.1.1

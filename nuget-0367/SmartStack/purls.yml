@@ -3,3 +3,9 @@
 - pkg:nuget/SmartStack@2.5.0
 - pkg:nuget/SmartStack@2.5.0-preview.532
 - pkg:nuget/SmartStack@3.24.0
+- pkg:nuget/SmartStack@3.27.0
+- pkg:nuget/SmartStack@3.28.0
+- pkg:nuget/SmartStack@3.29.0
+- pkg:nuget/SmartStack@3.30.0
+- pkg:nuget/SmartStack@3.31.0
+- pkg:nuget/SmartStack@3.32.0

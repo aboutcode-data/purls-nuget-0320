@@ -330,3 +330,5 @@
 - pkg:nuget/Soenneker.DNSimple.Domains@4.0.493
 - pkg:nuget/Soenneker.DNSimple.Domains@4.0.494
 - pkg:nuget/Soenneker.DNSimple.Domains@4.0.509
+- pkg:nuget/Soenneker.DNSimple.Domains@4.0.513
+- pkg:nuget/Soenneker.DNSimple.Domains@4.0.514

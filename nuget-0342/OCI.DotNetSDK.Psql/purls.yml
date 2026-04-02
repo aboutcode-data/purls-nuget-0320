@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Psql@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Psql@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Psql@127.0.0
+- pkg:nuget/OCI.DotNetSDK.Psql@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Psql@75.0.0
 - pkg:nuget/OCI.DotNetSDK.Psql@76.0.0
 - pkg:nuget/OCI.DotNetSDK.Psql@77.0.0

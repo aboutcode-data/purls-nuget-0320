@@ -1,3 +1,8 @@
 - pkg:nuget/CheckNugetPackages.DotNetCliTool@1.0.0
 - pkg:nuget/CheckNugetPackages.DotNetCliTool@2.0.0
 - pkg:nuget/CheckNugetPackages.DotNetCliTool@2.2.0
+- pkg:nuget/CheckNugetPackages.DotNetCliTool@3.1.0
+- pkg:nuget/CheckNugetPackages.DotNetCliTool@3.2.0
+- pkg:nuget/CheckNugetPackages.DotNetCliTool@3.3.0
+- pkg:nuget/CheckNugetPackages.DotNetCliTool@3.4.0
+- pkg:nuget/CheckNugetPackages.DotNetCliTool@3.5.0

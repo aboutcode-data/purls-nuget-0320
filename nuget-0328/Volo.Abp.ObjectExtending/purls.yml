@@ -1,4 +1,6 @@
 - pkg:nuget/Volo.Abp.ObjectExtending@10.1.1
+- pkg:nuget/Volo.Abp.ObjectExtending@10.2.0
+- pkg:nuget/Volo.Abp.ObjectExtending@10.3.0-rc.1
 - pkg:nuget/Volo.Abp.ObjectExtending@2.4.0
 - pkg:nuget/Volo.Abp.ObjectExtending@2.4.1
 - pkg:nuget/Volo.Abp.ObjectExtending@2.5.0

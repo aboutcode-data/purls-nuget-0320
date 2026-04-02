@@ -22,6 +22,9 @@
 - pkg:nuget/uplink.NET.Droid@2.12.3441-pre
 - pkg:nuget/uplink.NET.Droid@2.13.3477
 - pkg:nuget/uplink.NET.Droid@2.13.3484
+- pkg:nuget/uplink.NET.Droid@2.14.3736
+- pkg:nuget/uplink.NET.Droid@2.14.3753
+- pkg:nuget/uplink.NET.Droid@2.14.3772
 - pkg:nuget/uplink.NET.Droid@2.6.1254
 - pkg:nuget/uplink.NET.Droid@2.6.1283
 - pkg:nuget/uplink.NET.Droid@2.6.1328

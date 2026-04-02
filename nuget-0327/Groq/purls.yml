@@ -2,5 +2,11 @@
 - pkg:nuget/Groq@0.0.0-dev.100
 - pkg:nuget/Groq@0.0.0-dev.101
 - pkg:nuget/Groq@0.0.0-dev.104
+- pkg:nuget/Groq@0.0.0-dev.114
+- pkg:nuget/Groq@0.0.0-dev.116
+- pkg:nuget/Groq@0.0.0-dev.118
+- pkg:nuget/Groq@0.0.0-dev.121
+- pkg:nuget/Groq@0.0.0-dev.124
+- pkg:nuget/Groq@0.0.0-dev.126
 - pkg:nuget/Groq@0.0.0-dev.3
 - pkg:nuget/Groq@0.0.0-dev.6

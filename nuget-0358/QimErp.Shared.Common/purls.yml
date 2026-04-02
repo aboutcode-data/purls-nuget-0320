@@ -1,1 +1,13 @@
+- pkg:nuget/QimErp.Shared.Common@2.0.17
 - pkg:nuget/QimErp.Shared.Common@2.0.9
+- pkg:nuget/QimErp.Shared.Common@3.0.0
+- pkg:nuget/QimErp.Shared.Common@3.0.2
+- pkg:nuget/QimErp.Shared.Common@3.0.8
+- pkg:nuget/QimErp.Shared.Common@3.0.9
+- pkg:nuget/QimErp.Shared.Common@3.1.1
+- pkg:nuget/QimErp.Shared.Common@3.1.3
+- pkg:nuget/QimErp.Shared.Common@3.1.4
+- pkg:nuget/QimErp.Shared.Common@3.1.5
+- pkg:nuget/QimErp.Shared.Common@3.1.6
+- pkg:nuget/QimErp.Shared.Common@3.1.8
+- pkg:nuget/QimErp.Shared.Common@3.1.9

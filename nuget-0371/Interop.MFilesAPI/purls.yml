@@ -386,3 +386,7 @@
 - pkg:nuget/Interop.MFilesAPI@25.8.8
 - pkg:nuget/Interop.MFilesAPI@25.8.9
 - pkg:nuget/Interop.MFilesAPI@26.2.6
+- pkg:nuget/Interop.MFilesAPI@26.2.9
+- pkg:nuget/Interop.MFilesAPI@26.3.13
+- pkg:nuget/Interop.MFilesAPI@26.3.14
+- pkg:nuget/Interop.MFilesAPI@26.3.15

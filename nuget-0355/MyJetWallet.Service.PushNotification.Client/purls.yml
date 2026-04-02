@@ -44,6 +44,7 @@
 - pkg:nuget/MyJetWallet.Service.PushNotification.Client@2.11.2
 - pkg:nuget/MyJetWallet.Service.PushNotification.Client@2.13.2
 - pkg:nuget/MyJetWallet.Service.PushNotification.Client@2.13.3
+- pkg:nuget/MyJetWallet.Service.PushNotification.Client@2.15.0
 - pkg:nuget/MyJetWallet.Service.PushNotification.Client@2.8.17
 - pkg:nuget/MyJetWallet.Service.PushNotification.Client@2.8.18
 - pkg:nuget/MyJetWallet.Service.PushNotification.Client@2.8.19

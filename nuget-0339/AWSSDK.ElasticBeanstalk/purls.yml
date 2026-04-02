@@ -1226,6 +1226,7 @@
 - pkg:nuget/AWSSDK.ElasticBeanstalk@3.7.502.8
 - pkg:nuget/AWSSDK.ElasticBeanstalk@3.7.503.7
 - pkg:nuget/AWSSDK.ElasticBeanstalk@3.7.503.8
+- pkg:nuget/AWSSDK.ElasticBeanstalk@3.7.503.9
 - pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.0
 - pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.0-preview
 - pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.0-preview.10
@@ -1264,3 +1265,7 @@
 - pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.1.2
 - pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.1.4
 - pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.1.8
+- pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.3.4
+- pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.3.5
+- pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.3.6
+- pkg:nuget/AWSSDK.ElasticBeanstalk@4.0.3.7
