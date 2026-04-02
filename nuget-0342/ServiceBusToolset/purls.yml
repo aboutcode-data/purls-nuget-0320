@@ -1,2 +1,7 @@
+- pkg:nuget/ServiceBusToolset@1.0.0-alpha.38
+- pkg:nuget/ServiceBusToolset@1.0.0-alpha.39
+- pkg:nuget/ServiceBusToolset@1.0.0-alpha.40
+- pkg:nuget/ServiceBusToolset@1.0.0-alpha.41
+- pkg:nuget/ServiceBusToolset@1.0.0-alpha.42
 - pkg:nuget/ServiceBusToolset@1.0.0-alpha.8
 - pkg:nuget/ServiceBusToolset@1.0.0-alpha.9

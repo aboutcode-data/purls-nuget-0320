@@ -9,3 +9,4 @@
 - pkg:nuget/Forma.Core@1.0.9-g98dfbfb9f9
 - pkg:nuget/Forma.Core@1.1.0-preview-0001
 - pkg:nuget/Forma.Core@1.1.2
+- pkg:nuget/Forma.Core@2.1.2

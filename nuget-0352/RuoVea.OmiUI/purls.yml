@@ -1,1 +1,6 @@
 - pkg:nuget/RuoVea.OmiUI@10.0.0
+- pkg:nuget/RuoVea.OmiUI@10.0.0.1
+- pkg:nuget/RuoVea.OmiUI@6.0.0.11
+- pkg:nuget/RuoVea.OmiUI@7.0.0.11
+- pkg:nuget/RuoVea.OmiUI@8.0.0.11
+- pkg:nuget/RuoVea.OmiUI@9.0.0.1
