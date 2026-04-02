@@ -16,3 +16,4 @@
 - pkg:nuget/Microsoft.Debugging.TargetModel.SDK@20250411.1210.0
 - pkg:nuget/Microsoft.Debugging.TargetModel.SDK@20250611.1057.0
 - pkg:nuget/Microsoft.Debugging.TargetModel.SDK@20250825.1142.0
+- pkg:nuget/Microsoft.Debugging.TargetModel.SDK@20260319.1511.0

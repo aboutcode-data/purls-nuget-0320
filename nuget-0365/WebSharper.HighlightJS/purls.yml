@@ -1,4 +1,5 @@
 - pkg:nuget/WebSharper.HighlightJS@10.0.0.604-beta1
+- pkg:nuget/WebSharper.HighlightJS@10.1.0.667
 - pkg:nuget/WebSharper.HighlightJS@4.0.10.30-rc
 - pkg:nuget/WebSharper.HighlightJS@4.0.13.33
 - pkg:nuget/WebSharper.HighlightJS@4.0.15.35

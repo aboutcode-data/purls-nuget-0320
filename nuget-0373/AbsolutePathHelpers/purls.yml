@@ -99,6 +99,9 @@
 - pkg:nuget/AbsolutePathHelpers@0.3.42%2Bbuild.20260114235939.7a24898
 - pkg:nuget/AbsolutePathHelpers@0.3.5%2Bbuild.20250809183743.faeedb7
 - pkg:nuget/AbsolutePathHelpers@0.3.6%2Bbuild.20250814234825.f3480bc
+- pkg:nuget/AbsolutePathHelpers@0.3.64%2Bbuild.20260402041812.870de9a
+- pkg:nuget/AbsolutePathHelpers@0.3.65%2Bbuild.20260402042346.611c1bc
+- pkg:nuget/AbsolutePathHelpers@0.3.66%2Bbuild.20260402043123.551634a
 - pkg:nuget/AbsolutePathHelpers@0.3.7%2Bbuild.20250817055835.bc237f6
 - pkg:nuget/AbsolutePathHelpers@0.3.8%2Bbuild.20250820030530.1676748
 - pkg:nuget/AbsolutePathHelpers@0.3.9%2Bbuild.20250820234639.567f0e0

@@ -90,3 +90,4 @@
 - pkg:nuget/GroupDocs.Conversion@25.6.0
 - pkg:nuget/GroupDocs.Conversion@25.7.0
 - pkg:nuget/GroupDocs.Conversion@25.8.0
+- pkg:nuget/GroupDocs.Conversion@26.3.0

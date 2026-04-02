@@ -32,3 +32,4 @@
 - pkg:nuget/Google_GenerativeAI.Microsoft@3.1.1
 - pkg:nuget/Google_GenerativeAI.Microsoft@3.2.0
 - pkg:nuget/Google_GenerativeAI.Microsoft@3.3.0
+- pkg:nuget/Google_GenerativeAI.Microsoft@3.6.4

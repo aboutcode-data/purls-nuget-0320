@@ -56,6 +56,7 @@
 - pkg:nuget/DotStat.Test.Shared@29.0.0
 - pkg:nuget/DotStat.Test.Shared@29.0.1
 - pkg:nuget/DotStat.Test.Shared@30.0.0
+- pkg:nuget/DotStat.Test.Shared@31.1.0
 - pkg:nuget/DotStat.Test.Shared@5.1.4
 - pkg:nuget/DotStat.Test.Shared@5.2.6
 - pkg:nuget/DotStat.Test.Shared@6.0.1

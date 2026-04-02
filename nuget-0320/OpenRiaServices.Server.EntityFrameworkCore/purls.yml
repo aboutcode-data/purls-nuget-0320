@@ -7,3 +7,4 @@
 - pkg:nuget/OpenRiaServices.Server.EntityFrameworkCore@2.0.2-preview.2
 - pkg:nuget/OpenRiaServices.Server.EntityFrameworkCore@3.0.0
 - pkg:nuget/OpenRiaServices.Server.EntityFrameworkCore@3.1.0
+- pkg:nuget/OpenRiaServices.Server.EntityFrameworkCore@4.0.0

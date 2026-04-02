@@ -26,3 +26,4 @@
 - pkg:nuget/Rainbow.CSharp.SDK.WebRTC@2.0.1
 - pkg:nuget/Rainbow.CSharp.SDK.WebRTC@2.1.0
 - pkg:nuget/Rainbow.CSharp.SDK.WebRTC@2.2.0
+- pkg:nuget/Rainbow.CSharp.SDK.WebRTC@2.6.0
