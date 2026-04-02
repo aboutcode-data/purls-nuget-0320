@@ -1,2 +1,4 @@
 - pkg:nuget/FclEx.Xunit.v3@2.0.2
 - pkg:nuget/FclEx.Xunit.v3@2.0.7
+- pkg:nuget/FclEx.Xunit.v3@2.1.0
+- pkg:nuget/FclEx.Xunit.v3@2.1.1
