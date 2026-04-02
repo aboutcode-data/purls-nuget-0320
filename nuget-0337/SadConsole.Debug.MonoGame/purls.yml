@@ -2,3 +2,7 @@
 - pkg:nuget/SadConsole.Debug.MonoGame@10.5.0-debug
 - pkg:nuget/SadConsole.Debug.MonoGame@10.6.0
 - pkg:nuget/SadConsole.Debug.MonoGame@10.6.0-debug
+- pkg:nuget/SadConsole.Debug.MonoGame@10.7.0
+- pkg:nuget/SadConsole.Debug.MonoGame@10.7.0-debug
+- pkg:nuget/SadConsole.Debug.MonoGame@10.8.0
+- pkg:nuget/SadConsole.Debug.MonoGame@10.8.0-debug
