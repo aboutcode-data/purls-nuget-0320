@@ -1,1 +1,2 @@
 - pkg:nuget/KubernetesClient.Informer@1.0.0-alpha.3
+- pkg:nuget/KubernetesClient.Informer@1.0.0-alpha.5

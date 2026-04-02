@@ -7,3 +7,6 @@
 - pkg:nuget/Shark.AuthorizationServer.Sdk@0.1.0.19
 - pkg:nuget/Shark.AuthorizationServer.Sdk@0.1.0.20
 - pkg:nuget/Shark.AuthorizationServer.Sdk@0.1.0.21
+- pkg:nuget/Shark.AuthorizationServer.Sdk@0.1.0.31
+- pkg:nuget/Shark.AuthorizationServer.Sdk@0.1.0.32
+- pkg:nuget/Shark.AuthorizationServer.Sdk@0.1.0.33

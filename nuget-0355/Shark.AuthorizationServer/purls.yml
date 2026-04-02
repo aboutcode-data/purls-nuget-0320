@@ -11,3 +11,6 @@
 - pkg:nuget/Shark.AuthorizationServer@0.1.0.23
 - pkg:nuget/Shark.AuthorizationServer@0.1.0.24
 - pkg:nuget/Shark.AuthorizationServer@0.1.0.25
+- pkg:nuget/Shark.AuthorizationServer@0.1.0.42
+- pkg:nuget/Shark.AuthorizationServer@0.1.0.43
+- pkg:nuget/Shark.AuthorizationServer@0.1.0.44
