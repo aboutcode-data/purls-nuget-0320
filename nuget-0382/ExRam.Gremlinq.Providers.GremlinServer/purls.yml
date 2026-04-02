@@ -87,6 +87,7 @@
 - pkg:nuget/ExRam.Gremlinq.Providers.GremlinServer@13.1.0
 - pkg:nuget/ExRam.Gremlinq.Providers.GremlinServer@13.1.1
 - pkg:nuget/ExRam.Gremlinq.Providers.GremlinServer@13.2.1
+- pkg:nuget/ExRam.Gremlinq.Providers.GremlinServer@13.8.0
 - pkg:nuget/ExRam.Gremlinq.Providers.GremlinServer@8.0.0
 - pkg:nuget/ExRam.Gremlinq.Providers.GremlinServer@8.0.0-preview-0109
 - pkg:nuget/ExRam.Gremlinq.Providers.GremlinServer@8.0.0-preview-0127

@@ -100,3 +100,5 @@
 - pkg:nuget/CasCap.Common.Logging@4.3.7
 - pkg:nuget/CasCap.Common.Logging@4.3.8
 - pkg:nuget/CasCap.Common.Logging@4.3.9
+- pkg:nuget/CasCap.Common.Logging@4.8.0
+- pkg:nuget/CasCap.Common.Logging@4.8.1

@@ -94,3 +94,5 @@
 - pkg:nuget/pauldeen79.CrossCutting.Data.Abstractions@4.0.2
 - pkg:nuget/pauldeen79.CrossCutting.Data.Abstractions@5.0.0
 - pkg:nuget/pauldeen79.CrossCutting.Data.Abstractions@7.0.1
+- pkg:nuget/pauldeen79.CrossCutting.Data.Abstractions@7.0.3
+- pkg:nuget/pauldeen79.CrossCutting.Data.Abstractions@7.0.4

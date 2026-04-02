@@ -5,3 +5,7 @@
 - pkg:nuget/Mapster.Immutable@1.0.2-pre01
 - pkg:nuget/Mapster.Immutable@1.0.3-pre01
 - pkg:nuget/Mapster.Immutable@1.0.3-pre02
+- pkg:nuget/Mapster.Immutable@10.0.7-pre01
+- pkg:nuget/Mapster.Immutable@10.0.7-pre02
+- pkg:nuget/Mapster.Immutable@10.0.7-pre03
+- pkg:nuget/Mapster.Immutable@10.0.7-pre04

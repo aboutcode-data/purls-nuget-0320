@@ -6,6 +6,7 @@
 - pkg:nuget/Quartz.OpenTelemetry.Instrumentation@3.13.1
 - pkg:nuget/Quartz.OpenTelemetry.Instrumentation@3.14.0
 - pkg:nuget/Quartz.OpenTelemetry.Instrumentation@3.15.0
+- pkg:nuget/Quartz.OpenTelemetry.Instrumentation@3.17.0
 - pkg:nuget/Quartz.OpenTelemetry.Instrumentation@3.2.0
 - pkg:nuget/Quartz.OpenTelemetry.Instrumentation@3.2.1
 - pkg:nuget/Quartz.OpenTelemetry.Instrumentation@3.2.2

@@ -64,3 +64,4 @@
 - pkg:nuget/CommonNetFuncs.Sql.PostgreSql@3.8.13
 - pkg:nuget/CommonNetFuncs.Sql.PostgreSql@3.8.38
 - pkg:nuget/CommonNetFuncs.Sql.PostgreSql@4.0.17
+- pkg:nuget/CommonNetFuncs.Sql.PostgreSql@4.0.23

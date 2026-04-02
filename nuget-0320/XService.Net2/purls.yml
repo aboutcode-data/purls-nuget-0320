@@ -14,3 +14,5 @@
 - pkg:nuget/XService.Net2@2024.3.25.1537
 - pkg:nuget/XService.Net2@2024.6.10.2345
 - pkg:nuget/XService.Net2@2025.2.21.1754
+- pkg:nuget/XService.Net2@2026.3.30.1643
+- pkg:nuget/XService.Net2@2026.3.30.1806

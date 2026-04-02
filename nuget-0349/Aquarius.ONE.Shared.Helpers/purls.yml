@@ -19,6 +19,8 @@
 - pkg:nuget/Aquarius.ONE.Shared.Helpers@2.1.0-AQI-6245-06
 - pkg:nuget/Aquarius.ONE.Shared.Helpers@2.1.1
 - pkg:nuget/Aquarius.ONE.Shared.Helpers@2.1.1-AQI-6764-01
+- pkg:nuget/Aquarius.ONE.Shared.Helpers@2.10.1-IH-1222
+- pkg:nuget/Aquarius.ONE.Shared.Helpers@2.11.0-IH-1159-2
 - pkg:nuget/Aquarius.ONE.Shared.Helpers@2.2.0
 - pkg:nuget/Aquarius.ONE.Shared.Helpers@2.2.0-AQI-8061-3
 - pkg:nuget/Aquarius.ONE.Shared.Helpers@2.3.0
@@ -36,3 +38,6 @@
 - pkg:nuget/Aquarius.ONE.Shared.Helpers@2.6.0-IH-910-2
 - pkg:nuget/Aquarius.ONE.Shared.Helpers@2.6.0-IH-911-1
 - pkg:nuget/Aquarius.ONE.Shared.Helpers@2.7.0-IH-955-2
+- pkg:nuget/Aquarius.ONE.Shared.Helpers@3.0.0
+- pkg:nuget/Aquarius.ONE.Shared.Helpers@3.0.1
+- pkg:nuget/Aquarius.ONE.Shared.Helpers@3.0.2

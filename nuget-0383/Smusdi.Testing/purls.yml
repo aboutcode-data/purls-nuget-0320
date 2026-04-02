@@ -1,3 +1,5 @@
+- pkg:nuget/Smusdi.Testing@10.1.0
+- pkg:nuget/Smusdi.Testing@10.1.1
 - pkg:nuget/Smusdi.Testing@6.2.8
 - pkg:nuget/Smusdi.Testing@6.2.9
 - pkg:nuget/Smusdi.Testing@7.0.0

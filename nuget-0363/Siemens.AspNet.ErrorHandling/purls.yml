@@ -31,3 +31,5 @@
 - pkg:nuget/Siemens.AspNet.ErrorHandling@5.2.1%2B2
 - pkg:nuget/Siemens.AspNet.ErrorHandling@5.2.2
 - pkg:nuget/Siemens.AspNet.ErrorHandling@5.2.3
+- pkg:nuget/Siemens.AspNet.ErrorHandling@7.0.1
+- pkg:nuget/Siemens.AspNet.ErrorHandling@7.0.2
