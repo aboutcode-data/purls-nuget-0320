@@ -1,1 +1,2 @@
 - pkg:nuget/Ruya.EntityFrameworkCore.SqlServer@8.2.11
+- pkg:nuget/Ruya.EntityFrameworkCore.SqlServer@8.2.23
