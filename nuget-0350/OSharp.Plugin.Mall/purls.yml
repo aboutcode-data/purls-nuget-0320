@@ -1,4 +1,5 @@
 - pkg:nuget/OSharp.Plugin.Mall@10.0.5
+- pkg:nuget/OSharp.Plugin.Mall@10.0.6
 - pkg:nuget/OSharp.Plugin.Mall@8.1.1
 - pkg:nuget/OSharp.Plugin.Mall@8.1.5
 - pkg:nuget/OSharp.Plugin.Mall@8.1.6

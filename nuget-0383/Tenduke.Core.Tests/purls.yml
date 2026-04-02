@@ -20,3 +20,4 @@
 - pkg:nuget/Tenduke.Core.Tests@7.0.0
 - pkg:nuget/Tenduke.Core.Tests@7.1.0
 - pkg:nuget/Tenduke.Core.Tests@8.1.0
+- pkg:nuget/Tenduke.Core.Tests@9.0.4
