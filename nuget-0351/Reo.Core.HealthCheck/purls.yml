@@ -11,6 +11,7 @@
 - pkg:nuget/Reo.Core.HealthCheck@10.0.84
 - pkg:nuget/Reo.Core.HealthCheck@10.0.85
 - pkg:nuget/Reo.Core.HealthCheck@10.0.9
+- pkg:nuget/Reo.Core.HealthCheck@10.0.90
 - pkg:nuget/Reo.Core.HealthCheck@5.0.17835
 - pkg:nuget/Reo.Core.HealthCheck@5.0.17836
 - pkg:nuget/Reo.Core.HealthCheck@5.0.17837
