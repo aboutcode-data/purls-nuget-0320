@@ -17,3 +17,4 @@
 - pkg:nuget/IF.APM.OpenTelemetry.Proto@6.2.1
 - pkg:nuget/IF.APM.OpenTelemetry.Proto@6.2.2
 - pkg:nuget/IF.APM.OpenTelemetry.Proto@6.4.0
+- pkg:nuget/IF.APM.OpenTelemetry.Proto@8.0.1
