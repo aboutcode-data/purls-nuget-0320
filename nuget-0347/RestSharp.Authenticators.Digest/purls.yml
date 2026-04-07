@@ -10,3 +10,4 @@
 - pkg:nuget/RestSharp.Authenticators.Digest@1.6.0
 - pkg:nuget/RestSharp.Authenticators.Digest@2.0.0
 - pkg:nuget/RestSharp.Authenticators.Digest@2.1.0
+- pkg:nuget/RestSharp.Authenticators.Digest@3.0.0
