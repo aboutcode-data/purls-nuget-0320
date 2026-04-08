@@ -79,3 +79,4 @@
 - pkg:nuget/Toggly.FeatureManagement@2.8.1
 - pkg:nuget/Toggly.FeatureManagement@2.8.2
 - pkg:nuget/Toggly.FeatureManagement@2.9.0
+- pkg:nuget/Toggly.FeatureManagement@3.2.4
