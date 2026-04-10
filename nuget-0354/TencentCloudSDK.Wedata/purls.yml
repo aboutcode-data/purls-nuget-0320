@@ -273,6 +273,7 @@
 - pkg:nuget/TencentCloudSDK.Wedata@3.0.1381
 - pkg:nuget/TencentCloudSDK.Wedata@3.0.1394
 - pkg:nuget/TencentCloudSDK.Wedata@3.0.1397
+- pkg:nuget/TencentCloudSDK.Wedata@3.0.1405
 - pkg:nuget/TencentCloudSDK.Wedata@3.0.549
 - pkg:nuget/TencentCloudSDK.Wedata@3.0.550
 - pkg:nuget/TencentCloudSDK.Wedata@3.0.551
