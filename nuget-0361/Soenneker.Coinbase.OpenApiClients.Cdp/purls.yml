@@ -29,3 +29,4 @@
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.83
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.84
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.91
+- pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.93
