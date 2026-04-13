@@ -184,6 +184,7 @@
 - pkg:nuget/GoogleApi@5.8.1
 - pkg:nuget/GoogleApi@5.8.10
 - pkg:nuget/GoogleApi@5.8.11
+- pkg:nuget/GoogleApi@5.8.14
 - pkg:nuget/GoogleApi@5.8.2
 - pkg:nuget/GoogleApi@5.8.3
 - pkg:nuget/GoogleApi@5.8.4
