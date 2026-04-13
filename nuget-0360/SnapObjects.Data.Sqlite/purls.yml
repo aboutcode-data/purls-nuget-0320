@@ -22,6 +22,7 @@
 - pkg:nuget/SnapObjects.Data.Sqlite@4.3.2
 - pkg:nuget/SnapObjects.Data.Sqlite@4.3.3
 - pkg:nuget/SnapObjects.Data.Sqlite@4.3.4
+- pkg:nuget/SnapObjects.Data.Sqlite@4.3.5
 - pkg:nuget/SnapObjects.Data.Sqlite@5.0.0
 - pkg:nuget/SnapObjects.Data.Sqlite@5.0.0-beta
 - pkg:nuget/SnapObjects.Data.Sqlite@5.0.0-beta2
