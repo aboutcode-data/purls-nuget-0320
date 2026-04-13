@@ -613,6 +613,7 @@
 - pkg:nuget/Catalyst.DataProcessing.Engine.SqlServer@6.0.2409.302
 - pkg:nuget/Catalyst.DataProcessing.Engine.SqlServer@6.0.2505.601
 - pkg:nuget/Catalyst.DataProcessing.Engine.SqlServer@6.0.2506.3001
+- pkg:nuget/Catalyst.DataProcessing.Engine.SqlServer@6.0.2604.1304
 - pkg:nuget/Catalyst.DataProcessing.Engine.SqlServer@6.1.2107.1201
 - pkg:nuget/Catalyst.DataProcessing.Engine.SqlServer@6.1.2107.1202
 - pkg:nuget/Catalyst.DataProcessing.Engine.SqlServer@6.1.2107.1203
