@@ -10,6 +10,7 @@
 - pkg:nuget/Any@10.0.0
 - pkg:nuget/Any@10.1.0
 - pkg:nuget/Any@10.2.0
+- pkg:nuget/Any@11.0.0
 - pkg:nuget/Any@2.0.0
 - pkg:nuget/Any@2.0.1
 - pkg:nuget/Any@2.1.0
