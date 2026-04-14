@@ -43,6 +43,7 @@
 - pkg:nuget/Foundatio.Utf8Json@11.0.8
 - pkg:nuget/Foundatio.Utf8Json@11.1.0
 - pkg:nuget/Foundatio.Utf8Json@12.0.0
+- pkg:nuget/Foundatio.Utf8Json@13.0.0-beta5
 - pkg:nuget/Foundatio.Utf8Json@7.0.1706
 - pkg:nuget/Foundatio.Utf8Json@7.0.1738
 - pkg:nuget/Foundatio.Utf8Json@7.0.1818
