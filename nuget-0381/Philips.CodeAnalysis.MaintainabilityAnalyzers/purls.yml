@@ -63,3 +63,4 @@
 - pkg:nuget/Philips.CodeAnalysis.MaintainabilityAnalyzers@1.9.0
 - pkg:nuget/Philips.CodeAnalysis.MaintainabilityAnalyzers@1.9.0-prerelease.3247
 - pkg:nuget/Philips.CodeAnalysis.MaintainabilityAnalyzers@1.9.1
+- pkg:nuget/Philips.CodeAnalysis.MaintainabilityAnalyzers@2.0.0
