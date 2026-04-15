@@ -132,3 +132,6 @@
 - pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@4.0.227
 - pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@4.0.242
 - pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@4.0.243
+- pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@4.0.244
+- pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@4.0.245
+- pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@4.0.247
