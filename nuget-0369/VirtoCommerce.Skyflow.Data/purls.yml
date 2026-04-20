@@ -21,3 +21,4 @@
 - pkg:nuget/VirtoCommerce.Skyflow.Data@3.810.0-alpha.39-vcst-2376-update-graphql
 - pkg:nuget/VirtoCommerce.Skyflow.Data@3.900.0
 - pkg:nuget/VirtoCommerce.Skyflow.Data@3.901.0
+- pkg:nuget/VirtoCommerce.Skyflow.Data@3.901.2
