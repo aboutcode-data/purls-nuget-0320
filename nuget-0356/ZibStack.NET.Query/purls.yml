@@ -2,3 +2,4 @@
 - pkg:nuget/ZibStack.NET.Query@2.3.0
 - pkg:nuget/ZibStack.NET.Query@2.5.1
 - pkg:nuget/ZibStack.NET.Query@2.7.5
+- pkg:nuget/ZibStack.NET.Query@3.2.0
