@@ -1,4 +1,6 @@
 - pkg:nuget/Microsoft.SourceLink.Tools@1.1.0
 - pkg:nuget/Microsoft.SourceLink.Tools@1.1.1
+- pkg:nuget/Microsoft.SourceLink.Tools@10.0.107
+- pkg:nuget/Microsoft.SourceLink.Tools@10.0.203
 - pkg:nuget/Microsoft.SourceLink.Tools@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.SourceLink.Tools@8.0.0
