@@ -23,6 +23,7 @@
 - pkg:nuget/CK.CodeGen.Roslyn@13.0.0
 - pkg:nuget/CK.CodeGen.Roslyn@14.0.0
 - pkg:nuget/CK.CodeGen.Roslyn@14.0.1
+- pkg:nuget/CK.CodeGen.Roslyn@15.0.0
 - pkg:nuget/CK.CodeGen.Roslyn@2.0.0
 - pkg:nuget/CK.CodeGen.Roslyn@2.1.0
 - pkg:nuget/CK.CodeGen.Roslyn@3.0.0
