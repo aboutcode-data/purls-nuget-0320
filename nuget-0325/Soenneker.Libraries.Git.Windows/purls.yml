@@ -35,4 +35,5 @@
 - pkg:nuget/Soenneker.Libraries.Git.Windows@3.0.77
 - pkg:nuget/Soenneker.Libraries.Git.Windows@3.0.83
 - pkg:nuget/Soenneker.Libraries.Git.Windows@3.0.966
+- pkg:nuget/Soenneker.Libraries.Git.Windows@4.0.1160
 - pkg:nuget/Soenneker.Libraries.Git.Windows@4.0.2
