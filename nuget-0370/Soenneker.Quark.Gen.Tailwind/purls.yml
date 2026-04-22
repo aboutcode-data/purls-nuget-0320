@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind@4.0.105
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind@4.0.113
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind@4.0.114
+- pkg:nuget/Soenneker.Quark.Gen.Tailwind@4.0.115
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind@4.0.15
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind@4.0.30
 - pkg:nuget/Soenneker.Quark.Gen.Tailwind@4.0.33
