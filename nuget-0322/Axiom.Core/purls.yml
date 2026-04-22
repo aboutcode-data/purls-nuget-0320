@@ -5,3 +5,4 @@
 - pkg:nuget/Axiom.Core@0.9.0
 - pkg:nuget/Axiom.Core@1.0.0
 - pkg:nuget/Axiom.Core@1.1.0
+- pkg:nuget/Axiom.Core@2.1.0
