@@ -1,1 +1,2 @@
 - pkg:nuget/RuntimeEfCore@0.7.4
+- pkg:nuget/RuntimeEfCore@0.8.1
