@@ -1,2 +1,3 @@
 - pkg:nuget/WuicCore@0.7.4
 - pkg:nuget/WuicCore@0.8.1
+- pkg:nuget/WuicCore@0.9.1
