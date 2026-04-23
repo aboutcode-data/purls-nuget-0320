@@ -1,1 +1,2 @@
 - pkg:nuget/CoreGame.SharedMeta.Auth.Google@0.10.0
+- pkg:nuget/CoreGame.SharedMeta.Auth.Google@0.12.3
