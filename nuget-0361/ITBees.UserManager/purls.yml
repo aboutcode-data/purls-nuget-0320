@@ -241,6 +241,7 @@
 - pkg:nuget/ITBees.UserManager@8.0.370
 - pkg:nuget/ITBees.UserManager@8.0.378
 - pkg:nuget/ITBees.UserManager@8.0.379
+- pkg:nuget/ITBees.UserManager@8.0.386
 - pkg:nuget/ITBees.UserManager@8.0.61
 - pkg:nuget/ITBees.UserManager@8.0.62
 - pkg:nuget/ITBees.UserManager@8.0.63
