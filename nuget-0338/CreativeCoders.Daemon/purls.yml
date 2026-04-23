@@ -23,3 +23,4 @@
 - pkg:nuget/CreativeCoders.Daemon@5.1.0
 - pkg:nuget/CreativeCoders.Daemon@5.4.0
 - pkg:nuget/CreativeCoders.Daemon@6.7.1
+- pkg:nuget/CreativeCoders.Daemon@6.7.3
