@@ -67,6 +67,7 @@
 - pkg:nuget/NosCore.Packets@15.0.0
 - pkg:nuget/NosCore.Packets@15.0.1
 - pkg:nuget/NosCore.Packets@16.0.0
+- pkg:nuget/NosCore.Packets@16.10.0
 - pkg:nuget/NosCore.Packets@16.8.0
 - pkg:nuget/NosCore.Packets@16.8.1
 - pkg:nuget/NosCore.Packets@2.0.0
