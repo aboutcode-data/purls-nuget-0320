@@ -40,3 +40,4 @@
 - pkg:nuget/Core.TCP@5.1.8
 - pkg:nuget/Core.TCP@5.1.9
 - pkg:nuget/Core.TCP@5.2.8
+- pkg:nuget/Core.TCP@5.3.4

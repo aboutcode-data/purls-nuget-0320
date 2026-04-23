@@ -499,3 +499,4 @@
 - pkg:nuget/Soenneker.Utils.ResettableLazy@3.0.432
 - pkg:nuget/Soenneker.Utils.ResettableLazy@3.0.433
 - pkg:nuget/Soenneker.Utils.ResettableLazy@3.0.434
+- pkg:nuget/Soenneker.Utils.ResettableLazy@4.0.446
