@@ -1,1 +1,2 @@
 - pkg:nuget/UniversalQueryBuilder.EntityFramework@10.0.2-beta
+- pkg:nuget/UniversalQueryBuilder.EntityFramework@10.0.3-beta
