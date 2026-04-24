@@ -1,1 +1,4 @@
 - pkg:nuget/SparkStudio.Finance.SDK@1.0.12
+- pkg:nuget/SparkStudio.Finance.SDK@1.0.19
+- pkg:nuget/SparkStudio.Finance.SDK@1.0.20
+- pkg:nuget/SparkStudio.Finance.SDK@1.0.21
