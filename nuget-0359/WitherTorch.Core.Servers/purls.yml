@@ -8,3 +8,4 @@
 - pkg:nuget/WitherTorch.Core.Servers@1.8.3-CI-6
 - pkg:nuget/WitherTorch.Core.Servers@1.8.3-CI-7
 - pkg:nuget/WitherTorch.Core.Servers@1.8.3-CI-8
+- pkg:nuget/WitherTorch.Core.Servers@1.8.4-CI-10
