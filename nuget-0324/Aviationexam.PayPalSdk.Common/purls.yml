@@ -1,2 +1,3 @@
 - pkg:nuget/Aviationexam.PayPalSdk.Common@3.0.0
 - pkg:nuget/Aviationexam.PayPalSdk.Common@3.0.1-nightly.0
+- pkg:nuget/Aviationexam.PayPalSdk.Common@3.3.0
