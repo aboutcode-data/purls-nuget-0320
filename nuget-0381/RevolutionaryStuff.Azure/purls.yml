@@ -6,6 +6,7 @@
 - pkg:nuget/RevolutionaryStuff.Azure@4.11.80
 - pkg:nuget/RevolutionaryStuff.Azure@4.111.90
 - pkg:nuget/RevolutionaryStuff.Azure@4.146.100
+- pkg:nuget/RevolutionaryStuff.Azure@4.149.100
 - pkg:nuget/RevolutionaryStuff.Azure@4.15.80
 - pkg:nuget/RevolutionaryStuff.Azure@4.16.80
 - pkg:nuget/RevolutionaryStuff.Azure@4.2.80
