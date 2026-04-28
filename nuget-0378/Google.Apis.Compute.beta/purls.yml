@@ -332,3 +332,4 @@
 - pkg:nuget/Google.Apis.Compute.beta@1.69.0.3731
 - pkg:nuget/Google.Apis.Compute.beta@1.69.0.3757
 - pkg:nuget/Google.Apis.Compute.beta@1.73.0.4096
+- pkg:nuget/Google.Apis.Compute.beta@1.73.0.4117

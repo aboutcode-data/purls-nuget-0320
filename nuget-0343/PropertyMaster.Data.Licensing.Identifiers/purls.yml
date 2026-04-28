@@ -38,3 +38,4 @@
 - pkg:nuget/PropertyMaster.Data.Licensing.Identifiers@3.3.446-beta
 - pkg:nuget/PropertyMaster.Data.Licensing.Identifiers@3.3.476-beta
 - pkg:nuget/PropertyMaster.Data.Licensing.Identifiers@3.3.477-beta
+- pkg:nuget/PropertyMaster.Data.Licensing.Identifiers@4.0.1

@@ -38,3 +38,4 @@
 - pkg:nuget/PropertyMaster.Dto.Licensing@3.3.446-beta
 - pkg:nuget/PropertyMaster.Dto.Licensing@3.3.476-beta
 - pkg:nuget/PropertyMaster.Dto.Licensing@3.3.477-beta
+- pkg:nuget/PropertyMaster.Dto.Licensing@4.0.1
