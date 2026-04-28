@@ -1,1 +1,2 @@
 - pkg:nuget/ZeroAlloc.Outbox@1.1.0
+- pkg:nuget/ZeroAlloc.Outbox@2.1.1
