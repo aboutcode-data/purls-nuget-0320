@@ -3,6 +3,7 @@
 - pkg:nuget/DotNetNuke.Web.Mvc@10.0.1
 - pkg:nuget/DotNetNuke.Web.Mvc@10.1.0
 - pkg:nuget/DotNetNuke.Web.Mvc@10.1.1
+- pkg:nuget/DotNetNuke.Web.Mvc@10.3.2-rc.1
 - pkg:nuget/DotNetNuke.Web.Mvc@8.0.0
 - pkg:nuget/DotNetNuke.Web.Mvc@8.0.1.239
 - pkg:nuget/DotNetNuke.Web.Mvc@8.0.2.4
