@@ -1,2 +1,9 @@
+- pkg:nuget/HotChocolate.ModelContextProtocol.Core@16.0.0-p.9.10
+- pkg:nuget/HotChocolate.ModelContextProtocol.Core@16.0.0-p.9.11
+- pkg:nuget/HotChocolate.ModelContextProtocol.Core@16.0.0-p.9.12
+- pkg:nuget/HotChocolate.ModelContextProtocol.Core@16.0.0-p.9.13
 - pkg:nuget/HotChocolate.ModelContextProtocol.Core@16.0.0-p.9.14
+- pkg:nuget/HotChocolate.ModelContextProtocol.Core@16.0.0-p.9.6
+- pkg:nuget/HotChocolate.ModelContextProtocol.Core@16.0.0-p.9.7
 - pkg:nuget/HotChocolate.ModelContextProtocol.Core@16.0.0-p.9.8
+- pkg:nuget/HotChocolate.ModelContextProtocol.Core@16.0.0-p.9.9
