@@ -220,6 +220,7 @@
 - pkg:nuget/SIL.Scripture.Tests@18.0.0-beta0002
 - pkg:nuget/SIL.Scripture.Tests@18.0.0-beta0003
 - pkg:nuget/SIL.Scripture.Tests@18.0.0-beta0006
+- pkg:nuget/SIL.Scripture.Tests@18.0.0-beta0010
 - pkg:nuget/SIL.Scripture.Tests@7.0.1-alpha0008
 - pkg:nuget/SIL.Scripture.Tests@7.0.1-beta0021
 - pkg:nuget/SIL.Scripture.Tests@7.0.1-beta0023
