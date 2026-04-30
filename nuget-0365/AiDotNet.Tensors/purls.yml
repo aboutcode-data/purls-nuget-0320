@@ -18,4 +18,5 @@
 - pkg:nuget/AiDotNet.Tensors@0.44.0
 - pkg:nuget/AiDotNet.Tensors@0.45.0
 - pkg:nuget/AiDotNet.Tensors@0.59.0
+- pkg:nuget/AiDotNet.Tensors@0.67.1
 - pkg:nuget/AiDotNet.Tensors@0.9.2
