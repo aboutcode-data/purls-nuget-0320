@@ -157,6 +157,7 @@
 - pkg:nuget/Microsoft.Graph.Beta@5.122.0-preview
 - pkg:nuget/Microsoft.Graph.Beta@5.126.0-preview
 - pkg:nuget/Microsoft.Graph.Beta@5.13.0-preview
+- pkg:nuget/Microsoft.Graph.Beta@5.135.0-preview
 - pkg:nuget/Microsoft.Graph.Beta@5.14.0-preview
 - pkg:nuget/Microsoft.Graph.Beta@5.15.0-preview
 - pkg:nuget/Microsoft.Graph.Beta@5.16.0-preview
