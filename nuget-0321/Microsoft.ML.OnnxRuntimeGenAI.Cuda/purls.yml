@@ -1,5 +1,6 @@
 - pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.Cuda@0.1.0
 - pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.Cuda@0.1.0-rc4
+- pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.Cuda@0.13.2
 - pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.Cuda@0.2.0
 - pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.Cuda@0.2.0-rc3
 - pkg:nuget/Microsoft.ML.OnnxRuntimeGenAI.Cuda@0.2.0-rc4

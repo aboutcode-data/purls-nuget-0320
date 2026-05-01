@@ -63,3 +63,4 @@
 - pkg:nuget/Scryber.Core@9.1.0.5-beta
 - pkg:nuget/Scryber.Core@9.2.0.2
 - pkg:nuget/Scryber.Core@9.2.0.3
+- pkg:nuget/Scryber.Core@9.5.0-alpha
