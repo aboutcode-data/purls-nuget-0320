@@ -25,6 +25,7 @@
 - pkg:nuget/Nalix.SDK@12.0.0
 - pkg:nuget/Nalix.SDK@12.0.1
 - pkg:nuget/Nalix.SDK@12.1.1
+- pkg:nuget/Nalix.SDK@12.2.0
 - pkg:nuget/Nalix.SDK@2.1.7
 - pkg:nuget/Nalix.SDK@2.5.7
 - pkg:nuget/Nalix.SDK@2.7.1
