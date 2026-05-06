@@ -153,7 +153,9 @@
 - pkg:nuget/Ngs.Client.Ui@1.5.132
 - pkg:nuget/Ngs.Client.Ui@1.5.138
 - pkg:nuget/Ngs.Client.Ui@1.5.14
+- pkg:nuget/Ngs.Client.Ui@1.5.149
 - pkg:nuget/Ngs.Client.Ui@1.5.15
+- pkg:nuget/Ngs.Client.Ui@1.5.150
 - pkg:nuget/Ngs.Client.Ui@1.5.16
 - pkg:nuget/Ngs.Client.Ui@1.5.17
 - pkg:nuget/Ngs.Client.Ui@1.5.18
