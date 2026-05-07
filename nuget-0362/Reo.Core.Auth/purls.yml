@@ -13,6 +13,7 @@
 - pkg:nuget/Reo.Core.Auth@1.0.72
 - pkg:nuget/Reo.Core.Auth@10.0.127
 - pkg:nuget/Reo.Core.Auth@10.0.129
+- pkg:nuget/Reo.Core.Auth@10.0.131
 - pkg:nuget/Reo.Core.Auth@10.0.28
 - pkg:nuget/Reo.Core.Auth@10.0.33
 - pkg:nuget/Reo.Core.Auth@10.0.36
