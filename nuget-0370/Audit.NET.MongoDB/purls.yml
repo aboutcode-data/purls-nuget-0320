@@ -260,6 +260,7 @@
 - pkg:nuget/Audit.NET.MongoDB@30.1.3
 - pkg:nuget/Audit.NET.MongoDB@31.0.0
 - pkg:nuget/Audit.NET.MongoDB@31.0.1
+- pkg:nuget/Audit.NET.MongoDB@32.1.0
 - pkg:nuget/Audit.NET.MongoDB@4.0.0
 - pkg:nuget/Audit.NET.MongoDB@4.0.1
 - pkg:nuget/Audit.NET.MongoDB@4.1.0

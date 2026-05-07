@@ -242,6 +242,7 @@
 - pkg:nuget/Audit.EntityFramework.Core@30.1.3
 - pkg:nuget/Audit.EntityFramework.Core@31.0.0
 - pkg:nuget/Audit.EntityFramework.Core@31.0.1
+- pkg:nuget/Audit.EntityFramework.Core@32.1.0
 - pkg:nuget/Audit.EntityFramework.Core@8.0.0
 - pkg:nuget/Audit.EntityFramework.Core@8.1.0
 - pkg:nuget/Audit.EntityFramework.Core@8.2.0
