@@ -33,6 +33,7 @@
 - pkg:nuget/Aikido.Zen.DotNetFramework@1.2.42
 - pkg:nuget/Aikido.Zen.DotNetFramework@1.2.43
 - pkg:nuget/Aikido.Zen.DotNetFramework@1.2.5
+- pkg:nuget/Aikido.Zen.DotNetFramework@1.2.51
 - pkg:nuget/Aikido.Zen.DotNetFramework@1.2.6
 - pkg:nuget/Aikido.Zen.DotNetFramework@1.2.7
 - pkg:nuget/Aikido.Zen.DotNetFramework@1.2.7-beta1
