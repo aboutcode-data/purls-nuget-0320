@@ -38,3 +38,4 @@
 - pkg:nuget/PrivateRadar.Authorization@1.2.6
 - pkg:nuget/PrivateRadar.Authorization@1.2.7
 - pkg:nuget/PrivateRadar.Authorization@1.3.0
+- pkg:nuget/PrivateRadar.Authorization@2.0.2
