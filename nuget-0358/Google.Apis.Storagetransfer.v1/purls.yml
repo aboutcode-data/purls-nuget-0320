@@ -295,5 +295,6 @@
 - pkg:nuget/Google.Apis.Storagetransfer.v1@1.69.0.3795
 - pkg:nuget/Google.Apis.Storagetransfer.v1@1.70.0.3865
 - pkg:nuget/Google.Apis.Storagetransfer.v1@1.72.0.3935
+- pkg:nuget/Google.Apis.Storagetransfer.v1@1.74.0.4026
 - pkg:nuget/Google.Apis.Storagetransfer.v1@1.9.2.20
 - pkg:nuget/Google.Apis.Storagetransfer.v1@1.9.2.40

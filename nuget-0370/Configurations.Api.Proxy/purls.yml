@@ -28,3 +28,4 @@
 - pkg:nuget/Configurations.Api.Proxy@0.1.75
 - pkg:nuget/Configurations.Api.Proxy@1.76.0
 - pkg:nuget/Configurations.Api.Proxy@1.78.0
+- pkg:nuget/Configurations.Api.Proxy@1.84.0
