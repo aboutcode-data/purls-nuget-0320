@@ -9,6 +9,7 @@
 - pkg:nuget/System.ComponentModel.Composition@10.0.1
 - pkg:nuget/System.ComponentModel.Composition@10.0.7
 - pkg:nuget/System.ComponentModel.Composition@11.0.0-preview.2.26159.112
+- pkg:nuget/System.ComponentModel.Composition@11.0.0-preview.4.26230.115
 - pkg:nuget/System.ComponentModel.Composition@2010.2.11
 - pkg:nuget/System.ComponentModel.Composition@2010.2.11.1
 - pkg:nuget/System.ComponentModel.Composition@4.5.0
