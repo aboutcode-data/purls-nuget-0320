@@ -149,6 +149,7 @@
 - pkg:nuget/Google.Apis.TagManager.v1@1.69.0.3721
 - pkg:nuget/Google.Apis.TagManager.v1@1.69.0.3751
 - pkg:nuget/Google.Apis.TagManager.v1@1.70.0.3884
+- pkg:nuget/Google.Apis.TagManager.v1@1.74.0.3884
 - pkg:nuget/Google.Apis.TagManager.v1@1.9.0.100
 - pkg:nuget/Google.Apis.TagManager.v1@1.9.0.110
 - pkg:nuget/Google.Apis.TagManager.v1@1.9.0.60

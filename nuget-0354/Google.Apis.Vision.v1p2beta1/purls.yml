@@ -145,3 +145,4 @@
 - pkg:nuget/Google.Apis.Vision.v1p2beta1@1.68.0.3274
 - pkg:nuget/Google.Apis.Vision.v1p2beta1@1.68.0.3522
 - pkg:nuget/Google.Apis.Vision.v1p2beta1@1.70.0.3868
+- pkg:nuget/Google.Apis.Vision.v1p2beta1@1.74.0.3868
