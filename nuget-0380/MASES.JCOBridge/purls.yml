@@ -73,3 +73,5 @@
 - pkg:nuget/MASES.JCOBridge@2.6.7-beta4
 - pkg:nuget/MASES.JCOBridge@2.6.9-alpha
 - pkg:nuget/MASES.JCOBridge@2.6.9-beta
+- pkg:nuget/MASES.JCOBridge@2.6.9-rc.22
+- pkg:nuget/MASES.JCOBridge@2.6.9-rc.23
