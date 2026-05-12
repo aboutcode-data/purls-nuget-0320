@@ -23,6 +23,7 @@
 - pkg:nuget/WuicCore@1.0.12
 - pkg:nuget/WuicCore@1.0.13
 - pkg:nuget/WuicCore@1.0.2
+- pkg:nuget/WuicCore@1.0.20
 - pkg:nuget/WuicCore@1.0.4
 - pkg:nuget/WuicCore@1.0.5
 - pkg:nuget/WuicCore@1.0.6
