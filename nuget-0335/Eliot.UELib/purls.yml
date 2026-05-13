@@ -1,6 +1,7 @@
 - pkg:nuget/Eliot.UELib@1.10.0
 - pkg:nuget/Eliot.UELib@1.11.0
 - pkg:nuget/Eliot.UELib@1.11.1
+- pkg:nuget/Eliot.UELib@1.12.3-g9ac9250e81
 - pkg:nuget/Eliot.UELib@1.3.1
 - pkg:nuget/Eliot.UELib@1.4.0
 - pkg:nuget/Eliot.UELib@1.5.0
