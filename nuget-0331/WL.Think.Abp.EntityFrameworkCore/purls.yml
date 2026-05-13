@@ -68,3 +68,4 @@
 - pkg:nuget/WL.Think.Abp.EntityFrameworkCore@1.0.2-beta.90
 - pkg:nuget/WL.Think.Abp.EntityFrameworkCore@1.0.2-beta.91
 - pkg:nuget/WL.Think.Abp.EntityFrameworkCore@1.0.2-beta.92
+- pkg:nuget/WL.Think.Abp.EntityFrameworkCore@1.0.2.17
