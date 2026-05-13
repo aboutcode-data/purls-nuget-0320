@@ -45,3 +45,4 @@
 - pkg:nuget/Bear.Core@3.5.0
 - pkg:nuget/Bear.Core@3.5.1
 - pkg:nuget/Bear.Core@3.5.2
+- pkg:nuget/Bear.Core@5.2.1
