@@ -1,4 +1,5 @@
 - pkg:nuget/DHI.Services.WebApi@16.1.0
+- pkg:nuget/DHI.Services.WebApi@17.0.0
 - pkg:nuget/DHI.Services.WebApi@4.0.0
 - pkg:nuget/DHI.Services.WebApi@4.0.1
 - pkg:nuget/DHI.Services.WebApi@5.0.0
