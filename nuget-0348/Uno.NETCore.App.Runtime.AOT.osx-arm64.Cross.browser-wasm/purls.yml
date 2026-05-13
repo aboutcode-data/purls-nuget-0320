@@ -1,1 +1,2 @@
 - pkg:nuget/Uno.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@10.0.0-dev-0019
+- pkg:nuget/Uno.NETCore.App.Runtime.AOT.osx-arm64.Cross.browser-wasm@10.0.0-dev-0020
