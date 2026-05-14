@@ -1177,6 +1177,7 @@
 - pkg:nuget/AWSSDK.Elasticsearch@3.7.502.26
 - pkg:nuget/AWSSDK.Elasticsearch@3.7.502.42
 - pkg:nuget/AWSSDK.Elasticsearch@3.7.502.47
+- pkg:nuget/AWSSDK.Elasticsearch@3.7.504.11
 - pkg:nuget/AWSSDK.Elasticsearch@3.7.504.3
 - pkg:nuget/AWSSDK.Elasticsearch@3.7.504.7
 - pkg:nuget/AWSSDK.Elasticsearch@3.7.504.9

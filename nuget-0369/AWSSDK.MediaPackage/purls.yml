@@ -1104,6 +1104,7 @@
 - pkg:nuget/AWSSDK.MediaPackage@3.7.502.54
 - pkg:nuget/AWSSDK.MediaPackage@3.7.502.55
 - pkg:nuget/AWSSDK.MediaPackage@3.7.502.56
+- pkg:nuget/AWSSDK.MediaPackage@3.7.502.58
 - pkg:nuget/AWSSDK.MediaPackage@3.7.502.9
 - pkg:nuget/AWSSDK.MediaPackage@3.7.6
 - pkg:nuget/AWSSDK.MediaPackage@3.7.6.1
