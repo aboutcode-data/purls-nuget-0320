@@ -1,2 +1,3 @@
 - pkg:nuget/Trax.Effect.Data.Sqlite@1.33.0
 - pkg:nuget/Trax.Effect.Data.Sqlite@1.34.0
+- pkg:nuget/Trax.Effect.Data.Sqlite@1.37.0
