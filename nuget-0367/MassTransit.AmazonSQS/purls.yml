@@ -1215,3 +1215,4 @@
 - pkg:nuget/MassTransit.AmazonSQS@9.2.0-develop.126
 - pkg:nuget/MassTransit.AmazonSQS@9.2.0-develop.129
 - pkg:nuget/MassTransit.AmazonSQS@9.2.0-develop.135
+- pkg:nuget/MassTransit.AmazonSQS@9.2.0-develop.142

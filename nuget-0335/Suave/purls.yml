@@ -110,4 +110,5 @@
 - pkg:nuget/Suave@2.7.0-beta1
 - pkg:nuget/Suave@3.1.1
 - pkg:nuget/Suave@3.3.0
+- pkg:nuget/Suave@3.4.0
 - pkg:nuget/Suave@3.4.0-beta
