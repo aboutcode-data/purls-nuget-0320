@@ -19,6 +19,7 @@
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PDF@9.5.0.44
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PDF@9.5.0.45
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PDF@9.5.0.5
+- pkg:nuget/OnBarcode.Barcode.Reader.Document.PDF@9.5.0.52
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PDF@9.5.0.6
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PDF@9.5.0.7
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PDF@9.5.0.8
