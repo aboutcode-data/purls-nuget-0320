@@ -4,6 +4,7 @@
 - pkg:nuget/Lexicom.SourceGenerator.MetaData@10.0.18
 - pkg:nuget/Lexicom.SourceGenerator.MetaData@10.0.19
 - pkg:nuget/Lexicom.SourceGenerator.MetaData@10.0.25
+- pkg:nuget/Lexicom.SourceGenerator.MetaData@10.0.27
 - pkg:nuget/Lexicom.SourceGenerator.MetaData@7.0.1
 - pkg:nuget/Lexicom.SourceGenerator.MetaData@7.0.10
 - pkg:nuget/Lexicom.SourceGenerator.MetaData@7.0.11
