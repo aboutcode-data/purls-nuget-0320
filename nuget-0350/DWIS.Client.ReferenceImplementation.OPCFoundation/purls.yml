@@ -32,4 +32,5 @@
 - pkg:nuget/DWIS.Client.ReferenceImplementation.OPCFoundation@2.2.22
 - pkg:nuget/DWIS.Client.ReferenceImplementation.OPCFoundation@2.2.24
 - pkg:nuget/DWIS.Client.ReferenceImplementation.OPCFoundation@2.2.41
+- pkg:nuget/DWIS.Client.ReferenceImplementation.OPCFoundation@2.2.49
 - pkg:nuget/DWIS.Client.ReferenceImplementation.OPCFoundation@2.2.8
