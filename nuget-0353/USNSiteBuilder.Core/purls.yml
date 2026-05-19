@@ -31,3 +31,5 @@
 - pkg:nuget/USNSiteBuilder.Core@6.3.0
 - pkg:nuget/USNSiteBuilder.Core@6.3.1
 - pkg:nuget/USNSiteBuilder.Core@6.4.0
+- pkg:nuget/USNSiteBuilder.Core@7.0.0
+- pkg:nuget/USNSiteBuilder.Core@7.0.1
