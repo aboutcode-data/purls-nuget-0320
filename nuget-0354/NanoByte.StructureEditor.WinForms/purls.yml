@@ -56,4 +56,5 @@
 - pkg:nuget/NanoByte.StructureEditor.WinForms@0.9.5
 - pkg:nuget/NanoByte.StructureEditor.WinForms@1.0.0
 - pkg:nuget/NanoByte.StructureEditor.WinForms@1.0.1
+- pkg:nuget/NanoByte.StructureEditor.WinForms@1.0.10
 - pkg:nuget/NanoByte.StructureEditor.WinForms@1.0.2
