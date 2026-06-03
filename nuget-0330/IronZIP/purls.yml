@@ -27,3 +27,4 @@
 - pkg:nuget/IronZIP@2025.8.7
 - pkg:nuget/IronZIP@2025.9.1
 - pkg:nuget/IronZIP@2026.4.4
+- pkg:nuget/IronZIP@2026.6.2
