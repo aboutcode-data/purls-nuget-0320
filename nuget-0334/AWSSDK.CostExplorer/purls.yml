@@ -1213,6 +1213,7 @@
 - pkg:nuget/AWSSDK.CostExplorer@4.0.11.11
 - pkg:nuget/AWSSDK.CostExplorer@4.0.11.12
 - pkg:nuget/AWSSDK.CostExplorer@4.0.11.13
+- pkg:nuget/AWSSDK.CostExplorer@4.0.11.24
 - pkg:nuget/AWSSDK.CostExplorer@4.0.11.8
 - pkg:nuget/AWSSDK.CostExplorer@4.0.11.9
 - pkg:nuget/AWSSDK.CostExplorer@4.0.2
