@@ -1172,6 +1172,7 @@
 - pkg:nuget/RF.Api.Client@6.260.0-rc.34
 - pkg:nuget/RF.Api.Client@6.312.0-rc.34
 - pkg:nuget/RF.Api.Client@6.33.0
+- pkg:nuget/RF.Api.Client@6.337.0-rc.217
 - pkg:nuget/RF.Api.Client@6.38.0-rc.1456
 - pkg:nuget/RF.Api.Client@6.54.33
 - pkg:nuget/RF.Api.Client@6.54.34
