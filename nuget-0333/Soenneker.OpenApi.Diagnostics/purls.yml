@@ -17,6 +17,7 @@
 - pkg:nuget/Soenneker.OpenApi.Diagnostics@3.0.7
 - pkg:nuget/Soenneker.OpenApi.Diagnostics@3.0.8
 - pkg:nuget/Soenneker.OpenApi.Diagnostics@3.0.9
+- pkg:nuget/Soenneker.OpenApi.Diagnostics@4.0.103
 - pkg:nuget/Soenneker.OpenApi.Diagnostics@4.0.26
 - pkg:nuget/Soenneker.OpenApi.Diagnostics@4.0.27
 - pkg:nuget/Soenneker.OpenApi.Diagnostics@4.0.28
