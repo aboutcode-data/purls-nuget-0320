@@ -19,3 +19,4 @@
 - pkg:nuget/JsonhCs@3.8.0
 - pkg:nuget/JsonhCs@3.9.0
 - pkg:nuget/JsonhCs@4.3.0
+- pkg:nuget/JsonhCs@7.5.0
