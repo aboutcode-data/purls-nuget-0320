@@ -190,3 +190,4 @@
 - pkg:nuget/JetBrains.Rider.External.Wcf.SvcUtil@261.0.20260319.215402-rc01
 - pkg:nuget/JetBrains.Rider.External.Wcf.SvcUtil@261.0.20260329.210200
 - pkg:nuget/JetBrains.Rider.External.Wcf.SvcUtil@261.0.20260519.82345
+- pkg:nuget/JetBrains.Rider.External.Wcf.SvcUtil@262.0.20260527.204840-eap04
