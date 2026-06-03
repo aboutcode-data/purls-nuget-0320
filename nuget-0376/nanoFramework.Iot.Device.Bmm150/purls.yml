@@ -71,3 +71,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Bmm150@1.2.864
 - pkg:nuget/nanoFramework.Iot.Device.Bmm150@1.2.869
 - pkg:nuget/nanoFramework.Iot.Device.Bmm150@1.2.87
+- pkg:nuget/nanoFramework.Iot.Device.Bmm150@2.0.0-preview.73
