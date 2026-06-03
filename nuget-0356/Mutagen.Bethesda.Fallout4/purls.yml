@@ -517,5 +517,6 @@
 - pkg:nuget/Mutagen.Bethesda.Fallout4@0.54.0-alpha.30
 - pkg:nuget/Mutagen.Bethesda.Fallout4@0.54.0-alpha.45
 - pkg:nuget/Mutagen.Bethesda.Fallout4@0.54.0-alpha.8
+- pkg:nuget/Mutagen.Bethesda.Fallout4@0.54.0-alpha.90
 - pkg:nuget/Mutagen.Bethesda.Fallout4@2.8.1-prerelease001
 - pkg:nuget/Mutagen.Bethesda.Fallout4@2.8.1-prerelease002
