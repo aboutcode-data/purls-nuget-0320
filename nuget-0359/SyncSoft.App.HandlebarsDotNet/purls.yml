@@ -108,3 +108,4 @@
 - pkg:nuget/SyncSoft.App.HandlebarsDotNet@4.5.1
 - pkg:nuget/SyncSoft.App.HandlebarsDotNet@4.6.0
 - pkg:nuget/SyncSoft.App.HandlebarsDotNet@4.6.0-alpha3
+- pkg:nuget/SyncSoft.App.HandlebarsDotNet@5.0.0-alpha3
