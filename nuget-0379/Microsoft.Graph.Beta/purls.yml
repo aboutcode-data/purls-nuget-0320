@@ -247,3 +247,4 @@
 - pkg:nuget/Microsoft.Graph.Beta@5.98.0-preview
 - pkg:nuget/Microsoft.Graph.Beta@5.98.1-preview
 - pkg:nuget/Microsoft.Graph.Beta@5.99.0-preview
+- pkg:nuget/Microsoft.Graph.Beta@6.2.0-preview
