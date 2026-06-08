@@ -40,6 +40,7 @@
 - pkg:nuget/TabBlazor@0.14.59-beta
 - pkg:nuget/TabBlazor@0.14.68-beta
 - pkg:nuget/TabBlazor@0.14.7-beta-g7e198a3135
+- pkg:nuget/TabBlazor@0.15.28-beta
 - pkg:nuget/TabBlazor@0.2.1-alpha
 - pkg:nuget/TabBlazor@0.2.2-alpha
 - pkg:nuget/TabBlazor@0.2.3-alpha
