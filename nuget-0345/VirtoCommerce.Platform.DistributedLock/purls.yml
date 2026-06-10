@@ -1194,6 +1194,7 @@
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.91.0
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.915.0
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.917.0
+- pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.917.15
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.917.7
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.917.9
 - pkg:nuget/VirtoCommerce.Platform.DistributedLock@3.92.0
