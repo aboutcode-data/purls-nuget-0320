@@ -13,3 +13,5 @@
 - pkg:nuget/PclNET@0.7.0
 - pkg:nuget/PclNET@0.7.6
 - pkg:nuget/PclNET@0.8.1-dev1
+- pkg:nuget/PclNET@0.8.2
+- pkg:nuget/PclNET@0.8.3
