@@ -1,4 +1,5 @@
 - pkg:nuget/Microsoft.Extensions.Http.Diagnostics@10.6.0
+- pkg:nuget/Microsoft.Extensions.Http.Diagnostics@10.7.0
 - pkg:nuget/Microsoft.Extensions.Http.Diagnostics@8.0.0
 - pkg:nuget/Microsoft.Extensions.Http.Diagnostics@8.1.0
 - pkg:nuget/Microsoft.Extensions.Http.Diagnostics@8.10.0
