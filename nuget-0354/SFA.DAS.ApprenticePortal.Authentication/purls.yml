@@ -64,3 +64,4 @@
 - pkg:nuget/SFA.DAS.ApprenticePortal.Authentication@1.1.91
 - pkg:nuget/SFA.DAS.ApprenticePortal.Authentication@1.1.91-prerelease-3
 - pkg:nuget/SFA.DAS.ApprenticePortal.Authentication@1.1.93
+- pkg:nuget/SFA.DAS.ApprenticePortal.Authentication@1.1.99-prerelease-4
