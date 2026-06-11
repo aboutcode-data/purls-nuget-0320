@@ -15,5 +15,8 @@
 - pkg:nuget/com.IvanMurzak.Unity.MCP.Server@0.63.3
 - pkg:nuget/com.IvanMurzak.Unity.MCP.Server@0.64.0
 - pkg:nuget/com.IvanMurzak.Unity.MCP.Server@0.72.1
+- pkg:nuget/com.IvanMurzak.Unity.MCP.Server@0.77.0
+- pkg:nuget/com.IvanMurzak.Unity.MCP.Server@0.77.1
+- pkg:nuget/com.IvanMurzak.Unity.MCP.Server@0.79.0
 - pkg:nuget/com.IvanMurzak.Unity.MCP.Server@1.0.0
 - pkg:nuget/com.IvanMurzak.Unity.MCP.Server@1.0.1
