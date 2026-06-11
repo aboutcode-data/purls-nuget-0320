@@ -1,4 +1,5 @@
 - pkg:nuget/Etch.Cms.Umbraco.Middleware@1.0.0
+- pkg:nuget/Etch.Cms.Umbraco.Middleware@17.0.8
 - pkg:nuget/Etch.Cms.Umbraco.Middleware@2.0.0
 - pkg:nuget/Etch.Cms.Umbraco.Middleware@2.0.1
 - pkg:nuget/Etch.Cms.Umbraco.Middleware@2.0.10
