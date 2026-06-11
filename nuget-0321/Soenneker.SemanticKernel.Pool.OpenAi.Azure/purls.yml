@@ -166,3 +166,5 @@
 - pkg:nuget/Soenneker.SemanticKernel.Pool.OpenAi.Azure@4.0.437
 - pkg:nuget/Soenneker.SemanticKernel.Pool.OpenAi.Azure@4.0.441
 - pkg:nuget/Soenneker.SemanticKernel.Pool.OpenAi.Azure@4.0.451
+- pkg:nuget/Soenneker.SemanticKernel.Pool.OpenAi.Azure@4.0.452
+- pkg:nuget/Soenneker.SemanticKernel.Pool.OpenAi.Azure@4.0.453
