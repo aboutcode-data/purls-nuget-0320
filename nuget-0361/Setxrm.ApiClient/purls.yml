@@ -25,3 +25,4 @@
 - pkg:nuget/Setxrm.ApiClient@1.0.6.5
 - pkg:nuget/Setxrm.ApiClient@1.0.6.6
 - pkg:nuget/Setxrm.ApiClient@1.0.6.7
+- pkg:nuget/Setxrm.ApiClient@1.0.7
