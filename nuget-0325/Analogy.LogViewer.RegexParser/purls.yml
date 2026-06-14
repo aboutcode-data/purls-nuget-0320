@@ -75,3 +75,4 @@
 - pkg:nuget/Analogy.LogViewer.RegexParser@8.0.0
 - pkg:nuget/Analogy.LogViewer.RegexParser@8.1.0
 - pkg:nuget/Analogy.LogViewer.RegexParser@9.0.0-rc3
+- pkg:nuget/Analogy.LogViewer.RegexParser@9.0.6
