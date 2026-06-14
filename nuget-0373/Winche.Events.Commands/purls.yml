@@ -1,0 +1,5 @@
+- pkg:nuget/Winche.Events.Commands@2.2.0
+- pkg:nuget/Winche.Events.Commands@3.2.0
+- pkg:nuget/Winche.Events.Commands@5.3.1
+- pkg:nuget/Winche.Events.Commands@5.3.2
+- pkg:nuget/Winche.Events.Commands@6.0.0

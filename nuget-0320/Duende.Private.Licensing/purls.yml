@@ -1,2 +1,4 @@
 - pkg:nuget/Duende.Private.Licensing@1.0.0
 - pkg:nuget/Duende.Private.Licensing@1.1.0
+- pkg:nuget/Duende.Private.Licensing@2.0.0-preview.10
+- pkg:nuget/Duende.Private.Licensing@2.0.0-preview.13
