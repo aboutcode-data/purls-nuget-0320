@@ -20,3 +20,5 @@
 - pkg:nuget/EgoPDF.Generator@2.0.105
 - pkg:nuget/EgoPDF.Generator@2.0.106
 - pkg:nuget/EgoPDF.Generator@2.0.107
+- pkg:nuget/EgoPDF.Generator@2.2.0
+- pkg:nuget/EgoPDF.Generator@2.3.1
