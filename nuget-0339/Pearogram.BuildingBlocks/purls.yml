@@ -48,6 +48,14 @@
 - pkg:nuget/Pearogram.BuildingBlocks@1.0.282
 - pkg:nuget/Pearogram.BuildingBlocks@1.0.286
 - pkg:nuget/Pearogram.BuildingBlocks@1.0.287
+- pkg:nuget/Pearogram.BuildingBlocks@1.0.294
+- pkg:nuget/Pearogram.BuildingBlocks@1.0.295
+- pkg:nuget/Pearogram.BuildingBlocks@1.0.303
+- pkg:nuget/Pearogram.BuildingBlocks@1.0.304
+- pkg:nuget/Pearogram.BuildingBlocks@1.0.305
+- pkg:nuget/Pearogram.BuildingBlocks@1.0.306
+- pkg:nuget/Pearogram.BuildingBlocks@1.0.307
+- pkg:nuget/Pearogram.BuildingBlocks@1.0.315
 - pkg:nuget/Pearogram.BuildingBlocks@1.0.87
 - pkg:nuget/Pearogram.BuildingBlocks@1.0.88
 - pkg:nuget/Pearogram.BuildingBlocks@1.0.96
