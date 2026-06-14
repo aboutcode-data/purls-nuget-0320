@@ -18,6 +18,8 @@
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.TIFF@9.5.0.44
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.TIFF@9.5.0.45
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.TIFF@9.5.0.5
+- pkg:nuget/OnBarcode.Barcode.Reader.Document.TIFF@9.5.0.53
+- pkg:nuget/OnBarcode.Barcode.Reader.Document.TIFF@9.5.0.54
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.TIFF@9.5.0.6
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.TIFF@9.5.0.7
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.TIFF@9.5.0.8
