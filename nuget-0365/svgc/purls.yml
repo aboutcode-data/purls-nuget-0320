@@ -95,3 +95,4 @@
 - pkg:nuget/svgc@3.0.6
 - pkg:nuget/svgc@3.6.0
 - pkg:nuget/svgc@4.9.1
+- pkg:nuget/svgc@5.1.1
