@@ -1,5 +1,7 @@
 - pkg:nuget/Messaia.Net.Base.Identity.Razor@10.0.0-RC04
 - pkg:nuget/Messaia.Net.Base.Identity.Razor@10.0.1
+- pkg:nuget/Messaia.Net.Base.Identity.Razor@10.0.3
+- pkg:nuget/Messaia.Net.Base.Identity.Razor@10.1.0-rc03
 - pkg:nuget/Messaia.Net.Base.Identity.Razor@3.1.0
 - pkg:nuget/Messaia.Net.Base.Identity.Razor@3.1.0-beta05
 - pkg:nuget/Messaia.Net.Base.Identity.Razor@3.1.0-beta06
