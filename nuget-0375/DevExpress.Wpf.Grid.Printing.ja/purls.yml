@@ -3,3 +3,5 @@
 - pkg:nuget/DevExpress.Wpf.Grid.Printing.ja@25.1.6
 - pkg:nuget/DevExpress.Wpf.Grid.Printing.ja@25.2.7
 - pkg:nuget/DevExpress.Wpf.Grid.Printing.ja@25.2.8
+- pkg:nuget/DevExpress.Wpf.Grid.Printing.ja@26.1.2-beta
+- pkg:nuget/DevExpress.Wpf.Grid.Printing.ja@26.1.3
