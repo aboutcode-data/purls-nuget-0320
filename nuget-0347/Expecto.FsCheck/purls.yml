@@ -31,6 +31,8 @@
 - pkg:nuget/Expecto.FsCheck@11.0.0-alpha7-fscheck2
 - pkg:nuget/Expecto.FsCheck@11.0.0-alpha8
 - pkg:nuget/Expecto.FsCheck@11.0.0-alpha8-fscheck2
+- pkg:nuget/Expecto.FsCheck@11.1.0
+- pkg:nuget/Expecto.FsCheck@11.1.0-fscheck2
 - pkg:nuget/Expecto.FsCheck@2.0.0
 - pkg:nuget/Expecto.FsCheck@2.1.0
 - pkg:nuget/Expecto.FsCheck@2.1.1
