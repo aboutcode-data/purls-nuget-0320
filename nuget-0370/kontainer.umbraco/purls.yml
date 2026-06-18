@@ -24,4 +24,5 @@
 - pkg:nuget/kontainer.umbraco@1.0.19-beta
 - pkg:nuget/kontainer.umbraco@1.0.20-beta
 - pkg:nuget/kontainer.umbraco@1.0.21-beta
+- pkg:nuget/kontainer.umbraco@1.0.23
 - pkg:nuget/kontainer.umbraco@1.0.9-beta
