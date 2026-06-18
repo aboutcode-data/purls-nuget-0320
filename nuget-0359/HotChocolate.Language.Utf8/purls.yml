@@ -1344,3 +1344,4 @@
 - pkg:nuget/HotChocolate.Language.Utf8@16.1.4-p.5
 - pkg:nuget/HotChocolate.Language.Utf8@16.1.4-p.6
 - pkg:nuget/HotChocolate.Language.Utf8@16.2.0-p.5
+- pkg:nuget/HotChocolate.Language.Utf8@16.2.0-p.6
