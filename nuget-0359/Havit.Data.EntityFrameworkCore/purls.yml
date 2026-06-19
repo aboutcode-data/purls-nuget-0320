@@ -10,6 +10,7 @@
 - pkg:nuget/Havit.Data.EntityFrameworkCore@2.1.7
 - pkg:nuget/Havit.Data.EntityFrameworkCore@2.1.8
 - pkg:nuget/Havit.Data.EntityFrameworkCore@2.10.1-pre01
+- pkg:nuget/Havit.Data.EntityFrameworkCore@2.10.3
 - pkg:nuget/Havit.Data.EntityFrameworkCore@2.3.0
 - pkg:nuget/Havit.Data.EntityFrameworkCore@2.3.1
 - pkg:nuget/Havit.Data.EntityFrameworkCore@2.3.2
