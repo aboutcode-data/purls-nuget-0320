@@ -1,4 +1,5 @@
 - pkg:nuget/AiDotNet.Tensors@0.101.5
+- pkg:nuget/AiDotNet.Tensors@0.101.6
 - pkg:nuget/AiDotNet.Tensors@0.12.0
 - pkg:nuget/AiDotNet.Tensors@0.15.0
 - pkg:nuget/AiDotNet.Tensors@0.15.3
