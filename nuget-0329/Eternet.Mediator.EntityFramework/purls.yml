@@ -2,4 +2,8 @@
 - pkg:nuget/Eternet.Mediator.EntityFramework@2.0.17
 - pkg:nuget/Eternet.Mediator.EntityFramework@2.0.20
 - pkg:nuget/Eternet.Mediator.EntityFramework@2.0.21
+- pkg:nuget/Eternet.Mediator.EntityFramework@2.0.22
+- pkg:nuget/Eternet.Mediator.EntityFramework@2.0.34
+- pkg:nuget/Eternet.Mediator.EntityFramework@2.0.37
+- pkg:nuget/Eternet.Mediator.EntityFramework@2.0.38
 - pkg:nuget/Eternet.Mediator.EntityFramework@2.0.4
