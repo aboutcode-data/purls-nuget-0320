@@ -1,3 +1,4 @@
+- pkg:nuget/FS.Push@10.0.8
 - pkg:nuget/FS.Push@8.0.0
 - pkg:nuget/FS.Push@8.1.0
 - pkg:nuget/FS.Push@8.1.1
