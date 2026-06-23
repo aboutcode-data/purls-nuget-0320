@@ -128,3 +128,4 @@
 - pkg:nuget/Squidex.Messaging.Redis@7.8.0
 - pkg:nuget/Squidex.Messaging.Redis@7.9.0
 - pkg:nuget/Squidex.Messaging.Redis@8.0.1
+- pkg:nuget/Squidex.Messaging.Redis@8.0.2
