@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Databasemanagement@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Databasemanagement@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Databasemanagement@14.2.0
+- pkg:nuget/OCI.DotNetSDK.Databasemanagement@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Databasemanagement@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Databasemanagement@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Databasemanagement@15.2.0
