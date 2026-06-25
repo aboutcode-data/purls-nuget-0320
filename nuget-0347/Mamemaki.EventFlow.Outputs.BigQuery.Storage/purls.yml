@@ -1,5 +1,6 @@
 - pkg:nuget/Mamemaki.EventFlow.Outputs.BigQuery.Storage@1.0.0
 - pkg:nuget/Mamemaki.EventFlow.Outputs.BigQuery.Storage@1.0.1
+- pkg:nuget/Mamemaki.EventFlow.Outputs.BigQuery.Storage@1.0.10
 - pkg:nuget/Mamemaki.EventFlow.Outputs.BigQuery.Storage@1.0.2
 - pkg:nuget/Mamemaki.EventFlow.Outputs.BigQuery.Storage@1.0.3
 - pkg:nuget/Mamemaki.EventFlow.Outputs.BigQuery.Storage@1.0.4
