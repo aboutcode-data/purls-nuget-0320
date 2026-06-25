@@ -7,6 +7,7 @@
 - pkg:nuget/Shuttle.Access@1.1.5
 - pkg:nuget/Shuttle.Access@1.1.6
 - pkg:nuget/Shuttle.Access@10.0.4
+- pkg:nuget/Shuttle.Access@11.0.1
 - pkg:nuget/Shuttle.Access@2.0.0
 - pkg:nuget/Shuttle.Access@3.0.0
 - pkg:nuget/Shuttle.Access@4.0.0
