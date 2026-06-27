@@ -41,4 +41,5 @@
 - pkg:nuget/Bee.Api.AspNetCore@3.4.8
 - pkg:nuget/Bee.Api.AspNetCore@4.0.1
 - pkg:nuget/Bee.Api.AspNetCore@4.10.0
+- pkg:nuget/Bee.Api.AspNetCore@4.12.1
 - pkg:nuget/Bee.Api.AspNetCore@4.7.0
