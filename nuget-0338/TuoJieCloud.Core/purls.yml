@@ -207,4 +207,6 @@
 - pkg:nuget/TuoJieCloud.Core@9.1.9
 - pkg:nuget/TuoJieCloud.Core@9.2.12
 - pkg:nuget/TuoJieCloud.Core@9.2.18.1
+- pkg:nuget/TuoJieCloud.Core@9.2.18.2
+- pkg:nuget/TuoJieCloud.Core@9.2.18.3
 - pkg:nuget/TuoJieCloud.Core@9.2.4
