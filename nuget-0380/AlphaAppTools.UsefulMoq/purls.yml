@@ -22,6 +22,7 @@
 - pkg:nuget/AlphaAppTools.UsefulMoq@0.5.31
 - pkg:nuget/AlphaAppTools.UsefulMoq@0.5.4
 - pkg:nuget/AlphaAppTools.UsefulMoq@0.5.5
+- pkg:nuget/AlphaAppTools.UsefulMoq@10.4.1
 - pkg:nuget/AlphaAppTools.UsefulMoq@8.0.0
 - pkg:nuget/AlphaAppTools.UsefulMoq@8.0.1
 - pkg:nuget/AlphaAppTools.UsefulMoq@8.1.0
