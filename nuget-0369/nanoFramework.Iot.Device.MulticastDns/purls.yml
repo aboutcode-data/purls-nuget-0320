@@ -10,6 +10,7 @@
 - pkg:nuget/nanoFramework.Iot.Device.MulticastDns@1.0.161
 - pkg:nuget/nanoFramework.Iot.Device.MulticastDns@1.0.172
 - pkg:nuget/nanoFramework.Iot.Device.MulticastDns@1.0.21
+- pkg:nuget/nanoFramework.Iot.Device.MulticastDns@1.0.286
 - pkg:nuget/nanoFramework.Iot.Device.MulticastDns@1.0.29
 - pkg:nuget/nanoFramework.Iot.Device.MulticastDns@1.0.33
 - pkg:nuget/nanoFramework.Iot.Device.MulticastDns@1.0.39
@@ -21,3 +22,5 @@
 - pkg:nuget/nanoFramework.Iot.Device.MulticastDns@1.0.82
 - pkg:nuget/nanoFramework.Iot.Device.MulticastDns@2.0.0-preview.27
 - pkg:nuget/nanoFramework.Iot.Device.MulticastDns@2.0.0-preview.49
+- pkg:nuget/nanoFramework.Iot.Device.MulticastDns@2.0.0-preview.73
+- pkg:nuget/nanoFramework.Iot.Device.MulticastDns@2.0.0-preview.97
