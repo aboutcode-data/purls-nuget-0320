@@ -31,6 +31,8 @@
 - pkg:nuget/Pulumi.Ovh@2.0.5
 - pkg:nuget/Pulumi.Ovh@2.0.7
 - pkg:nuget/Pulumi.Ovh@2.1.0
+- pkg:nuget/Pulumi.Ovh@2.15.0
+- pkg:nuget/Pulumi.Ovh@2.15.0-alpha.1782739024
 - pkg:nuget/Pulumi.Ovh@2.2.0
 - pkg:nuget/Pulumi.Ovh@2.2.0-alpha.1747221408
 - pkg:nuget/Pulumi.Ovh@2.2.0-alpha.1747223866
