@@ -191,6 +191,7 @@
 - pkg:nuget/Pulumi.Kafka@3.14.0-alpha.1781767309
 - pkg:nuget/Pulumi.Kafka@3.14.0-alpha.1782198743
 - pkg:nuget/Pulumi.Kafka@3.14.0-alpha.1782717802
+- pkg:nuget/Pulumi.Kafka@3.14.0-alpha.1782803647
 - pkg:nuget/Pulumi.Kafka@3.2.0
 - pkg:nuget/Pulumi.Kafka@3.2.0-alpha.1637255781%2B50ebfa5e
 - pkg:nuget/Pulumi.Kafka@3.2.0-alpha.1637769170%2B5443c48a
