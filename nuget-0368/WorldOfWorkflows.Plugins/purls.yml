@@ -82,5 +82,6 @@
 - pkg:nuget/WorldOfWorkflows.Plugins@1.9.100
 - pkg:nuget/WorldOfWorkflows.Plugins@1.9.108
 - pkg:nuget/WorldOfWorkflows.Plugins@1.9.14
+- pkg:nuget/WorldOfWorkflows.Plugins@1.9.150
 - pkg:nuget/WorldOfWorkflows.Plugins@1.9.68
 - pkg:nuget/WorldOfWorkflows.Plugins@1.9.85
