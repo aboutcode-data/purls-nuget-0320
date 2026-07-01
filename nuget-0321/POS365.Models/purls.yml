@@ -293,6 +293,8 @@
 - pkg:nuget/POS365.Models@1.3.21-alpha
 - pkg:nuget/POS365.Models@1.3.21-dev-ja-POS-6261-1
 - pkg:nuget/POS365.Models@1.3.22-dev-ja-POS-6261-1
+- pkg:nuget/POS365.Models@1.3.23-dev-ja-pos-6336
+- pkg:nuget/POS365.Models@1.3.24-dev-ja-pos-6336
 - pkg:nuget/POS365.Models@1.3.6-ALPHA
 - pkg:nuget/POS365.Models@1.3.8-alpha-ja-pos-5239
 - pkg:nuget/POS365.Models@1.3.9-alpha-ja-pos-5238-01
