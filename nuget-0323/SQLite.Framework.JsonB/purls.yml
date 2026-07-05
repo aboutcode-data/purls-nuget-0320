@@ -3,3 +3,12 @@
 - pkg:nuget/SQLite.Framework.JsonB@4.1.1
 - pkg:nuget/SQLite.Framework.JsonB@4.1.2
 - pkg:nuget/SQLite.Framework.JsonB@4.1.3
+- pkg:nuget/SQLite.Framework.JsonB@4.2.0
+- pkg:nuget/SQLite.Framework.JsonB@4.3.0
+- pkg:nuget/SQLite.Framework.JsonB@4.3.1
+- pkg:nuget/SQLite.Framework.JsonB@4.3.2
+- pkg:nuget/SQLite.Framework.JsonB@4.3.3
+- pkg:nuget/SQLite.Framework.JsonB@4.3.4
+- pkg:nuget/SQLite.Framework.JsonB@4.4.0
+- pkg:nuget/SQLite.Framework.JsonB@4.5.0
+- pkg:nuget/SQLite.Framework.JsonB@5.0.0-preview.1
