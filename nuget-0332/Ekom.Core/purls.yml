@@ -707,6 +707,7 @@
 - pkg:nuget/Ekom.Core@0.2.170
 - pkg:nuget/Ekom.Core@0.2.176
 - pkg:nuget/Ekom.Core@0.2.180
+- pkg:nuget/Ekom.Core@0.2.188
 - pkg:nuget/Ekom.Core@0.2.3
 - pkg:nuget/Ekom.Core@0.2.32
 - pkg:nuget/Ekom.Core@0.2.36
