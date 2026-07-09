@@ -92,3 +92,4 @@
 - pkg:nuget/Google.Apis.AccessApproval.v1@1.70.0.3820
 - pkg:nuget/Google.Apis.AccessApproval.v1@1.70.0.3861
 - pkg:nuget/Google.Apis.AccessApproval.v1@1.71.0.3907
+- pkg:nuget/Google.Apis.AccessApproval.v1@1.75.0.4201
