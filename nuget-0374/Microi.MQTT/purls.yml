@@ -36,3 +36,4 @@
 - pkg:nuget/Microi.MQTT@5.7.0
 - pkg:nuget/Microi.MQTT@5.7.6
 - pkg:nuget/Microi.MQTT@5.9.8
+- pkg:nuget/Microi.MQTT@6.1.4
