@@ -88,3 +88,4 @@
 - pkg:nuget/Corvus.Json.CodeGeneration.OpenApi30@4.6.3
 - pkg:nuget/Corvus.Json.CodeGeneration.OpenApi30@4.6.5
 - pkg:nuget/Corvus.Json.CodeGeneration.OpenApi30@5.1.14
+- pkg:nuget/Corvus.Json.CodeGeneration.OpenApi30@5.2.6
