@@ -27,3 +27,4 @@
 - pkg:nuget/PostHog.AspNetCore@1.0.8
 - pkg:nuget/PostHog.AspNetCore@2.0.0
 - pkg:nuget/PostHog.AspNetCore@2.0.1
+- pkg:nuget/PostHog.AspNetCore@2.7.5
