@@ -2,6 +2,7 @@
 - pkg:nuget/ConfigCat.Client@1.1.3
 - pkg:nuget/ConfigCat.Client@1.1.5
 - pkg:nuget/ConfigCat.Client@1.1.6
+- pkg:nuget/ConfigCat.Client@10.0.0
 - pkg:nuget/ConfigCat.Client@2.0.0
 - pkg:nuget/ConfigCat.Client@2.0.1
 - pkg:nuget/ConfigCat.Client@2.1.0
