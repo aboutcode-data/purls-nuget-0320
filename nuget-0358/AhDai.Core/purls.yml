@@ -19,6 +19,8 @@
 - pkg:nuget/AhDai.Core@1.1.8
 - pkg:nuget/AhDai.Core@1.1.9
 - pkg:nuget/AhDai.Core@1.10.15
+- pkg:nuget/AhDai.Core@1.10.24
+- pkg:nuget/AhDai.Core@1.10.25
 - pkg:nuget/AhDai.Core@1.2.0
 - pkg:nuget/AhDai.Core@1.2.1
 - pkg:nuget/AhDai.Core@1.2.2
