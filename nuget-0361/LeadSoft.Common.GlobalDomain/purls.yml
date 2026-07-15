@@ -1,3 +1,4 @@
+- pkg:nuget/LeadSoft.Common.GlobalDomain@10.0.10
 - pkg:nuget/LeadSoft.Common.GlobalDomain@6.0.0
 - pkg:nuget/LeadSoft.Common.GlobalDomain@6.0.2
 - pkg:nuget/LeadSoft.Common.GlobalDomain@6.1.0
