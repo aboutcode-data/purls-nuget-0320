@@ -1,3 +1,5 @@
+- pkg:nuget/BedrockLauncher.Core@2.0.4.4
+- pkg:nuget/BedrockLauncher.Core@2.0.4.5
 - pkg:nuget/BedrockLauncher.Core@25.8.14.159
 - pkg:nuget/BedrockLauncher.Core@25.8.16.156
 - pkg:nuget/BedrockLauncher.Core@25.8.2.844
