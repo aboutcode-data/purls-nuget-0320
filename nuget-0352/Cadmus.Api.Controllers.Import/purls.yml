@@ -17,6 +17,7 @@
 - pkg:nuget/Cadmus.Api.Controllers.Import@11.0.7
 - pkg:nuget/Cadmus.Api.Controllers.Import@11.0.8
 - pkg:nuget/Cadmus.Api.Controllers.Import@11.0.9
+- pkg:nuget/Cadmus.Api.Controllers.Import@14.0.1
 - pkg:nuget/Cadmus.Api.Controllers.Import@8.0.12
 - pkg:nuget/Cadmus.Api.Controllers.Import@8.0.13
 - pkg:nuget/Cadmus.Api.Controllers.Import@9.0.0
