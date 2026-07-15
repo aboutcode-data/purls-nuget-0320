@@ -17,4 +17,5 @@
 - pkg:nuget/StorageProviders.AzureStorage@1.0.37
 - pkg:nuget/StorageProviders.AzureStorage@1.0.38
 - pkg:nuget/StorageProviders.AzureStorage@1.0.5
+- pkg:nuget/StorageProviders.AzureStorage@1.0.68
 - pkg:nuget/StorageProviders.AzureStorage@1.0.8
