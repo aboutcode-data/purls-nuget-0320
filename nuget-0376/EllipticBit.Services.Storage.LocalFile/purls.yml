@@ -7,3 +7,5 @@
 - pkg:nuget/EllipticBit.Services.Storage.LocalFile@1.0.6
 - pkg:nuget/EllipticBit.Services.Storage.LocalFile@1.0.9
 - pkg:nuget/EllipticBit.Services.Storage.LocalFile@1.1.1
+- pkg:nuget/EllipticBit.Services.Storage.LocalFile@1.1.6
+- pkg:nuget/EllipticBit.Services.Storage.LocalFile@1.1.7
