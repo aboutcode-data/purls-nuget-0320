@@ -40,6 +40,9 @@
 - pkg:nuget/PropertyMaster.Dto.Licensing@3.3.477-beta
 - pkg:nuget/PropertyMaster.Dto.Licensing@3.3.493
 - pkg:nuget/PropertyMaster.Dto.Licensing@4.0.1
+- pkg:nuget/PropertyMaster.Dto.Licensing@4.0.101-beta
+- pkg:nuget/PropertyMaster.Dto.Licensing@4.0.106
+- pkg:nuget/PropertyMaster.Dto.Licensing@4.0.107
 - pkg:nuget/PropertyMaster.Dto.Licensing@4.0.19
 - pkg:nuget/PropertyMaster.Dto.Licensing@4.0.28
 - pkg:nuget/PropertyMaster.Dto.Licensing@4.0.38
@@ -56,3 +59,8 @@
 - pkg:nuget/PropertyMaster.Dto.Licensing@4.0.73
 - pkg:nuget/PropertyMaster.Dto.Licensing@4.0.84
 - pkg:nuget/PropertyMaster.Dto.Licensing@4.0.88
+- pkg:nuget/PropertyMaster.Dto.Licensing@4.0.89-beta
+- pkg:nuget/PropertyMaster.Dto.Licensing@4.0.90-beta
+- pkg:nuget/PropertyMaster.Dto.Licensing@4.0.92
+- pkg:nuget/PropertyMaster.Dto.Licensing@4.0.93
+- pkg:nuget/PropertyMaster.Dto.Licensing@4.0.93-beta
