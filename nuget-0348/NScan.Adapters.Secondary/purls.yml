@@ -7,6 +7,7 @@
 - pkg:nuget/NScan.Adapters.Secondary@0.122.0
 - pkg:nuget/NScan.Adapters.Secondary@0.130.0
 - pkg:nuget/NScan.Adapters.Secondary@0.201.0
+- pkg:nuget/NScan.Adapters.Secondary@0.500.0
 - pkg:nuget/NScan.Adapters.Secondary@0.71.0
 - pkg:nuget/NScan.Adapters.Secondary@0.72.0
 - pkg:nuget/NScan.Adapters.Secondary@0.74.0
