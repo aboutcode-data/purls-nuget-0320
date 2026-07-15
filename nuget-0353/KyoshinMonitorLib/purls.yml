@@ -15,6 +15,7 @@
 - pkg:nuget/KyoshinMonitorLib@0.4.5
 - pkg:nuget/KyoshinMonitorLib@0.4.5.1
 - pkg:nuget/KyoshinMonitorLib@0.4.5.2
+- pkg:nuget/KyoshinMonitorLib@0.4.6
 - pkg:nuget/KyoshinMonitorLib@0.4.6-alpha
 - pkg:nuget/KyoshinMonitorLib@0.4.6-alpha2
 - pkg:nuget/KyoshinMonitorLib@0.4.6-alpha3
