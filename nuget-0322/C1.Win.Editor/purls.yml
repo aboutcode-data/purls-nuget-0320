@@ -1,3 +1,4 @@
+- pkg:nuget/C1.Win.Editor@10.0.20261.779
 - pkg:nuget/C1.Win.Editor@6.0.20223.584-beta
 - pkg:nuget/C1.Win.Editor@6.0.20223.588-beta
 - pkg:nuget/C1.Win.Editor@6.0.20231.596-beta
