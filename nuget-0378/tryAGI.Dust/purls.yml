@@ -1,3 +1,5 @@
+- pkg:nuget/tryAGI.Dust@0.0.0-dev.48
 - pkg:nuget/tryAGI.Dust@0.0.0-dev.5
+- pkg:nuget/tryAGI.Dust@0.0.0-dev.57
 - pkg:nuget/tryAGI.Dust@0.0.0-dev.6
 - pkg:nuget/tryAGI.Dust@0.0.0-dev.7
