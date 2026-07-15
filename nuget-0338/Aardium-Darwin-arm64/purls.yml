@@ -12,3 +12,6 @@
 - pkg:nuget/Aardium-Darwin-arm64@2.1.2
 - pkg:nuget/Aardium-Darwin-arm64@2.1.2-prerelease0001
 - pkg:nuget/Aardium-Darwin-arm64@2.1.2-prerelease0002
+- pkg:nuget/Aardium-Darwin-arm64@3.0.0
+- pkg:nuget/Aardium-Darwin-arm64@3.0.1
+- pkg:nuget/Aardium-Darwin-arm64@3.0.2
