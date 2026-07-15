@@ -11,3 +11,4 @@
 - pkg:nuget/AWSSDK.Extensions.CborProtocol@4.0.0.44
 - pkg:nuget/AWSSDK.Extensions.CborProtocol@4.0.0.48
 - pkg:nuget/AWSSDK.Extensions.CborProtocol@4.0.0.8
+- pkg:nuget/AWSSDK.Extensions.CborProtocol@4.0.100.4
