@@ -6,3 +6,5 @@
 - pkg:nuget/UnifiedBlazor.Extensions.Mqtt@0.0.5
 - pkg:nuget/UnifiedBlazor.Extensions.Mqtt@0.0.8
 - pkg:nuget/UnifiedBlazor.Extensions.Mqtt@0.2.3
+- pkg:nuget/UnifiedBlazor.Extensions.Mqtt@0.2.6
+- pkg:nuget/UnifiedBlazor.Extensions.Mqtt@0.2.7
