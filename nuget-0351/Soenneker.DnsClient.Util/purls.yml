@@ -1139,3 +1139,5 @@
 - pkg:nuget/Soenneker.DnsClient.Util@4.0.1202
 - pkg:nuget/Soenneker.DnsClient.Util@4.0.1210
 - pkg:nuget/Soenneker.DnsClient.Util@4.0.1219
+- pkg:nuget/Soenneker.DnsClient.Util@4.0.1226
+- pkg:nuget/Soenneker.DnsClient.Util@4.0.1227
