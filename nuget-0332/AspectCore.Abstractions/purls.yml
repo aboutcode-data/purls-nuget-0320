@@ -39,3 +39,4 @@
 - pkg:nuget/AspectCore.Abstractions@2.2.0
 - pkg:nuget/AspectCore.Abstractions@2.3.0
 - pkg:nuget/AspectCore.Abstractions@2.4.0
+- pkg:nuget/AspectCore.Abstractions@2.6.3
