@@ -458,6 +458,7 @@
 - pkg:nuget/mzLib@1.0.58
 - pkg:nuget/mzLib@1.0.580
 - pkg:nuget/mzLib@1.0.582
+- pkg:nuget/mzLib@1.0.583
 - pkg:nuget/mzLib@1.0.59
 - pkg:nuget/mzLib@1.0.60
 - pkg:nuget/mzLib@1.0.61
