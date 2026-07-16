@@ -2,3 +2,5 @@
 - pkg:nuget/GcDocs.Pdf.AI@8.2.1
 - pkg:nuget/GcDocs.Pdf.AI@9.0.2
 - pkg:nuget/GcDocs.Pdf.AI@9.1.0
+- pkg:nuget/GcDocs.Pdf.AI@9.1.1
+- pkg:nuget/GcDocs.Pdf.AI@9.1.2
