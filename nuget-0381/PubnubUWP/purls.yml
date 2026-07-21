@@ -131,3 +131,4 @@
 - pkg:nuget/PubnubUWP@7.4.1
 - pkg:nuget/PubnubUWP@7.5.0
 - pkg:nuget/PubnubUWP@8.0.1
+- pkg:nuget/PubnubUWP@8.3.3
