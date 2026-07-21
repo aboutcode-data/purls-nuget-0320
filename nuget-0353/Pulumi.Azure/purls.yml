@@ -969,6 +969,7 @@
 - pkg:nuget/Pulumi.Azure@6.4.0-alpha.1728306359
 - pkg:nuget/Pulumi.Azure@6.4.0-alpha.1728367265
 - pkg:nuget/Pulumi.Azure@6.4.0-alpha.1728370770
+- pkg:nuget/Pulumi.Azure@6.40.0-alpha.1784617120
 - pkg:nuget/Pulumi.Azure@6.5.0
 - pkg:nuget/Pulumi.Azure@6.5.0-alpha.1728639562
 - pkg:nuget/Pulumi.Azure@6.5.0-alpha.1728900114
