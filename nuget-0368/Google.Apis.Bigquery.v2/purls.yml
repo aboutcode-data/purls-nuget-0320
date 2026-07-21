@@ -355,6 +355,7 @@
 - pkg:nuget/Google.Apis.Bigquery.v2@1.70.0.3880
 - pkg:nuget/Google.Apis.Bigquery.v2@1.71.0.3914
 - pkg:nuget/Google.Apis.Bigquery.v2@1.75.0.4188
+- pkg:nuget/Google.Apis.Bigquery.v2@1.75.0.4205
 - pkg:nuget/Google.Apis.Bigquery.v2@1.8.0.1320-rc
 - pkg:nuget/Google.Apis.Bigquery.v2@1.8.0.1330-rc
 - pkg:nuget/Google.Apis.Bigquery.v2@1.8.0.1340-rc
