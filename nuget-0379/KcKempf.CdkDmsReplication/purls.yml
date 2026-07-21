@@ -5,6 +5,7 @@
 - pkg:nuget/KcKempf.CdkDmsReplication@0.2.1
 - pkg:nuget/KcKempf.CdkDmsReplication@0.2.12
 - pkg:nuget/KcKempf.CdkDmsReplication@0.2.15
+- pkg:nuget/KcKempf.CdkDmsReplication@0.2.18
 - pkg:nuget/KcKempf.CdkDmsReplication@0.2.2
 - pkg:nuget/KcKempf.CdkDmsReplication@0.2.5
 - pkg:nuget/KcKempf.CdkDmsReplication@0.2.9
