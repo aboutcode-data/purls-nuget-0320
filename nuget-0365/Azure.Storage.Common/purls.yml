@@ -46,6 +46,7 @@
 - pkg:nuget/Azure.Storage.Common@12.24.0
 - pkg:nuget/Azure.Storage.Common@12.24.0-beta.1
 - pkg:nuget/Azure.Storage.Common@12.25.0-beta.1
+- pkg:nuget/Azure.Storage.Common@12.29.0-beta.1
 - pkg:nuget/Azure.Storage.Common@12.3.0
 - pkg:nuget/Azure.Storage.Common@12.4.0
 - pkg:nuget/Azure.Storage.Common@12.4.1
