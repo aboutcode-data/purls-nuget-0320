@@ -1,4 +1,5 @@
 - pkg:nuget/Astronaut.Outbox.Abstractions@1.0.0
+- pkg:nuget/Astronaut.Outbox.Abstractions@10.1.0
 - pkg:nuget/Astronaut.Outbox.Abstractions@3.0.0
 - pkg:nuget/Astronaut.Outbox.Abstractions@4.0.0
 - pkg:nuget/Astronaut.Outbox.Abstractions@4.1.0
