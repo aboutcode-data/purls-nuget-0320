@@ -2188,6 +2188,7 @@
 - pkg:nuget/PepperDashEssentials@3.0.0-dev-v3-routing.49
 - pkg:nuget/PepperDashEssentials@3.0.0-dev-v3-routing.52
 - pkg:nuget/PepperDashEssentials@3.0.0-dev-v3-routing.54
+- pkg:nuget/PepperDashEssentials@3.0.0-dev-v3-routing.57
 - pkg:nuget/PepperDashEssentials@3.0.0-dev-v3-testing.15
 - pkg:nuget/PepperDashEssentials@3.0.0-net8-updates-claude-tests.1
 - pkg:nuget/PepperDashEssentials@3.0.0-net8-updates.2
