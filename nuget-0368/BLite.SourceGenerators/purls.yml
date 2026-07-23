@@ -7,3 +7,5 @@
 - pkg:nuget/BLite.SourceGenerators@4.0.3
 - pkg:nuget/BLite.SourceGenerators@4.1.0
 - pkg:nuget/BLite.SourceGenerators@4.2.1-preview.1
+- pkg:nuget/BLite.SourceGenerators@5.0.0
+- pkg:nuget/BLite.SourceGenerators@5.0.3
