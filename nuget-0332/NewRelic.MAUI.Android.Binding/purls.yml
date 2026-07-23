@@ -13,3 +13,4 @@
 - pkg:nuget/NewRelic.MAUI.Android.Binding@7.6.5
 - pkg:nuget/NewRelic.MAUI.Android.Binding@7.6.6
 - pkg:nuget/NewRelic.MAUI.Android.Binding@7.6.8
+- pkg:nuget/NewRelic.MAUI.Android.Binding@7.7.5
