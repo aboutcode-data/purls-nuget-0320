@@ -2,3 +2,4 @@
 - pkg:nuget/Google.Cloud.ModelArmor.V1@1.0.0-beta02
 - pkg:nuget/Google.Cloud.ModelArmor.V1@1.0.0-beta03
 - pkg:nuget/Google.Cloud.ModelArmor.V1@1.0.0-beta04
+- pkg:nuget/Google.Cloud.ModelArmor.V1@1.0.0-beta06
