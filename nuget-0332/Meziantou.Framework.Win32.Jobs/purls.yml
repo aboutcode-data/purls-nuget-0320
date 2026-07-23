@@ -17,3 +17,4 @@
 - pkg:nuget/Meziantou.Framework.Win32.Jobs@3.4.2
 - pkg:nuget/Meziantou.Framework.Win32.Jobs@3.4.3
 - pkg:nuget/Meziantou.Framework.Win32.Jobs@3.4.4
+- pkg:nuget/Meziantou.Framework.Win32.Jobs@4.0.0
