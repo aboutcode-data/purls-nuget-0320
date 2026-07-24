@@ -165,3 +165,4 @@
 - pkg:nuget/Dos.ORM@6.4.8
 - pkg:nuget/Dos.ORM@6.5.4
 - pkg:nuget/Dos.ORM@6.5.9
+- pkg:nuget/Dos.ORM@6.6.2
