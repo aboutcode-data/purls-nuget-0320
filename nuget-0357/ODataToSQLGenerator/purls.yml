@@ -1,4 +1,6 @@
 - pkg:nuget/ODataToSQLGenerator@1.0.0
 - pkg:nuget/ODataToSQLGenerator@1.0.10
+- pkg:nuget/ODataToSQLGenerator@1.0.18
 - pkg:nuget/ODataToSQLGenerator@1.0.4
 - pkg:nuget/ODataToSQLGenerator@1.0.8
+- pkg:nuget/ODataToSQLGenerator@2.0.5
