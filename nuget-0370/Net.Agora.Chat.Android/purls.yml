@@ -1,1 +1,4 @@
 - pkg:nuget/Net.Agora.Chat.Android@1.2.1.1-beta1
+- pkg:nuget/Net.Agora.Chat.Android@1.4.0.1
+- pkg:nuget/Net.Agora.Chat.Android@1.4.0.1-beta.5.9
+- pkg:nuget/Net.Agora.Chat.Android@1.4.0.1-beta.7.14
