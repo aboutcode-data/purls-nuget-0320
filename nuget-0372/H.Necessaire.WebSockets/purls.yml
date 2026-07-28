@@ -227,3 +227,4 @@
 - pkg:nuget/H.Necessaire.WebSockets@3.4.5
 - pkg:nuget/H.Necessaire.WebSockets@3.4.8
 - pkg:nuget/H.Necessaire.WebSockets@3.5.0
+- pkg:nuget/H.Necessaire.WebSockets@3.7.0
