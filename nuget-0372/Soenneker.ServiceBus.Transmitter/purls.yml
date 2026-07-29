@@ -3736,3 +3736,5 @@
 - pkg:nuget/Soenneker.ServiceBus.Transmitter@4.0.3783
 - pkg:nuget/Soenneker.ServiceBus.Transmitter@4.0.3798
 - pkg:nuget/Soenneker.ServiceBus.Transmitter@4.0.3800
+- pkg:nuget/Soenneker.ServiceBus.Transmitter@4.0.3810
+- pkg:nuget/Soenneker.ServiceBus.Transmitter@4.0.3811
