@@ -192,6 +192,7 @@
 - pkg:nuget/HttpAgent@1.3.0
 - pkg:nuget/HttpAgent@1.4.0
 - pkg:nuget/HttpAgent@1.42.0
+- pkg:nuget/HttpAgent@1.46.0
 - pkg:nuget/HttpAgent@1.5.0
 - pkg:nuget/HttpAgent@1.5.1
 - pkg:nuget/HttpAgent@1.5.2
