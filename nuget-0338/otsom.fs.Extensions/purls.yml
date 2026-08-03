@@ -25,3 +25,4 @@
 - pkg:nuget/otsom.fs.Extensions@0.0.65-gcc291b218f
 - pkg:nuget/otsom.fs.Extensions@0.0.7
 - pkg:nuget/otsom.fs.Extensions@0.0.8
+- pkg:nuget/otsom.fs.Extensions@0.1.6
