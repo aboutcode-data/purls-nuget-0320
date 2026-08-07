@@ -57,5 +57,6 @@
 - pkg:nuget/JasperFx.Events@2.35.0
 - pkg:nuget/JasperFx.Events@2.36.3
 - pkg:nuget/JasperFx.Events@2.4.1
+- pkg:nuget/JasperFx.Events@2.42.1
 - pkg:nuget/JasperFx.Events@2.9.3
 - pkg:nuget/JasperFx.Events@2.9.9
