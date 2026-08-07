@@ -20,5 +20,7 @@
 - pkg:nuget/SkyHive.B2C@3.1.1.229964-dev
 - pkg:nuget/SkyHive.B2C@3.1.2-dev-106cd0c
 - pkg:nuget/SkyHive.B2C@3.1.2-dev-2b959ee
+- pkg:nuget/SkyHive.B2C@3.1.2-dev-2c05c03
 - pkg:nuget/SkyHive.B2C@3.1.2-dev-6b6ef15
 - pkg:nuget/SkyHive.B2C@3.1.2-dev-c23ba4e
+- pkg:nuget/SkyHive.B2C@3.1.2-master-2c05c03
