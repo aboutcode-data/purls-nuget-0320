@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.MicroService.Templates@10.4.0
 - pkg:nuget/LINGYUN.Abp.MicroService.Templates@4.4.0
 - pkg:nuget/LINGYUN.Abp.MicroService.Templates@5.0.0
 - pkg:nuget/LINGYUN.Abp.MicroService.Templates@5.0.0-rc.1
