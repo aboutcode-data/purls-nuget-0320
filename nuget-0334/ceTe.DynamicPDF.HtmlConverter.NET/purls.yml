@@ -22,3 +22,4 @@
 - pkg:nuget/ceTe.DynamicPDF.HtmlConverter.NET@2.3.0
 - pkg:nuget/ceTe.DynamicPDF.HtmlConverter.NET@2.4.0
 - pkg:nuget/ceTe.DynamicPDF.HtmlConverter.NET@3.0.0-beta
+- pkg:nuget/ceTe.DynamicPDF.HtmlConverter.NET@3.4.0
