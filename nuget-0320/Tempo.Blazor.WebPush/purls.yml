@@ -6,3 +6,4 @@
 - pkg:nuget/Tempo.Blazor.WebPush@2.5.3
 - pkg:nuget/Tempo.Blazor.WebPush@2.5.3-ci-20260721185803
 - pkg:nuget/Tempo.Blazor.WebPush@2.7.1
+- pkg:nuget/Tempo.Blazor.WebPush@2.8.7
