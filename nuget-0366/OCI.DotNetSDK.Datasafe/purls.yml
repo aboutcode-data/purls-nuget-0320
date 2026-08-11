@@ -55,6 +55,7 @@
 - pkg:nuget/OCI.DotNetSDK.Datasafe@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Datasafe@14.2.0
 - pkg:nuget/OCI.DotNetSDK.Datasafe@140.0.0
+- pkg:nuget/OCI.DotNetSDK.Datasafe@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Datasafe@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Datasafe@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Datasafe@15.2.0
