@@ -6,6 +6,7 @@
 - pkg:nuget/Shiny.DocumentDb.Oracle@12.2.0-beta-0001
 - pkg:nuget/Shiny.DocumentDb.Oracle@13.0.0
 - pkg:nuget/Shiny.DocumentDb.Oracle@13.2.0
+- pkg:nuget/Shiny.DocumentDb.Oracle@13.2.1
 - pkg:nuget/Shiny.DocumentDb.Oracle@6.2.0-beta-0002
 - pkg:nuget/Shiny.DocumentDb.Oracle@6.2.0-beta-0003
 - pkg:nuget/Shiny.DocumentDb.Oracle@6.2.0-beta-0004
