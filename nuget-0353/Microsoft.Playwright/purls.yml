@@ -95,3 +95,4 @@
 - pkg:nuget/Microsoft.Playwright@1.55.0-beta-3
 - pkg:nuget/Microsoft.Playwright@1.55.0-beta-4
 - pkg:nuget/Microsoft.Playwright@1.61.0
+- pkg:nuget/Microsoft.Playwright@1.62.0
