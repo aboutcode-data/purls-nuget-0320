@@ -50,3 +50,5 @@
 - pkg:nuget/Google.Apis.OrgPolicyAPI.v2@1.69.0.3760
 - pkg:nuget/Google.Apis.OrgPolicyAPI.v2@1.70.0.3809
 - pkg:nuget/Google.Apis.OrgPolicyAPI.v2@1.70.0.3879
+- pkg:nuget/Google.Apis.OrgPolicyAPI.v2@1.75.0.4214
+- pkg:nuget/Google.Apis.OrgPolicyAPI.v2@1.75.0.4221
