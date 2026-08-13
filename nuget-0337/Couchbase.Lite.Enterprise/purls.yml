@@ -38,3 +38,5 @@
 - pkg:nuget/Couchbase.Lite.Enterprise@3.2.2
 - pkg:nuget/Couchbase.Lite.Enterprise@3.2.3
 - pkg:nuget/Couchbase.Lite.Enterprise@3.2.4
+- pkg:nuget/Couchbase.Lite.Enterprise@3.4.1
+- pkg:nuget/Couchbase.Lite.Enterprise@4.1.1
