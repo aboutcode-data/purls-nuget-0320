@@ -3,3 +3,5 @@
 - pkg:nuget/AgentFrameworkToolkit.Cerebras@1.0.0-rc4.2
 - pkg:nuget/AgentFrameworkToolkit.Cerebras@1.0.0-rc5
 - pkg:nuget/AgentFrameworkToolkit.Cerebras@1.1.0
+- pkg:nuget/AgentFrameworkToolkit.Cerebras@1.11.1
+- pkg:nuget/AgentFrameworkToolkit.Cerebras@1.16.1
