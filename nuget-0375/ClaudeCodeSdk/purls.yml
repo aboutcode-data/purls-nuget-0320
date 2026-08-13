@@ -2,3 +2,5 @@
 - pkg:nuget/ClaudeCodeSdk@0.10.3-preview2
 - pkg:nuget/ClaudeCodeSdk@0.10.4-preview1
 - pkg:nuget/ClaudeCodeSdk@0.10.4-preview2
+- pkg:nuget/ClaudeCodeSdk@10.3.0-preview.1
+- pkg:nuget/ClaudeCodeSdk@10.3.2-preview.1
