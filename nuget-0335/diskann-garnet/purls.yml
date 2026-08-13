@@ -3,3 +3,5 @@
 - pkg:nuget/diskann-garnet@1.0.21
 - pkg:nuget/diskann-garnet@1.0.22
 - pkg:nuget/diskann-garnet@1.0.25
+- pkg:nuget/diskann-garnet@2.0.0
+- pkg:nuget/diskann-garnet@2.0.2
