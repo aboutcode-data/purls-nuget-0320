@@ -73,3 +73,4 @@
 - pkg:nuget/XiHan.Framework.Threading@2.3.2-preview
 - pkg:nuget/XiHan.Framework.Threading@2.3.5
 - pkg:nuget/XiHan.Framework.Threading@3.10.0
+- pkg:nuget/XiHan.Framework.Threading@3.11.1
