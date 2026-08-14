@@ -51,6 +51,7 @@
 - pkg:nuget/RetroSharp.Tool@0.0.446
 - pkg:nuget/RetroSharp.Tool@0.0.452
 - pkg:nuget/RetroSharp.Tool@0.0.454
+- pkg:nuget/RetroSharp.Tool@0.0.469
 - pkg:nuget/RetroSharp.Tool@0.0.67
 - pkg:nuget/RetroSharp.Tool@0.0.68
 - pkg:nuget/RetroSharp.Tool@0.0.69
