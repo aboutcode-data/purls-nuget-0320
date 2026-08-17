@@ -7,6 +7,7 @@
 - pkg:nuget/KY.Generator.Watchdog@1.2.0
 - pkg:nuget/KY.Generator.Watchdog@10.0.0-preview.15
 - pkg:nuget/KY.Generator.Watchdog@10.1.0
+- pkg:nuget/KY.Generator.Watchdog@10.1.2
 - pkg:nuget/KY.Generator.Watchdog@2.0.0
 - pkg:nuget/KY.Generator.Watchdog@2.2.0
 - pkg:nuget/KY.Generator.Watchdog@2.3.0
