@@ -233,3 +233,4 @@
 - pkg:nuget/HttpAgent@1.9.4
 - pkg:nuget/HttpAgent@1.9.5
 - pkg:nuget/HttpAgent@2.0.3
+- pkg:nuget/HttpAgent@2.1.3
