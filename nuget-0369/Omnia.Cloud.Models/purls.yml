@@ -104,6 +104,7 @@
 - pkg:nuget/Omnia.Cloud.Models@1.9.0
 - pkg:nuget/Omnia.Cloud.Models@10.0.15
 - pkg:nuget/Omnia.Cloud.Models@10.0.16
+- pkg:nuget/Omnia.Cloud.Models@10.0.25
 - pkg:nuget/Omnia.Cloud.Models@135.0.0
 - pkg:nuget/Omnia.Cloud.Models@8.0.0
 - pkg:nuget/Omnia.Cloud.Models@8.0.0-dev.10
