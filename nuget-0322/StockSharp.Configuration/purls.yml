@@ -134,6 +134,7 @@
 - pkg:nuget/StockSharp.Configuration@5.0.218
 - pkg:nuget/StockSharp.Configuration@5.0.22
 - pkg:nuget/StockSharp.Configuration@5.0.221
+- pkg:nuget/StockSharp.Configuration@5.0.226
 - pkg:nuget/StockSharp.Configuration@5.0.23
 - pkg:nuget/StockSharp.Configuration@5.0.24
 - pkg:nuget/StockSharp.Configuration@5.0.25
