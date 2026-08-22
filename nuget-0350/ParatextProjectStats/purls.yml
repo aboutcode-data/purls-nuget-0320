@@ -10,6 +10,7 @@
 - pkg:nuget/ParatextProjectStats@0.35.0
 - pkg:nuget/ParatextProjectStats@0.36.0
 - pkg:nuget/ParatextProjectStats@0.4.0
+- pkg:nuget/ParatextProjectStats@0.40.0
 - pkg:nuget/ParatextProjectStats@0.5.0
 - pkg:nuget/ParatextProjectStats@0.6.0
 - pkg:nuget/ParatextProjectStats@0.7.0
