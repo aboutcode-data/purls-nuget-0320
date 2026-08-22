@@ -59,3 +59,4 @@
 - pkg:nuget/WASU.SourceGenerator.Template.Generators@26.330.13
 - pkg:nuget/WASU.SourceGenerator.Template.Generators@26.811.11
 - pkg:nuget/WASU.SourceGenerator.Template.Generators@26.821.14
+- pkg:nuget/WASU.SourceGenerator.Template.Generators@26.822.8
