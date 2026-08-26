@@ -3,6 +3,7 @@
 - pkg:nuget/Univedo.EntityFrameworkCore.Univedo@0.1.2-beta
 - pkg:nuget/Univedo.EntityFrameworkCore.Univedo@0.1.3-beta
 - pkg:nuget/Univedo.EntityFrameworkCore.Univedo@10.0.11.3
+- pkg:nuget/Univedo.EntityFrameworkCore.Univedo@10.0.11.5
 - pkg:nuget/Univedo.EntityFrameworkCore.Univedo@2.0.0-alpha
 - pkg:nuget/Univedo.EntityFrameworkCore.Univedo@2.0.2-alpha
 - pkg:nuget/Univedo.EntityFrameworkCore.Univedo@2.0.3-alpha
