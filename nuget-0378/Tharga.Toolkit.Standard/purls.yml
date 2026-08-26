@@ -41,6 +41,7 @@
 - pkg:nuget/Tharga.Toolkit.Standard@1.15.22
 - pkg:nuget/Tharga.Toolkit.Standard@1.15.23
 - pkg:nuget/Tharga.Toolkit.Standard@1.16.2
+- pkg:nuget/Tharga.Toolkit.Standard@1.16.3
 - pkg:nuget/Tharga.Toolkit.Standard@1.8.10
 - pkg:nuget/Tharga.Toolkit.Standard@1.8.11
 - pkg:nuget/Tharga.Toolkit.Standard@1.8.12
