@@ -2198,6 +2198,7 @@
 - pkg:nuget/PepperDashEssentials@3.0.0-dev-v3-routing.57
 - pkg:nuget/PepperDashEssentials@3.0.0-dev-v3-testing.15
 - pkg:nuget/PepperDashEssentials@3.0.0-fix-audio-codec-messenger-codec-info-null-ref.1
+- pkg:nuget/PepperDashEssentials@3.0.0-fix-v3-mock-testing-fixes.1
 - pkg:nuget/PepperDashEssentials@3.0.0-net8-updates-claude-tests.1
 - pkg:nuget/PepperDashEssentials@3.0.0-net8-updates.2
 - pkg:nuget/PepperDashEssentials@3.0.0-net8-updates.3
