@@ -1,6 +1,8 @@
+- pkg:nuget/PAQO.Memory.LiteDB@0.0.1-pre4
 - pkg:nuget/PAQO.Memory.LiteDB@1.0.0
 - pkg:nuget/PAQO.Memory.LiteDB@1.1.0
 - pkg:nuget/PAQO.Memory.LiteDB@1.2.0
 - pkg:nuget/PAQO.Memory.LiteDB@1.2.1
 - pkg:nuget/PAQO.Memory.LiteDB@2.0.0
 - pkg:nuget/PAQO.Memory.LiteDB@2.0.1
+- pkg:nuget/PAQO.Memory.LiteDB@21.4.0
