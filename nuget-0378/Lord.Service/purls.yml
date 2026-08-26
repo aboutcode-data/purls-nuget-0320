@@ -92,4 +92,6 @@
 - pkg:nuget/Lord.Service@6.0.9
 - pkg:nuget/Lord.Service@6.1.0
 - pkg:nuget/Lord.Service@7.0.8
+- pkg:nuget/Lord.Service@7.10.10
+- pkg:nuget/Lord.Service@7.10.12
 - pkg:nuget/Lord.Service@7.10.8
