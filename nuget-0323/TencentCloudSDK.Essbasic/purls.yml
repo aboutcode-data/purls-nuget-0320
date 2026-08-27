@@ -293,6 +293,7 @@
 - pkg:nuget/TencentCloudSDK.Essbasic@3.0.1469
 - pkg:nuget/TencentCloudSDK.Essbasic@3.0.1479
 - pkg:nuget/TencentCloudSDK.Essbasic@3.0.1489
+- pkg:nuget/TencentCloudSDK.Essbasic@3.0.1497
 - pkg:nuget/TencentCloudSDK.Essbasic@3.0.366
 - pkg:nuget/TencentCloudSDK.Essbasic@3.0.367
 - pkg:nuget/TencentCloudSDK.Essbasic@3.0.368
