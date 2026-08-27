@@ -895,6 +895,7 @@
 - pkg:nuget/Soenneker.Stripe.Customers@4.0.1129
 - pkg:nuget/Soenneker.Stripe.Customers@4.0.1134
 - pkg:nuget/Soenneker.Stripe.Customers@4.0.1151
+- pkg:nuget/Soenneker.Stripe.Customers@4.0.1160
 - pkg:nuget/Soenneker.Stripe.Customers@4.0.882
 - pkg:nuget/Soenneker.Stripe.Customers@4.0.890
 - pkg:nuget/Soenneker.Stripe.Customers@4.0.909
