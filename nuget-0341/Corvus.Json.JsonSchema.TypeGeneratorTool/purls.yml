@@ -204,3 +204,4 @@
 - pkg:nuget/Corvus.Json.JsonSchema.TypeGeneratorTool@5.1.10
 - pkg:nuget/Corvus.Json.JsonSchema.TypeGeneratorTool@5.1.14
 - pkg:nuget/Corvus.Json.JsonSchema.TypeGeneratorTool@5.2.6
+- pkg:nuget/Corvus.Json.JsonSchema.TypeGeneratorTool@5.4.3
