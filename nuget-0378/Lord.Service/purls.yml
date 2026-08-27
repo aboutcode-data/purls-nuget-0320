@@ -95,3 +95,4 @@
 - pkg:nuget/Lord.Service@7.10.10
 - pkg:nuget/Lord.Service@7.10.12
 - pkg:nuget/Lord.Service@7.10.8
+- pkg:nuget/Lord.Service@8.0.0
