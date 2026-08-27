@@ -373,6 +373,8 @@
 - pkg:nuget/Pulumi.Awsx@3.1.0-alpha.1756137557
 - pkg:nuget/Pulumi.Awsx@3.1.0-alpha.1756324610
 - pkg:nuget/Pulumi.Awsx@3.1.0-alpha.1756447540
+- pkg:nuget/Pulumi.Awsx@3.10.0-alpha.1787833442
+- pkg:nuget/Pulumi.Awsx@3.10.0-alpha.1787836552
 - pkg:nuget/Pulumi.Awsx@3.2.0
 - pkg:nuget/Pulumi.Awsx@3.2.0-alpha.1763704898
 - pkg:nuget/Pulumi.Awsx@3.2.0-alpha.1765260048
@@ -397,4 +399,6 @@
 - pkg:nuget/Pulumi.Awsx@3.8.0-alpha.1783581497
 - pkg:nuget/Pulumi.Awsx@3.8.0-alpha.1784183908
 - pkg:nuget/Pulumi.Awsx@3.8.0-alpha.1784618397
+- pkg:nuget/Pulumi.Awsx@3.9.0
 - pkg:nuget/Pulumi.Awsx@3.9.0-alpha.1787776393
+- pkg:nuget/Pulumi.Awsx@3.9.0-alpha.1787821377
