@@ -1,5 +1,6 @@
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.Common@1.0.0-RC-20190708
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.Common@1.0.0-alpha-20190701
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.Common@10.1.0
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.Common@3.0.0-beta20191012
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.Common@3.1.0
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.Common@5.0.0
