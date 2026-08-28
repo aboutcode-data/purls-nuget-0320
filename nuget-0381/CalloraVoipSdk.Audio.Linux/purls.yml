@@ -1,5 +1,6 @@
 - pkg:nuget/CalloraVoipSdk.Audio.Linux@1.0.2
 - pkg:nuget/CalloraVoipSdk.Audio.Linux@3.1.0
+- pkg:nuget/CalloraVoipSdk.Audio.Linux@4.12.0
 - pkg:nuget/CalloraVoipSdk.Audio.Linux@4.3.4
 - pkg:nuget/CalloraVoipSdk.Audio.Linux@4.4.1
 - pkg:nuget/CalloraVoipSdk.Audio.Linux@4.6.0
