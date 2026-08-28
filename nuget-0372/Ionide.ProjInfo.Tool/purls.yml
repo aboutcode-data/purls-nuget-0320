@@ -38,3 +38,4 @@
 - pkg:nuget/Ionide.ProjInfo.Tool@0.71.0
 - pkg:nuget/Ionide.ProjInfo.Tool@0.71.1
 - pkg:nuget/Ionide.ProjInfo.Tool@0.71.2
+- pkg:nuget/Ionide.ProjInfo.Tool@0.75.0
