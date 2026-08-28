@@ -93,3 +93,4 @@
 - pkg:nuget/PhoneNumberParser@4.2.0
 - pkg:nuget/PhoneNumberParser@4.4.3
 - pkg:nuget/PhoneNumberParser@5.0.0-preview20260804.122
+- pkg:nuget/PhoneNumberParser@5.0.0-preview20260827.129
