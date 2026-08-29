@@ -1,1 +1,2 @@
 - pkg:nuget/Brazilian.PrimitivesTypes.EntityFrameworkCore.SqlServer@1.2.0
+- pkg:nuget/Brazilian.PrimitivesTypes.EntityFrameworkCore.SqlServer@1.2.2
