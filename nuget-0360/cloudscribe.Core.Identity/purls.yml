@@ -17,6 +17,7 @@
 - pkg:nuget/cloudscribe.Core.Identity@1.1.1
 - pkg:nuget/cloudscribe.Core.Identity@1.1.1-rc20170526
 - pkg:nuget/cloudscribe.Core.Identity@1.1.2
+- pkg:nuget/cloudscribe.Core.Identity@10.1.0
 - pkg:nuget/cloudscribe.Core.Identity@2.0.0
 - pkg:nuget/cloudscribe.Core.Identity@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.Core.Identity@2.0.0-preview20170726

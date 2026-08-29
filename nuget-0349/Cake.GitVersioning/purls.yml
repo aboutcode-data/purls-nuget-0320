@@ -41,6 +41,8 @@
 - pkg:nuget/Cake.GitVersioning@3.1.74
 - pkg:nuget/Cake.GitVersioning@3.1.89
 - pkg:nuget/Cake.GitVersioning@3.1.91
+- pkg:nuget/Cake.GitVersioning@3.10.94
+- pkg:nuget/Cake.GitVersioning@3.11.128-beta
 - pkg:nuget/Cake.GitVersioning@3.2.27-beta
 - pkg:nuget/Cake.GitVersioning@3.2.31
 - pkg:nuget/Cake.GitVersioning@3.2.31-g648a82aa51
