@@ -933,6 +933,8 @@
 - pkg:nuget/Soenneker.Managers.HashSaving@4.0.1236
 - pkg:nuget/Soenneker.Managers.HashSaving@4.0.1240
 - pkg:nuget/Soenneker.Managers.HashSaving@4.0.1253
+- pkg:nuget/Soenneker.Managers.HashSaving@4.0.1255
+- pkg:nuget/Soenneker.Managers.HashSaving@4.0.1257
 - pkg:nuget/Soenneker.Managers.HashSaving@4.0.914
 - pkg:nuget/Soenneker.Managers.HashSaving@4.0.925
 - pkg:nuget/Soenneker.Managers.HashSaving@4.0.934
