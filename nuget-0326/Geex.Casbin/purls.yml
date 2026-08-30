@@ -1,3 +1,5 @@
+- pkg:nuget/Geex.Casbin@10.0.5
+- pkg:nuget/Geex.Casbin@10.0.6
 - pkg:nuget/Geex.Casbin@7.0.2
 - pkg:nuget/Geex.Casbin@7.0.3
 - pkg:nuget/Geex.Casbin@7.0.4.3
