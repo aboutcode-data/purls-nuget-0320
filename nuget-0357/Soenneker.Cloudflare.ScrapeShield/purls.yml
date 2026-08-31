@@ -172,3 +172,6 @@
 - pkg:nuget/Soenneker.Cloudflare.ScrapeShield@4.0.463
 - pkg:nuget/Soenneker.Cloudflare.ScrapeShield@4.0.469
 - pkg:nuget/Soenneker.Cloudflare.ScrapeShield@4.0.471
+- pkg:nuget/Soenneker.Cloudflare.ScrapeShield@4.0.486
+- pkg:nuget/Soenneker.Cloudflare.ScrapeShield@4.0.487
+- pkg:nuget/Soenneker.Cloudflare.ScrapeShield@4.0.488
