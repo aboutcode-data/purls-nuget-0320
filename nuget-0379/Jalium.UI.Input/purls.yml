@@ -1,4 +1,5 @@
 - pkg:nuget/Jalium.UI.Input@26.10.0
+- pkg:nuget/Jalium.UI.Input@26.10.9
 - pkg:nuget/Jalium.UI.Input@26.8.0
 - pkg:nuget/Jalium.UI.Input@26.8.8
 - pkg:nuget/Jalium.UI.Input@26.9.10
