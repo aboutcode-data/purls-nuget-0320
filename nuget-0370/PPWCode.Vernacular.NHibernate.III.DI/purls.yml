@@ -1,1 +1,4 @@
 - pkg:nuget/PPWCode.Vernacular.NHibernate.III.DI@5.0.0-alpha.3
+- pkg:nuget/PPWCode.Vernacular.NHibernate.III.DI@5.0.0-alpha.6
+- pkg:nuget/PPWCode.Vernacular.NHibernate.III.DI@5.1.0-alpha.1
+- pkg:nuget/PPWCode.Vernacular.NHibernate.III.DI@5.2.0
