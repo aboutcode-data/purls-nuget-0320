@@ -1,1 +1,2 @@
 - pkg:nuget/go.fmt@0.1.0
+- pkg:nuget/go.fmt@1.23.12.1
