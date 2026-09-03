@@ -71,3 +71,6 @@
 - pkg:nuget/SIL.BuildTasks.AWS@3.1.2-beta0005
 - pkg:nuget/SIL.BuildTasks.AWS@3.1.2-beta0012
 - pkg:nuget/SIL.BuildTasks.AWS@3.1.2-beta0014
+- pkg:nuget/SIL.BuildTasks.AWS@3.2.1-beta0001
+- pkg:nuget/SIL.BuildTasks.AWS@3.2.1-beta0002
+- pkg:nuget/SIL.BuildTasks.AWS@3.2.1-beta0004
