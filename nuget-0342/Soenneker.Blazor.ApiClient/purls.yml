@@ -2421,3 +2421,4 @@
 - pkg:nuget/Soenneker.Blazor.ApiClient@4.0.3081
 - pkg:nuget/Soenneker.Blazor.ApiClient@4.0.3082
 - pkg:nuget/Soenneker.Blazor.ApiClient@4.0.3110
+- pkg:nuget/Soenneker.Blazor.ApiClient@4.0.3119
