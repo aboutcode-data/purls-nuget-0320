@@ -9,3 +9,5 @@
 - pkg:nuget/Soenneker.Adyen.HttpClients@4.0.76
 - pkg:nuget/Soenneker.Adyen.HttpClients@4.0.78
 - pkg:nuget/Soenneker.Adyen.HttpClients@4.0.79
+- pkg:nuget/Soenneker.Adyen.HttpClients@4.0.88
+- pkg:nuget/Soenneker.Adyen.HttpClients@4.0.92
