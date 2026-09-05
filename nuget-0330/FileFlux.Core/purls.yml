@@ -1,2 +1,7 @@
+- pkg:nuget/FileFlux.Core@0.10.14
 - pkg:nuget/FileFlux.Core@0.10.6
+- pkg:nuget/FileFlux.Core@0.10.9
+- pkg:nuget/FileFlux.Core@0.14.0
+- pkg:nuget/FileFlux.Core@0.16.0
+- pkg:nuget/FileFlux.Core@0.20.1
 - pkg:nuget/FileFlux.Core@0.9.4
