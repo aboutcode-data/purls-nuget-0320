@@ -179,3 +179,4 @@
 - pkg:nuget/Dos.ORM@7.8.7
 - pkg:nuget/Dos.ORM@7.9.1
 - pkg:nuget/Dos.ORM@8.0.2
+- pkg:nuget/Dos.ORM@8.1.8
