@@ -2,6 +2,7 @@
 - pkg:nuget/cloudscribe.Common.Gdpr@1.0.1
 - pkg:nuget/cloudscribe.Common.Gdpr@1.0.2
 - pkg:nuget/cloudscribe.Common.Gdpr@1.0.3
+- pkg:nuget/cloudscribe.Common.Gdpr@10.1.0
 - pkg:nuget/cloudscribe.Common.Gdpr@3.0.0
 - pkg:nuget/cloudscribe.Common.Gdpr@3.0.0-preview20190901
 - pkg:nuget/cloudscribe.Common.Gdpr@4.1.0
