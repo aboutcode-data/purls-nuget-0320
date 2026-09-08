@@ -7,6 +7,7 @@
 - pkg:nuget/Soenneker.Replicate.OpenApiClientUtil@4.0.124
 - pkg:nuget/Soenneker.Replicate.OpenApiClientUtil@4.0.127
 - pkg:nuget/Soenneker.Replicate.OpenApiClientUtil@4.0.128
+- pkg:nuget/Soenneker.Replicate.OpenApiClientUtil@4.0.133
 - pkg:nuget/Soenneker.Replicate.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Replicate.OpenApiClientUtil@4.0.23
 - pkg:nuget/Soenneker.Replicate.OpenApiClientUtil@4.0.31
