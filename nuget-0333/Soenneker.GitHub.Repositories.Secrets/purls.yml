@@ -722,6 +722,7 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@4.0.1123
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@4.0.1128
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@4.0.1130
+- pkg:nuget/Soenneker.GitHub.Repositories.Secrets@4.0.1138
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@4.0.728
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@4.0.740
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@4.0.741
