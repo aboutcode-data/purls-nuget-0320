@@ -16,6 +16,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Extensions@2.2.0-preview2-35157
 - pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Extensions@2.2.0-preview3-35497
 - pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Extensions@2.3.0
+- pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Extensions@2.3.13
 - pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Extensions@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Extensions@3.0.0-preview-18579-0056
 - pkg:nuget/Microsoft.AspNetCore.Mvc.Razor.Extensions@3.0.0-preview-19074-06
