@@ -14,3 +14,5 @@
 - pkg:nuget/Compono@0.5.0-preview.75
 - pkg:nuget/Compono@0.5.1-preview.76
 - pkg:nuget/Compono@0.8.1-preview.86
+- pkg:nuget/Compono@1.1.0
+- pkg:nuget/Compono@1.2.1-preview.106
