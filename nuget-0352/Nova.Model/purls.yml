@@ -5,6 +5,7 @@
 - pkg:nuget/Nova.Model@1.0.5
 - pkg:nuget/Nova.Model@1.0.6
 - pkg:nuget/Nova.Model@1.1.0
+- pkg:nuget/Nova.Model@10.0.2
 - pkg:nuget/Nova.Model@3.0.0
 - pkg:nuget/Nova.Model@3.1.0
 - pkg:nuget/Nova.Model@3.2.0
