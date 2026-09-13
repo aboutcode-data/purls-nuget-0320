@@ -166,3 +166,5 @@
 - pkg:nuget/Soenneker.Loops.ClientUtil@4.0.580
 - pkg:nuget/Soenneker.Loops.ClientUtil@4.0.581
 - pkg:nuget/Soenneker.Loops.ClientUtil@4.0.585
+- pkg:nuget/Soenneker.Loops.ClientUtil@4.0.592
+- pkg:nuget/Soenneker.Loops.ClientUtil@4.0.595
