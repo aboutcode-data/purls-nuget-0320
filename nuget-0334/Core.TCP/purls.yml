@@ -47,3 +47,5 @@
 - pkg:nuget/Core.TCP@5.6.5
 - pkg:nuget/Core.TCP@5.6.7
 - pkg:nuget/Core.TCP@5.7.3
+- pkg:nuget/Core.TCP@5.9.0
+- pkg:nuget/Core.TCP@5.9.1
