@@ -19,6 +19,7 @@
 - pkg:nuget/KA.Barcode.Generator.Excel@7.7.0.44
 - pkg:nuget/KA.Barcode.Generator.Excel@7.7.0.5
 - pkg:nuget/KA.Barcode.Generator.Excel@7.7.0.6
+- pkg:nuget/KA.Barcode.Generator.Excel@7.7.0.68
 - pkg:nuget/KA.Barcode.Generator.Excel@7.7.0.7
 - pkg:nuget/KA.Barcode.Generator.Excel@7.7.0.8
 - pkg:nuget/KA.Barcode.Generator.Excel@7.7.0.9
