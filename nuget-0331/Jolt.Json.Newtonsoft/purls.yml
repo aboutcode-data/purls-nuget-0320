@@ -9,3 +9,4 @@
 - pkg:nuget/Jolt.Json.Newtonsoft@1.4.9
 - pkg:nuget/Jolt.Json.Newtonsoft@1.5.1
 - pkg:nuget/Jolt.Json.Newtonsoft@2.0.0
+- pkg:nuget/Jolt.Json.Newtonsoft@2.4.1
