@@ -19,6 +19,7 @@
 - pkg:nuget/Sentry.Maui.CommunityToolkit.Mvvm@5.8.1
 - pkg:nuget/Sentry.Maui.CommunityToolkit.Mvvm@5.8.2-beta.1
 - pkg:nuget/Sentry.Maui.CommunityToolkit.Mvvm@5.9.0
+- pkg:nuget/Sentry.Maui.CommunityToolkit.Mvvm@6.11.1
 - pkg:nuget/Sentry.Maui.CommunityToolkit.Mvvm@6.2.0-alpha.0
 - pkg:nuget/Sentry.Maui.CommunityToolkit.Mvvm@6.3.0
 - pkg:nuget/Sentry.Maui.CommunityToolkit.Mvvm@6.3.2
