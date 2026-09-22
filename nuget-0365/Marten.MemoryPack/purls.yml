@@ -4,6 +4,7 @@
 - pkg:nuget/Marten.MemoryPack@9.23.0
 - pkg:nuget/Marten.MemoryPack@9.25.0
 - pkg:nuget/Marten.MemoryPack@9.30.0
+- pkg:nuget/Marten.MemoryPack@9.32.0
 - pkg:nuget/Marten.MemoryPack@9.4.0
 - pkg:nuget/Marten.MemoryPack@9.5.0
 - pkg:nuget/Marten.MemoryPack@9.6.0
