@@ -56,6 +56,7 @@
 - pkg:nuget/MagicSuite.Cli@4.5.810
 - pkg:nuget/MagicSuite.Cli@4.5.907
 - pkg:nuget/MagicSuite.Cli@4.5.912
+- pkg:nuget/MagicSuite.Cli@4.5.954
 - pkg:nuget/MagicSuite.Cli@4.6.1083-g7ffb6bafbc
 - pkg:nuget/MagicSuite.Cli@4.6.49-g49ce1b7ce3
 - pkg:nuget/MagicSuite.Cli@4.6.512-gd940d0cec9
