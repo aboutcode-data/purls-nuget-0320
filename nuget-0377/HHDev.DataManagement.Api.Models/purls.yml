@@ -2,3 +2,4 @@
 - pkg:nuget/HHDev.DataManagement.Api.Models@24.0.1.9
 - pkg:nuget/HHDev.DataManagement.Api.Models@24.1.0.1
 - pkg:nuget/HHDev.DataManagement.Api.Models@25.1.0.735
+- pkg:nuget/HHDev.DataManagement.Api.Models@26.2.0.4404-preview
