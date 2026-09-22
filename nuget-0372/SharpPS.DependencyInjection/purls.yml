@@ -17,3 +17,4 @@
 - pkg:nuget/SharpPS.DependencyInjection@1.0.8.2
 - pkg:nuget/SharpPS.DependencyInjection@1.0.9
 - pkg:nuget/SharpPS.DependencyInjection@1.0.9.4
+- pkg:nuget/SharpPS.DependencyInjection@1.0.9.6
