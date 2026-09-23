@@ -46,6 +46,7 @@
 - pkg:nuget/IkeMtz.NRSRx.Core.Jwt@1.20.330.5
 - pkg:nuget/IkeMtz.NRSRx.Core.Jwt@1.20.92.2
 - pkg:nuget/IkeMtz.NRSRx.Core.Jwt@1.20.93.1
+- pkg:nuget/IkeMtz.NRSRx.Core.Jwt@10.0.266.2
 - pkg:nuget/IkeMtz.NRSRx.Core.Jwt@5.0.102.2
 - pkg:nuget/IkeMtz.NRSRx.Core.Jwt@5.0.104.2
 - pkg:nuget/IkeMtz.NRSRx.Core.Jwt@5.0.104.3
