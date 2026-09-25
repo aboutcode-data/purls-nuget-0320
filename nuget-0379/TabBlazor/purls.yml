@@ -121,4 +121,5 @@
 - pkg:nuget/TabBlazor@0.9.3-alpha
 - pkg:nuget/TabBlazor@0.9.4-alpha
 - pkg:nuget/TabBlazor@0.9.5-alpha
+- pkg:nuget/TabBlazor@1.6.2-beta
 - pkg:nuget/TabBlazor@5.2.0-alpha
