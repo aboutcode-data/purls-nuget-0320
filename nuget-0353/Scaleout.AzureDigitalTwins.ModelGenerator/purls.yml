@@ -17,3 +17,4 @@
 - pkg:nuget/Scaleout.AzureDigitalTwins.ModelGenerator@4.5.0
 - pkg:nuget/Scaleout.AzureDigitalTwins.ModelGenerator@5.0.0
 - pkg:nuget/Scaleout.AzureDigitalTwins.ModelGenerator@5.2.0
+- pkg:nuget/Scaleout.AzureDigitalTwins.ModelGenerator@8.0.0
