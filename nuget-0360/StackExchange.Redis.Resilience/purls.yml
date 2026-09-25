@@ -1,5 +1,6 @@
 - pkg:nuget/StackExchange.Redis.Resilience@1.0.0
 - pkg:nuget/StackExchange.Redis.Resilience@2.0.0
+- pkg:nuget/StackExchange.Redis.Resilience@2.13.17
 - pkg:nuget/StackExchange.Redis.Resilience@2.6.122
 - pkg:nuget/StackExchange.Redis.Resilience@2.6.66
 - pkg:nuget/StackExchange.Redis.Resilience@2.6.86
