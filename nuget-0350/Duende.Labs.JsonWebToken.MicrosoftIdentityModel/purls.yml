@@ -1,0 +1,7 @@
+- pkg:nuget/Duende.Labs.JsonWebToken.MicrosoftIdentityModel@0.0.0-alpha.0.559
+- pkg:nuget/Duende.Labs.JsonWebToken.MicrosoftIdentityModel@0.0.0-alpha.0.560
+- pkg:nuget/Duende.Labs.JsonWebToken.MicrosoftIdentityModel@0.0.0-alpha.0.606
+- pkg:nuget/Duende.Labs.JsonWebToken.MicrosoftIdentityModel@2026.723.1
+- pkg:nuget/Duende.Labs.JsonWebToken.MicrosoftIdentityModel@2026.727.3
+- pkg:nuget/Duende.Labs.JsonWebToken.MicrosoftIdentityModel@2026.728.5
+- pkg:nuget/Duende.Labs.JsonWebToken.MicrosoftIdentityModel@2026.729.6
