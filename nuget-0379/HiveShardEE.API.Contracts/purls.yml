@@ -1,1 +1,3 @@
 - pkg:nuget/HiveShardEE.API.Contracts@3.11.1
+- pkg:nuget/HiveShardEE.API.Contracts@4.10.3
+- pkg:nuget/HiveShardEE.API.Contracts@4.9.0
