@@ -10,3 +10,5 @@
 - pkg:nuget/GreyEagleSoftware.EventBus@1.0.9
 - pkg:nuget/GreyEagleSoftware.EventBus@1.1.0
 - pkg:nuget/GreyEagleSoftware.EventBus@1.1.1
+- pkg:nuget/GreyEagleSoftware.EventBus@10.0.3
+- pkg:nuget/GreyEagleSoftware.EventBus@10.0.4
