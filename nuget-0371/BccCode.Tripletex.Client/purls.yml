@@ -6,6 +6,10 @@
 - pkg:nuget/BccCode.Tripletex.Client@1.0.0.16
 - pkg:nuget/BccCode.Tripletex.Client@1.0.0.17
 - pkg:nuget/BccCode.Tripletex.Client@1.0.0.18
+- pkg:nuget/BccCode.Tripletex.Client@1.0.0.19-beta
+- pkg:nuget/BccCode.Tripletex.Client@1.0.0.20
+- pkg:nuget/BccCode.Tripletex.Client@1.0.0.21
+- pkg:nuget/BccCode.Tripletex.Client@1.0.0.22
 - pkg:nuget/BccCode.Tripletex.Client@1.0.0.5-beta
 - pkg:nuget/BccCode.Tripletex.Client@1.0.0.6
 - pkg:nuget/BccCode.Tripletex.Client@1.0.0.8
