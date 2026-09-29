@@ -19,6 +19,8 @@
 - pkg:nuget/Glex.Shared.Models@1.0.52
 - pkg:nuget/Glex.Shared.Models@1.0.59
 - pkg:nuget/Glex.Shared.Models@1.0.6
+- pkg:nuget/Glex.Shared.Models@1.0.62
+- pkg:nuget/Glex.Shared.Models@1.0.63
 - pkg:nuget/Glex.Shared.Models@1.0.7
 - pkg:nuget/Glex.Shared.Models@1.0.8
 - pkg:nuget/Glex.Shared.Models@1.0.9
