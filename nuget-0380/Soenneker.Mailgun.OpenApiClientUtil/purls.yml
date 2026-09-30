@@ -10,6 +10,7 @@
 - pkg:nuget/Soenneker.Mailgun.OpenApiClientUtil@4.0.153
 - pkg:nuget/Soenneker.Mailgun.OpenApiClientUtil@4.0.156
 - pkg:nuget/Soenneker.Mailgun.OpenApiClientUtil@4.0.158
+- pkg:nuget/Soenneker.Mailgun.OpenApiClientUtil@4.0.181
 - pkg:nuget/Soenneker.Mailgun.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.Mailgun.OpenApiClientUtil@4.0.29
 - pkg:nuget/Soenneker.Mailgun.OpenApiClientUtil@4.0.3
