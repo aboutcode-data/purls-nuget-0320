@@ -8,4 +8,5 @@
 - pkg:nuget/IronHive.Providers.Anthropic@0.28.2
 - pkg:nuget/IronHive.Providers.Anthropic@0.41.0
 - pkg:nuget/IronHive.Providers.Anthropic@0.43.1
+- pkg:nuget/IronHive.Providers.Anthropic@0.45.3
 - pkg:nuget/IronHive.Providers.Anthropic@0.7.1
