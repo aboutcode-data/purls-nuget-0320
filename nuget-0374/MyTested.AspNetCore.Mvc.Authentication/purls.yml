@@ -1,5 +1,6 @@
 - pkg:nuget/MyTested.AspNetCore.Mvc.Authentication@1.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Authentication@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Authentication@10.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Authentication@2.1.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Authentication@2.2.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Authentication@3.0.0
