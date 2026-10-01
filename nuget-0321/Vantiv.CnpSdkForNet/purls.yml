@@ -38,6 +38,7 @@
 - pkg:nuget/Vantiv.CnpSdkForNet@12.5.0
 - pkg:nuget/Vantiv.CnpSdkForNet@12.5.0.1
 - pkg:nuget/Vantiv.CnpSdkForNet@12.5.1
+- pkg:nuget/Vantiv.CnpSdkForNet@12.51.0
 - pkg:nuget/Vantiv.CnpSdkForNet@12.7.0
 - pkg:nuget/Vantiv.CnpSdkForNet@12.7.1
 - pkg:nuget/Vantiv.CnpSdkForNet@12.7.2
