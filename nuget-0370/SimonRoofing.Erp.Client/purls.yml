@@ -356,3 +356,4 @@
 - pkg:nuget/SimonRoofing.Erp.Client@5.8.9
 - pkg:nuget/SimonRoofing.Erp.Client@5.9.2
 - pkg:nuget/SimonRoofing.Erp.Client@6.0.0
+- pkg:nuget/SimonRoofing.Erp.Client@6.0.2
