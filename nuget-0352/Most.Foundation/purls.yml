@@ -202,6 +202,8 @@
 - pkg:nuget/Most.Foundation@1.6.147
 - pkg:nuget/Most.Foundation@1.6.148
 - pkg:nuget/Most.Foundation@1.6.15
+- pkg:nuget/Most.Foundation@1.6.151
+- pkg:nuget/Most.Foundation@1.6.152
 - pkg:nuget/Most.Foundation@1.6.16
 - pkg:nuget/Most.Foundation@1.6.17
 - pkg:nuget/Most.Foundation@1.6.18
