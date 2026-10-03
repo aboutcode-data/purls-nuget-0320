@@ -11,3 +11,5 @@
 - pkg:nuget/Soenneker.Segment.OpenApiClientUtil@4.0.69
 - pkg:nuget/Soenneker.Segment.OpenApiClientUtil@4.0.73
 - pkg:nuget/Soenneker.Segment.OpenApiClientUtil@4.0.78
+- pkg:nuget/Soenneker.Segment.OpenApiClientUtil@4.0.82
+- pkg:nuget/Soenneker.Segment.OpenApiClientUtil@4.0.85
