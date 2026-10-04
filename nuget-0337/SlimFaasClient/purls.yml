@@ -7,3 +7,5 @@
 - pkg:nuget/SlimFaasClient@0.82.7
 - pkg:nuget/SlimFaasClient@0.83.0
 - pkg:nuget/SlimFaasClient@0.84.10
+- pkg:nuget/SlimFaasClient@0.84.15
+- pkg:nuget/SlimFaasClient@0.84.16
