@@ -5,6 +5,10 @@
 - pkg:nuget/ItEnterprise.Maui.Common@1.0.18
 - pkg:nuget/ItEnterprise.Maui.Common@1.0.24
 - pkg:nuget/ItEnterprise.Maui.Common@1.0.32
+- pkg:nuget/ItEnterprise.Maui.Common@1.0.40
+- pkg:nuget/ItEnterprise.Maui.Common@1.0.47
+- pkg:nuget/ItEnterprise.Maui.Common@1.0.54
+- pkg:nuget/ItEnterprise.Maui.Common@1.0.55
 - pkg:nuget/ItEnterprise.Maui.Common@1.0.7
 - pkg:nuget/ItEnterprise.Maui.Common@1.0.8
 - pkg:nuget/ItEnterprise.Maui.Common@1.0.9
