@@ -6,6 +6,8 @@
 - pkg:nuget/Nice3point.Revit.Api.UIFramework@2019.2.1
 - pkg:nuget/Nice3point.Revit.Api.UIFramework@2019.2.11
 - pkg:nuget/Nice3point.Revit.Api.UIFramework@2020.2.60
+- pkg:nuget/Nice3point.Revit.Api.UIFramework@2020.2.90
+- pkg:nuget/Nice3point.Revit.Api.UIFramework@2021.1.100
 - pkg:nuget/Nice3point.Revit.Api.UIFramework@2021.1.50
 - pkg:nuget/Nice3point.Revit.Api.UIFramework@2022.1.21
 - pkg:nuget/Nice3point.Revit.Api.UIFramework@2022.1.80
