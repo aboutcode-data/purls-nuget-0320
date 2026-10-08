@@ -8,6 +8,7 @@
 - pkg:nuget/SAEA.Sockets@2.2.1.1
 - pkg:nuget/SAEA.Sockets@2.2.2
 - pkg:nuget/SAEA.Sockets@2.2.2.1
+- pkg:nuget/SAEA.Sockets@26.10.8.1
 - pkg:nuget/SAEA.Sockets@3.0.0.1
 - pkg:nuget/SAEA.Sockets@3.1.0
 - pkg:nuget/SAEA.Sockets@3.1.1
