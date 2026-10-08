@@ -1,6 +1,8 @@
 - pkg:nuget/claudomat@1.0.5
 - pkg:nuget/claudomat@1.0.6
 - pkg:nuget/claudomat@1.0.6-build.48298
+- pkg:nuget/claudomat@2026.10.4.7
+- pkg:nuget/claudomat@2026.10.4.8
 - pkg:nuget/claudomat@2026.3.29.3
 - pkg:nuget/claudomat@2026.3.29.6
 - pkg:nuget/claudomat@2026.3.29.9
@@ -45,3 +47,4 @@
 - pkg:nuget/claudomat@2026.9.16.1
 - pkg:nuget/claudomat@2026.9.16.2
 - pkg:nuget/claudomat@2026.9.19.1
+- pkg:nuget/claudomat@2026.9.29.1
