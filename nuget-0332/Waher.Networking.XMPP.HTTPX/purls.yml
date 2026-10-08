@@ -45,3 +45,4 @@
 - pkg:nuget/Waher.Networking.XMPP.HTTPX@4.2.5
 - pkg:nuget/Waher.Networking.XMPP.HTTPX@4.2.6
 - pkg:nuget/Waher.Networking.XMPP.HTTPX@4.2.7
+- pkg:nuget/Waher.Networking.XMPP.HTTPX@4.4.0
