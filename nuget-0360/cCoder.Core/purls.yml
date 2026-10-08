@@ -1,3 +1,4 @@
+- pkg:nuget/cCoder.Core@2026.10.7.1809
 - pkg:nuget/cCoder.Core@2026.5.12.1200
 - pkg:nuget/cCoder.Core@2026.5.12.1631
 - pkg:nuget/cCoder.Core@2026.5.14.1038
@@ -18,4 +19,6 @@
 - pkg:nuget/cCoder.Core@2026.9.23.1547
 - pkg:nuget/cCoder.Core@2026.9.24.1155
 - pkg:nuget/cCoder.Core@2026.9.24.24
+- pkg:nuget/cCoder.Core@2026.9.27.1552
+- pkg:nuget/cCoder.Core@2026.9.30.1455
 - pkg:nuget/cCoder.Core@2026.9.9.1054
