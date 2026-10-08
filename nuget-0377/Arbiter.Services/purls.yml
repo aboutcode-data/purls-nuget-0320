@@ -1,2 +1,5 @@
 - pkg:nuget/Arbiter.Services@5.3.2
+- pkg:nuget/Arbiter.Services@6.12.10
+- pkg:nuget/Arbiter.Services@6.12.3
+- pkg:nuget/Arbiter.Services@6.12.9
 - pkg:nuget/Arbiter.Services@6.7.0
