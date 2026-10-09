@@ -154,6 +154,7 @@
 - pkg:nuget/Cratis.Chronicle.Connections@19.24.1
 - pkg:nuget/Cratis.Chronicle.Connections@19.29.3
 - pkg:nuget/Cratis.Chronicle.Connections@19.34.2
+- pkg:nuget/Cratis.Chronicle.Connections@19.35.0
 - pkg:nuget/Cratis.Chronicle.Connections@19.4.1
 - pkg:nuget/Cratis.Chronicle.Connections@19.4.6
 - pkg:nuget/Cratis.Chronicle.Connections@19.6.1
