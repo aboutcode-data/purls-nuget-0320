@@ -19,6 +19,7 @@
 - pkg:nuget/VirtoCommerce.XCart.Data@3.1036.0-alpha.288-vcst-5850-5728-multi-sharing-key-message
 - pkg:nuget/VirtoCommerce.XCart.Data@3.1037.0
 - pkg:nuget/VirtoCommerce.XCart.Data@3.1040.0-alpha.294-vcst-6089-cart-aggr-refactoring
+- pkg:nuget/VirtoCommerce.XCart.Data@3.1041.0
 - pkg:nuget/VirtoCommerce.XCart.Data@3.800.0
 - pkg:nuget/VirtoCommerce.XCart.Data@3.800.0-alpha.2-vcst-1352
 - pkg:nuget/VirtoCommerce.XCart.Data@3.800.0-alpha.4-vcst-1352
