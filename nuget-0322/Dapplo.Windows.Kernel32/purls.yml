@@ -150,5 +150,6 @@
 - pkg:nuget/Dapplo.Windows.Kernel32@2.0.81
 - pkg:nuget/Dapplo.Windows.Kernel32@2.0.85
 - pkg:nuget/Dapplo.Windows.Kernel32@2.0.89
+- pkg:nuget/Dapplo.Windows.Kernel32@3.11.2
 - pkg:nuget/Dapplo.Windows.Kernel32@3.8.2
 - pkg:nuget/Dapplo.Windows.Kernel32@3.9.2
