@@ -2,6 +2,7 @@
 - pkg:nuget/DemoUp.MyDinaup@10.14.1.4
 - pkg:nuget/DemoUp.MyDinaup@10.15.0.27
 - pkg:nuget/DemoUp.MyDinaup@10.15.0.36
+- pkg:nuget/DemoUp.MyDinaup@10.15.0.38
 - pkg:nuget/DemoUp.MyDinaup@9.1.0.10
 - pkg:nuget/DemoUp.MyDinaup@9.1.0.11
 - pkg:nuget/DemoUp.MyDinaup@9.1.0.12
