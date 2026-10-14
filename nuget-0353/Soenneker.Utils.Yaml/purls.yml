@@ -12,6 +12,7 @@
 - pkg:nuget/Soenneker.Utils.Yaml@4.0.185
 - pkg:nuget/Soenneker.Utils.Yaml@4.0.189
 - pkg:nuget/Soenneker.Utils.Yaml@4.0.214
+- pkg:nuget/Soenneker.Utils.Yaml@4.0.220
 - pkg:nuget/Soenneker.Utils.Yaml@4.0.37
 - pkg:nuget/Soenneker.Utils.Yaml@4.0.41
 - pkg:nuget/Soenneker.Utils.Yaml@4.0.43
