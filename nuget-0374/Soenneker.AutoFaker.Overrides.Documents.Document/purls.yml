@@ -938,6 +938,7 @@
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Documents.Document@4.0.1180
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Documents.Document@4.0.1185
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Documents.Document@4.0.1196
+- pkg:nuget/Soenneker.AutoFaker.Overrides.Documents.Document@4.0.1199
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Documents.Document@4.0.928
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Documents.Document@4.0.929
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Documents.Document@4.0.938
