@@ -2,6 +2,7 @@
 - pkg:nuget/Abp.ZeroCore.NHibernate@10.1.0
 - pkg:nuget/Abp.ZeroCore.NHibernate@10.2.0
 - pkg:nuget/Abp.ZeroCore.NHibernate@10.3.0
+- pkg:nuget/Abp.ZeroCore.NHibernate@10.5.1
 - pkg:nuget/Abp.ZeroCore.NHibernate@7.4.0
 - pkg:nuget/Abp.ZeroCore.NHibernate@8.0.0
 - pkg:nuget/Abp.ZeroCore.NHibernate@8.1.0
