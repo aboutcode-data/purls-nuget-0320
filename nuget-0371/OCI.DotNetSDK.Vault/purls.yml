@@ -57,6 +57,7 @@
 - pkg:nuget/OCI.DotNetSDK.Vault@14.2.0
 - pkg:nuget/OCI.DotNetSDK.Vault@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Vault@144.1.0
+- pkg:nuget/OCI.DotNetSDK.Vault@149.0.0
 - pkg:nuget/OCI.DotNetSDK.Vault@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Vault@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Vault@15.2.0
