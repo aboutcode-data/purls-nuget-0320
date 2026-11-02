@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.SendGrid.Client.Validation@11.0.2396
+- pkg:nuget/Soenneker.SendGrid.Client.Validation@11.0.2400
+- pkg:nuget/Soenneker.SendGrid.Client.Validation@11.0.2402
+- pkg:nuget/Soenneker.SendGrid.Client.Validation@11.0.2404
 - pkg:nuget/Soenneker.SendGrid.Client.Validation@2.1.1
 - pkg:nuget/Soenneker.SendGrid.Client.Validation@2.1.10
 - pkg:nuget/Soenneker.SendGrid.Client.Validation@2.1.100
