@@ -148,6 +148,7 @@
 - pkg:nuget/StockSharp.Algo@5.0.230
 - pkg:nuget/StockSharp.Algo@5.0.235
 - pkg:nuget/StockSharp.Algo@5.0.24
+- pkg:nuget/StockSharp.Algo@5.0.241
 - pkg:nuget/StockSharp.Algo@5.0.25
 - pkg:nuget/StockSharp.Algo@5.0.26
 - pkg:nuget/StockSharp.Algo@5.0.27
