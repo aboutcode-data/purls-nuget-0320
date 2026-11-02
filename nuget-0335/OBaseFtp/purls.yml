@@ -1,5 +1,11 @@
 - pkg:nuget/OBaseFtp@25.12.1
 - pkg:nuget/OBaseFtp@26.1.10
+- pkg:nuget/OBaseFtp@26.10.21
+- pkg:nuget/OBaseFtp@26.10.23
+- pkg:nuget/OBaseFtp@26.10.25
+- pkg:nuget/OBaseFtp@26.10.31
+- pkg:nuget/OBaseFtp@26.10.35
+- pkg:nuget/OBaseFtp@26.11.1
 - pkg:nuget/OBaseFtp@26.3.26
 - pkg:nuget/OBaseFtp@26.3.27
 - pkg:nuget/OBaseFtp@26.3.28
@@ -11,3 +17,9 @@
 - pkg:nuget/OBaseFtp@26.6.28
 - pkg:nuget/OBaseFtp@26.6.34
 - pkg:nuget/OBaseFtp@26.6.6
+- pkg:nuget/OBaseFtp@26.8.17
+- pkg:nuget/OBaseFtp@26.8.27
+- pkg:nuget/OBaseFtp@26.8.28
+- pkg:nuget/OBaseFtp@26.9.11
+- pkg:nuget/OBaseFtp@26.9.21
+- pkg:nuget/OBaseFtp@26.9.29
