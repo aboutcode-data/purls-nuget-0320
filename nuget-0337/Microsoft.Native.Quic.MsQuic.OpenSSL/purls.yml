@@ -23,6 +23,9 @@
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.4.16-ci.131579844
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.4.16-ci.132314042
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.4.18%2B144494377
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.4.19%2B154564280
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.4.20%2B156138153
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.4.20-rc%2B155914823
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.4.3%2B515734
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.4.5%2B532198
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.4.7%2B549005
@@ -104,9 +107,14 @@
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.0-ci.570732
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.0-win32-ci.126754598
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.0-x64-ci.126754598
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.10%2B154567150
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.11%2B156137090
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.11-rc%2B155917475
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.12%2B160445273
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.3%2B128399365
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.4%2B129107507
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.5.7%2B144500058
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.0%2B154820802
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.0-arm64-ci.126748101
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.0-arm64-ci.126760397
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.0-arm64-ci.126807281
@@ -153,3 +161,7 @@
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.0-x64-ci.126807281
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.0-x64-ci.126903822
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.0-x64-debug-ci.126748101
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.1%2B156133641
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.2%2B159144374
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.2-rc%2B159121448
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.OpenSSL@2.6.3%2B160440243
