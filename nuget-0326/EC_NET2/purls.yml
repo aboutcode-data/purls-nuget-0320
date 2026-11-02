@@ -1,3 +1,5 @@
+- pkg:nuget/EC_NET2@2026.10.21.1000
+- pkg:nuget/EC_NET2@2026.10.22.1100
 - pkg:nuget/EC_NET2@2026.7.13.1655
 - pkg:nuget/EC_NET2@2026.7.15.1558
 - pkg:nuget/EC_NET2@2026.7.17.1850
