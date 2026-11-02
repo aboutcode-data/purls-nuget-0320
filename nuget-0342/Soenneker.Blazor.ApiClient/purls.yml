@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Blazor.ApiClient@11.0.3280
+- pkg:nuget/Soenneker.Blazor.ApiClient@11.0.3285
 - pkg:nuget/Soenneker.Blazor.ApiClient@2.1.1
 - pkg:nuget/Soenneker.Blazor.ApiClient@2.1.10
 - pkg:nuget/Soenneker.Blazor.ApiClient@2.1.100
