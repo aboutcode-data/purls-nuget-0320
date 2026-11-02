@@ -91,6 +91,7 @@
 - pkg:nuget/Vonk.Facade.Relational@5.9.1
 - pkg:nuget/Vonk.Facade.Relational@6.0.0
 - pkg:nuget/Vonk.Facade.Relational@6.1.0
+- pkg:nuget/Vonk.Facade.Relational@6.11.0
 - pkg:nuget/Vonk.Facade.Relational@6.2.0
 - pkg:nuget/Vonk.Facade.Relational@6.3.0
 - pkg:nuget/Vonk.Facade.Relational@6.3.1
