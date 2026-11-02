@@ -187,6 +187,11 @@
 - pkg:nuget/Soenneker.Cosmos.Database.Setup@1.0.97
 - pkg:nuget/Soenneker.Cosmos.Database.Setup@1.0.98
 - pkg:nuget/Soenneker.Cosmos.Database.Setup@1.0.99
+- pkg:nuget/Soenneker.Cosmos.Database.Setup@11.0.2430
+- pkg:nuget/Soenneker.Cosmos.Database.Setup@11.0.2434
+- pkg:nuget/Soenneker.Cosmos.Database.Setup@11.0.2437
+- pkg:nuget/Soenneker.Cosmos.Database.Setup@11.0.2438
+- pkg:nuget/Soenneker.Cosmos.Database.Setup@11.0.2440
 - pkg:nuget/Soenneker.Cosmos.Database.Setup@2.0.1
 - pkg:nuget/Soenneker.Cosmos.Database.Setup@2.0.190
 - pkg:nuget/Soenneker.Cosmos.Database.Setup@2.0.191
@@ -2238,3 +2243,4 @@
 - pkg:nuget/Soenneker.Cosmos.Database.Setup@4.0.2404
 - pkg:nuget/Soenneker.Cosmos.Database.Setup@4.0.2405
 - pkg:nuget/Soenneker.Cosmos.Database.Setup@4.0.2419
+- pkg:nuget/Soenneker.Cosmos.Database.Setup@4.0.2428
