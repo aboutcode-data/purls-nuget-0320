@@ -314,6 +314,9 @@
 - pkg:nuget/Soenneker.Blob.Download@1.0.97
 - pkg:nuget/Soenneker.Blob.Download@1.0.98
 - pkg:nuget/Soenneker.Blob.Download@1.0.99
+- pkg:nuget/Soenneker.Blob.Download@11.0.3690
+- pkg:nuget/Soenneker.Blob.Download@11.0.3700
+- pkg:nuget/Soenneker.Blob.Download@11.0.3702
 - pkg:nuget/Soenneker.Blob.Download@2.0.1
 - pkg:nuget/Soenneker.Blob.Download@2.0.2
 - pkg:nuget/Soenneker.Blob.Download@2.0.3
