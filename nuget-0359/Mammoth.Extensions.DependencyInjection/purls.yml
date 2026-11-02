@@ -24,3 +24,5 @@
 - pkg:nuget/Mammoth.Extensions.DependencyInjection@0.5.7-beta0002
 - pkg:nuget/Mammoth.Extensions.DependencyInjection@0.5.8
 - pkg:nuget/Mammoth.Extensions.DependencyInjection@0.7.1-beta.12
+- pkg:nuget/Mammoth.Extensions.DependencyInjection@0.8.1
+- pkg:nuget/Mammoth.Extensions.DependencyInjection@0.8.1-beta.36
