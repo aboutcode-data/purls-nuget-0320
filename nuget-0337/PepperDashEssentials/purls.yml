@@ -2151,6 +2151,7 @@
 - pkg:nuget/PepperDashEssentials@2.43.0-feat-mc-client-allowlist.10
 - pkg:nuget/PepperDashEssentials@2.43.0-feat-mc-client-allowlist.2
 - pkg:nuget/PepperDashEssentials@2.43.0-feat-mc-client-allowlist.3
+- pkg:nuget/PepperDashEssentials@2.43.1-fix-vc4-authenticate-all-routes.2
 - pkg:nuget/PepperDashEssentials@2.5.0
 - pkg:nuget/PepperDashEssentials@2.5.0-DGE-1000.1
 - pkg:nuget/PepperDashEssentials@2.5.0-logging-improvements.1
@@ -2203,9 +2204,12 @@
 - pkg:nuget/PepperDashEssentials@3.0.0-dev-v3-testing.15
 - pkg:nuget/PepperDashEssentials@3.0.0-feature-add-metadatatlist-custom-properties.2
 - pkg:nuget/PepperDashEssentials@3.0.0-feature-mockRoutingMidpoint-add-IHasNamedRoutingSlots.1
+- pkg:nuget/PepperDashEssentials@3.0.0-feature-plugin-load-diagnostics.2
+- pkg:nuget/PepperDashEssentials@3.0.0-feature-plugin-load-diagnostics.3
 - pkg:nuget/PepperDashEssentials@3.0.0-feature-secrets-manager-updates.2
 - pkg:nuget/PepperDashEssentials@3.0.0-fix-1503-double-port-registration.1
 - pkg:nuget/PepperDashEssentials@3.0.0-fix-1503-double-port-registration.2
+- pkg:nuget/PepperDashEssentials@3.0.0-fix-1525-deprecate-core-devices-pdu-interfaces.1
 - pkg:nuget/PepperDashEssentials@3.0.0-fix-audio-codec-messenger-codec-info-null-ref.1
 - pkg:nuget/PepperDashEssentials@3.0.0-fix-v3-mock-testing-fixes.1
 - pkg:nuget/PepperDashEssentials@3.0.0-net8-updates-claude-tests.1
@@ -2215,5 +2219,9 @@
 - pkg:nuget/PepperDashEssentials@3.0.0-perf-mc-batch-timing.2
 - pkg:nuget/PepperDashEssentials@3.0.0-perf-mc-batch-timing.4
 - pkg:nuget/PepperDashEssentials@3.0.0-perf-mc-batch-timing.6
+- pkg:nuget/PepperDashEssentials@3.0.0-port-login-response-strip-token.1
+- pkg:nuget/PepperDashEssentials@3.0.0-port-routing-tieline-type-and-map-loop.1
+- pkg:nuget/PepperDashEssentials@3.0.0-port-ssh-stopprog-and-connection-exception.1
+- pkg:nuget/PepperDashEssentials@3.0.0-port-vc4-authenticate-all-routes.1
 - pkg:nuget/PepperDashEssentials@3.0.0-rc.13
 - pkg:nuget/PepperDashEssentials@3.0.0-rc.15
