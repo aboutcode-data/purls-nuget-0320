@@ -11,6 +11,8 @@
 - pkg:nuget/Zongsoft.Externals.Hangfire@1.6.4
 - pkg:nuget/Zongsoft.Externals.Hangfire@2.0.0
 - pkg:nuget/Zongsoft.Externals.Hangfire@2.1.0
+- pkg:nuget/Zongsoft.Externals.Hangfire@2.11.0
+- pkg:nuget/Zongsoft.Externals.Hangfire@2.11.1
 - pkg:nuget/Zongsoft.Externals.Hangfire@2.2.0
 - pkg:nuget/Zongsoft.Externals.Hangfire@2.2.1
 - pkg:nuget/Zongsoft.Externals.Hangfire@2.2.2
