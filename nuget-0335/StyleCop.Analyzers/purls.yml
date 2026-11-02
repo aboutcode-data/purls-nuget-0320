@@ -65,5 +65,7 @@
 - pkg:nuget/StyleCop.Analyzers@1.2.0-beta.553
 - pkg:nuget/StyleCop.Analyzers@1.2.0-beta.556
 - pkg:nuget/StyleCop.Analyzers@1.2.0-beta.66
+- pkg:nuget/StyleCop.Analyzers@1.3.149-beta
 - pkg:nuget/StyleCop.Analyzers@1.3.18-beta
 - pkg:nuget/StyleCop.Analyzers@1.3.79-beta
+- pkg:nuget/StyleCop.Analyzers@1.3.82-beta
