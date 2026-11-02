@@ -321,3 +321,6 @@
 - pkg:nuget/MPACKAGE.LibData.MySql@1.0.857
 - pkg:nuget/MPACKAGE.LibData.MySql@1.0.858
 - pkg:nuget/MPACKAGE.LibData.MySql@1.0.864
+- pkg:nuget/MPACKAGE.LibData.MySql@1.0.867
+- pkg:nuget/MPACKAGE.LibData.MySql@1.0.871
+- pkg:nuget/MPACKAGE.LibData.MySql@1.0.874
