@@ -182,6 +182,7 @@
 - pkg:nuget/HotChocolate.Data.Marten@13.9.14
 - pkg:nuget/HotChocolate.Data.Marten@13.9.14-p.1
 - pkg:nuget/HotChocolate.Data.Marten@13.9.15
+- pkg:nuget/HotChocolate.Data.Marten@13.9.18
 - pkg:nuget/HotChocolate.Data.Marten@13.9.2
 - pkg:nuget/HotChocolate.Data.Marten@13.9.3
 - pkg:nuget/HotChocolate.Data.Marten@13.9.4
@@ -762,3 +763,7 @@
 - pkg:nuget/HotChocolate.Data.Marten@16.7.0-p.24
 - pkg:nuget/HotChocolate.Data.Marten@16.7.0-p.25
 - pkg:nuget/HotChocolate.Data.Marten@16.7.0-p.26
+- pkg:nuget/HotChocolate.Data.Marten@16.7.0-p.33
+- pkg:nuget/HotChocolate.Data.Marten@16.8.0-p.4
+- pkg:nuget/HotChocolate.Data.Marten@16.8.0-p.8
+- pkg:nuget/HotChocolate.Data.Marten@16.8.0-p.9
