@@ -213,6 +213,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Abstractions@8.0.121
 - pkg:nuget/Microsoft.TemplateEngine.Abstractions@8.0.131
 - pkg:nuget/Microsoft.TemplateEngine.Abstractions@8.0.132
+- pkg:nuget/Microsoft.TemplateEngine.Abstractions@8.0.133
 - pkg:nuget/Microsoft.TemplateEngine.Abstractions@8.0.200-preview.24060.12
 - pkg:nuget/Microsoft.TemplateEngine.Abstractions@8.0.202
 - pkg:nuget/Microsoft.TemplateEngine.Abstractions@8.0.204
