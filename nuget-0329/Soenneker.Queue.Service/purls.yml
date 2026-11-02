@@ -225,6 +225,7 @@
 - pkg:nuget/Soenneker.Queue.Service@1.0.97
 - pkg:nuget/Soenneker.Queue.Service@1.0.98
 - pkg:nuget/Soenneker.Queue.Service@1.0.99
+- pkg:nuget/Soenneker.Queue.Service@11.0.2949
 - pkg:nuget/Soenneker.Queue.Service@2.0.1
 - pkg:nuget/Soenneker.Queue.Service@2.0.2
 - pkg:nuget/Soenneker.Queue.Service@2.0.228
