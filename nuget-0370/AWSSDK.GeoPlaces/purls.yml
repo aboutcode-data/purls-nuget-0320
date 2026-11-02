@@ -215,6 +215,9 @@
 - pkg:nuget/AWSSDK.GeoPlaces@4.0.1.8
 - pkg:nuget/AWSSDK.GeoPlaces@4.0.1.9
 - pkg:nuget/AWSSDK.GeoPlaces@4.0.101.1
+- pkg:nuget/AWSSDK.GeoPlaces@4.0.101.16
+- pkg:nuget/AWSSDK.GeoPlaces@4.0.101.18
+- pkg:nuget/AWSSDK.GeoPlaces@4.0.101.19
 - pkg:nuget/AWSSDK.GeoPlaces@4.0.101.2
 - pkg:nuget/AWSSDK.GeoPlaces@4.0.101.5
 - pkg:nuget/AWSSDK.GeoPlaces@4.0.2

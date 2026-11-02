@@ -367,6 +367,8 @@
 - pkg:nuget/AWSSDK.BedrockAgentRuntime@4.0.100.5
 - pkg:nuget/AWSSDK.BedrockAgentRuntime@4.0.100.8
 - pkg:nuget/AWSSDK.BedrockAgentRuntime@4.0.103.4
+- pkg:nuget/AWSSDK.BedrockAgentRuntime@4.0.104.1
+- pkg:nuget/AWSSDK.BedrockAgentRuntime@4.0.105
 - pkg:nuget/AWSSDK.BedrockAgentRuntime@4.0.2
 - pkg:nuget/AWSSDK.BedrockAgentRuntime@4.0.2.1
 - pkg:nuget/AWSSDK.BedrockAgentRuntime@4.0.2.2
