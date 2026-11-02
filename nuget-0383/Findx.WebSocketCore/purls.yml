@@ -20,6 +20,7 @@
 - pkg:nuget/Findx.WebSocketCore@11.1.2025.612
 - pkg:nuget/Findx.WebSocketCore@11.1.2025.815
 - pkg:nuget/Findx.WebSocketCore@11.1.2025.926
+- pkg:nuget/Findx.WebSocketCore@11.1.2026.912
 - pkg:nuget/Findx.WebSocketCore@2023.12.25.1
 - pkg:nuget/Findx.WebSocketCore@2023.9.5.1
 - pkg:nuget/Findx.WebSocketCore@2023.9.5.2
