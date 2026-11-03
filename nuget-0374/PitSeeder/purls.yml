@@ -2,3 +2,5 @@
 - pkg:nuget/PitSeeder@3.10.2
 - pkg:nuget/PitSeeder@3.11.1
 - pkg:nuget/PitSeeder@3.7.5
+- pkg:nuget/PitSeeder@4.2.3
+- pkg:nuget/PitSeeder@4.4.3
