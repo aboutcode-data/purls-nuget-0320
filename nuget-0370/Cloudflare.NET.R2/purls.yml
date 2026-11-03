@@ -1,3 +1,5 @@
 - pkg:nuget/Cloudflare.NET.R2@1.0.0
 - pkg:nuget/Cloudflare.NET.R2@1.0.1
 - pkg:nuget/Cloudflare.NET.R2@1.0.2
+- pkg:nuget/Cloudflare.NET.R2@2.4.0
+- pkg:nuget/Cloudflare.NET.R2@2.5.0
