@@ -59,6 +59,7 @@
 - pkg:nuget/OCI.DotNetSDK.Announcementsservice@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Announcementsservice@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Announcementsservice@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Announcementsservice@150.0.0
 - pkg:nuget/OCI.DotNetSDK.Announcementsservice@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Announcementsservice@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Announcementsservice@17.1.0
