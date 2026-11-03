@@ -61,6 +61,7 @@
 - pkg:nuget/OCI.DotNetSDK.Dataintegration@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Dataintegration@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Dataintegration@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Dataintegration@150.0.0
 - pkg:nuget/OCI.DotNetSDK.Dataintegration@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Dataintegration@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Dataintegration@17.1.0
