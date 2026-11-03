@@ -32,4 +32,5 @@
 - pkg:nuget/Arbiter.CommandQuery.MongoDB@6.12.13
 - pkg:nuget/Arbiter.CommandQuery.MongoDB@6.12.3
 - pkg:nuget/Arbiter.CommandQuery.MongoDB@6.12.9
+- pkg:nuget/Arbiter.CommandQuery.MongoDB@6.13.4
 - pkg:nuget/Arbiter.CommandQuery.MongoDB@6.7.0
