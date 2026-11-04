@@ -1,3 +1,8 @@
+- pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@11.0.178
+- pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@11.0.180
+- pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@11.0.182
+- pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@11.0.184
+- pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@11.0.188
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.11
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.118
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.129
@@ -8,6 +13,7 @@
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.146
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.155
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.17
+- pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.173
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.42
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.5
 - pkg:nuget/Soenneker.Coinbase.OpenApiClients.Cdp@4.0.52
