@@ -29,3 +29,5 @@
 - pkg:nuget/Swate.Components.Core@2.0.3
 - pkg:nuget/Swate.Components.Core@2.0.6
 - pkg:nuget/Swate.Components.Core@2.3.0
+- pkg:nuget/Swate.Components.Core@2.5.2
+- pkg:nuget/Swate.Components.Core@2.6.0
