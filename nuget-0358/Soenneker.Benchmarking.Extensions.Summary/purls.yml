@@ -1,3 +1,9 @@
+- pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@11.0.179
+- pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@11.0.180
+- pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@11.0.184
+- pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@11.0.191
+- pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@11.0.192
+- pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@11.0.194
 - pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@3.0.1
 - pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@3.0.10
 - pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@3.0.11
@@ -31,6 +37,8 @@
 - pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@4.0.123
 - pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@4.0.148
 - pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@4.0.150
+- pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@4.0.158
+- pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@4.0.161
 - pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@4.0.48
 - pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@4.0.50
 - pkg:nuget/Soenneker.Benchmarking.Extensions.Summary@4.0.76
