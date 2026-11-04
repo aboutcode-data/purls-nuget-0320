@@ -71,6 +71,7 @@
 - pkg:nuget/ParquetSharp@21.0.0
 - pkg:nuget/ParquetSharp@21.0.0-beta1
 - pkg:nuget/ParquetSharp@23.0.0-beta1
+- pkg:nuget/ParquetSharp@25.0.1.1
 - pkg:nuget/ParquetSharp@4.0.0
 - pkg:nuget/ParquetSharp@4.0.0-beta1
 - pkg:nuget/ParquetSharp@4.0.0-beta2
