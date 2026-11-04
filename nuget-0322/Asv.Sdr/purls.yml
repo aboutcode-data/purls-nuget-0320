@@ -26,4 +26,7 @@
 - pkg:nuget/Asv.Sdr@1.5.6
 - pkg:nuget/Asv.Sdr@1.5.8
 - pkg:nuget/Asv.Sdr@1.5.9
+- pkg:nuget/Asv.Sdr@1.6.10
 - pkg:nuget/Asv.Sdr@1.6.9
+- pkg:nuget/Asv.Sdr@1.7.0
+- pkg:nuget/Asv.Sdr@1.7.4
