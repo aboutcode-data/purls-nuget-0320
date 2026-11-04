@@ -1,0 +1,6 @@
+- pkg:nuget/Skopka.Hello.AuthorizationServer@0.14.3
+- pkg:nuget/Skopka.Hello.AuthorizationServer@0.21.2
+- pkg:nuget/Skopka.Hello.AuthorizationServer@0.24.1
+- pkg:nuget/Skopka.Hello.AuthorizationServer@0.25.0
+- pkg:nuget/Skopka.Hello.AuthorizationServer@0.25.2
+- pkg:nuget/Skopka.Hello.AuthorizationServer@0.27.0
