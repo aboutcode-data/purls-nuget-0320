@@ -57,4 +57,5 @@
 - pkg:nuget/Tadamo.Clients@5.3.0
 - pkg:nuget/Tadamo.Clients@5.4.0
 - pkg:nuget/Tadamo.Clients@6.5.0
+- pkg:nuget/Tadamo.Clients@7.2.0
 - pkg:nuget/Tadamo.Clients@71120.0.0-Publish-client-public-nuget
