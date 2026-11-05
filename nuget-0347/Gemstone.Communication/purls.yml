@@ -41,6 +41,7 @@
 - pkg:nuget/Gemstone.Communication@1.0.17
 - pkg:nuget/Gemstone.Communication@1.0.171
 - pkg:nuget/Gemstone.Communication@1.0.18
+- pkg:nuget/Gemstone.Communication@1.0.186
 - pkg:nuget/Gemstone.Communication@1.0.19
 - pkg:nuget/Gemstone.Communication@1.0.20
 - pkg:nuget/Gemstone.Communication@1.0.21
