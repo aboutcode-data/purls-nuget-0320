@@ -10,3 +10,4 @@
 - pkg:nuget/JetBrains.SharpGen.Runtime.COM@2.0.20240216.95
 - pkg:nuget/JetBrains.SharpGen.Runtime.COM@2.0.20240508.100
 - pkg:nuget/JetBrains.SharpGen.Runtime.COM@2.0.20241211.109
+- pkg:nuget/JetBrains.SharpGen.Runtime.COM@2.0.20261026.6
