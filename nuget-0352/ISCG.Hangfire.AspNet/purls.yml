@@ -18,6 +18,8 @@
 - pkg:nuget/ISCG.Hangfire.AspNet@2025.7.22.2
 - pkg:nuget/ISCG.Hangfire.AspNet@2025.7.22.3
 - pkg:nuget/ISCG.Hangfire.AspNet@2026.10.30.3
+- pkg:nuget/ISCG.Hangfire.AspNet@2026.11.6.2
+- pkg:nuget/ISCG.Hangfire.AspNet@2026.11.6.3
 - pkg:nuget/ISCG.Hangfire.AspNet@25.5.22.2
 - pkg:nuget/ISCG.Hangfire.AspNet@25.5.22.3
 - pkg:nuget/ISCG.Hangfire.AspNet@25.5.22.4
