@@ -37,6 +37,7 @@
 - pkg:nuget/PoliNorError@2.23.0
 - pkg:nuget/PoliNorError@2.24.0
 - pkg:nuget/PoliNorError@2.24.12
+- pkg:nuget/PoliNorError@2.25.0
 - pkg:nuget/PoliNorError@2.4.0
 - pkg:nuget/PoliNorError@2.6.1
 - pkg:nuget/PoliNorError@2.8.1
