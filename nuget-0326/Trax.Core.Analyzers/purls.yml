@@ -4,5 +4,8 @@
 - pkg:nuget/Trax.Core.Analyzers@1.5.0
 - pkg:nuget/Trax.Core.Analyzers@1.65.0
 - pkg:nuget/Trax.Core.Analyzers@1.67.0
+- pkg:nuget/Trax.Core.Analyzers@1.69.0
+- pkg:nuget/Trax.Core.Analyzers@1.69.1
 - pkg:nuget/Trax.Core.Analyzers@1.7.1
+- pkg:nuget/Trax.Core.Analyzers@1.70.0
 - pkg:nuget/Trax.Core.Analyzers@1.9.1
