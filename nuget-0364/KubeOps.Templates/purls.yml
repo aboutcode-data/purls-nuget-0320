@@ -30,6 +30,7 @@
 - pkg:nuget/KubeOps.Templates@13.3.4-prerelease.3
 - pkg:nuget/KubeOps.Templates@13.3.6
 - pkg:nuget/KubeOps.Templates@13.3.6-prerelease.2
+- pkg:nuget/KubeOps.Templates@14.0.0-prerelease.1
 - pkg:nuget/KubeOps.Templates@3.1.0
 - pkg:nuget/KubeOps.Templates@3.1.0-prerelease.1
 - pkg:nuget/KubeOps.Templates@3.1.0-prerelease.2
