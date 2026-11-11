@@ -3,3 +3,5 @@
 - pkg:nuget/FIX.Platform.Client@1.14.24-staging
 - pkg:nuget/FIX.Platform.Client@1.14.31
 - pkg:nuget/FIX.Platform.Client@1.14.31-staging
+- pkg:nuget/FIX.Platform.Client@1.14.32
+- pkg:nuget/FIX.Platform.Client@1.14.32-staging
