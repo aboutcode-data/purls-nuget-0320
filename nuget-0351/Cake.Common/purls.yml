@@ -83,3 +83,4 @@
 - pkg:nuget/Cake.Common@4.2.0
 - pkg:nuget/Cake.Common@5.0.0
 - pkg:nuget/Cake.Common@6.0.0
+- pkg:nuget/Cake.Common@7.0.0
