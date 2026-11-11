@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@11.0.401
 - pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@3.0.1
 - pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@3.0.10
 - pkg:nuget/Soenneker.Extensions.ConfigurationBuilder@3.0.100
