@@ -162,6 +162,7 @@
 - pkg:nuget/Soenneker.Utils.FileSync@1.0.99
 - pkg:nuget/Soenneker.Utils.FileSync@11.0.2074
 - pkg:nuget/Soenneker.Utils.FileSync@11.0.2076
+- pkg:nuget/Soenneker.Utils.FileSync@11.0.2089
 - pkg:nuget/Soenneker.Utils.FileSync@2.0.1
 - pkg:nuget/Soenneker.Utils.FileSync@2.0.164
 - pkg:nuget/Soenneker.Utils.FileSync@2.0.165
