@@ -172,6 +172,8 @@
 - pkg:nuget/Sitko.Core.Xunit.Web@12.0.0
 - pkg:nuget/Sitko.Core.Xunit.Web@13.0.0-beta.1
 - pkg:nuget/Sitko.Core.Xunit.Web@13.0.0-beta.2
+- pkg:nuget/Sitko.Core.Xunit.Web@13.1.1
+- pkg:nuget/Sitko.Core.Xunit.Web@13.1.2
 - pkg:nuget/Sitko.Core.Xunit.Web@9.0.0
 - pkg:nuget/Sitko.Core.Xunit.Web@9.0.0-beta.13
 - pkg:nuget/Sitko.Core.Xunit.Web@9.0.0-beta.14
