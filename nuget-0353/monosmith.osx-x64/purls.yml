@@ -47,6 +47,7 @@
 - pkg:nuget/monosmith.osx-x64@2.0.0-beta.56
 - pkg:nuget/monosmith.osx-x64@2.0.0-beta.62
 - pkg:nuget/monosmith.osx-x64@2.1.0
+- pkg:nuget/monosmith.osx-x64@2.17.0
 - pkg:nuget/monosmith.osx-x64@2.7.0
 - pkg:nuget/monosmith.osx-x64@2.8.0
 - pkg:nuget/monosmith.osx-x64@2.9.0
