@@ -1,1 +1,4 @@
 - pkg:nuget/PocketCsvReader.Arrow.ColumnarJson@2.69.0
+- pkg:nuget/PocketCsvReader.Arrow.ColumnarJson@2.70.0
+- pkg:nuget/PocketCsvReader.Arrow.ColumnarJson@2.71.0
+- pkg:nuget/PocketCsvReader.Arrow.ColumnarJson@2.71.1
