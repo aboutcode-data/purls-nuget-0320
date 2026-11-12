@@ -1,1 +1,3 @@
 - pkg:nuget/NextLevel.Wallet@1.6.0
+- pkg:nuget/NextLevel.Wallet@3.0.3
+- pkg:nuget/NextLevel.Wallet@3.0.6
