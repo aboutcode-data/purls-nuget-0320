@@ -3,4 +3,7 @@
 - pkg:nuget/DotNetQuery.Core@1.0.0-beta.2
 - pkg:nuget/DotNetQuery.Core@1.0.0-beta.3
 - pkg:nuget/DotNetQuery.Core@1.0.0-beta.9
+- pkg:nuget/DotNetQuery.Core@2.0.0
 - pkg:nuget/DotNetQuery.Core@2.0.0-beta.2
+- pkg:nuget/DotNetQuery.Core@3.0.0-beta.1
+- pkg:nuget/DotNetQuery.Core@3.0.0-beta.2
