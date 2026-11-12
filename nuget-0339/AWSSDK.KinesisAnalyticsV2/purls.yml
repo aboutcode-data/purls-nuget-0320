@@ -1173,6 +1173,7 @@
 - pkg:nuget/AWSSDK.KinesisAnalyticsV2@4.0.101.13
 - pkg:nuget/AWSSDK.KinesisAnalyticsV2@4.0.101.15
 - pkg:nuget/AWSSDK.KinesisAnalyticsV2@4.0.101.3
+- pkg:nuget/AWSSDK.KinesisAnalyticsV2@4.0.102
 - pkg:nuget/AWSSDK.KinesisAnalyticsV2@4.0.2.19
 - pkg:nuget/AWSSDK.KinesisAnalyticsV2@4.0.2.20
 - pkg:nuget/AWSSDK.KinesisAnalyticsV2@4.0.2.21
