@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@11.0.162
+- pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@11.0.165
+- pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@11.0.172
+- pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@11.0.173
 - pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@3.0.1
 - pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@3.0.2
 - pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@3.0.3
@@ -9,6 +13,7 @@
 - pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@4.0.113
 - pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@4.0.114
 - pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@4.0.142
+- pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@4.0.152
 - pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@4.0.21
 - pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@4.0.25
 - pkg:nuget/Soenneker.AutoFaker.Overrides.RangePointsPairs@4.0.27
