@@ -3,6 +3,8 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@11.0.1250
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@11.0.1251
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@11.0.1254
+- pkg:nuget/Soenneker.GitHub.Repositories.Secrets@11.0.1259
+- pkg:nuget/Soenneker.GitHub.Repositories.Secrets@11.0.1260
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@3.0.1
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@3.0.10
 - pkg:nuget/Soenneker.GitHub.Repositories.Secrets@3.0.100
