@@ -7,6 +7,7 @@
 - pkg:nuget/Karambolo.AspNetCore.Bundling.EcmaScript@3.0.0
 - pkg:nuget/Karambolo.AspNetCore.Bundling.EcmaScript@3.0.0-pre1
 - pkg:nuget/Karambolo.AspNetCore.Bundling.EcmaScript@3.1.0
+- pkg:nuget/Karambolo.AspNetCore.Bundling.EcmaScript@3.10.1
 - pkg:nuget/Karambolo.AspNetCore.Bundling.EcmaScript@3.2.0
 - pkg:nuget/Karambolo.AspNetCore.Bundling.EcmaScript@3.3.0
 - pkg:nuget/Karambolo.AspNetCore.Bundling.EcmaScript@3.4.0
