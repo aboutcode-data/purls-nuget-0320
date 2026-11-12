@@ -42,3 +42,4 @@
 - pkg:nuget/Google.Apis.Apigateway.v1@1.70.0.3877
 - pkg:nuget/Google.Apis.Apigateway.v1@1.76.0.4262
 - pkg:nuget/Google.Apis.Apigateway.v1@1.76.0.4269
+- pkg:nuget/Google.Apis.Apigateway.v1@1.78.0.4318
