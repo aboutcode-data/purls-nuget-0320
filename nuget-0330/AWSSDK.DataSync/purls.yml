@@ -1198,3 +1198,4 @@
 - pkg:nuget/AWSSDK.DataSync@4.0.9.3
 - pkg:nuget/AWSSDK.DataSync@4.0.9.4
 - pkg:nuget/AWSSDK.DataSync@4.0.9.5
+- pkg:nuget/AWSSDK.DataSync@4.1.0
