@@ -6,6 +6,9 @@
 - pkg:nuget/Soenneker.NameCom.Domains@11.0.979
 - pkg:nuget/Soenneker.NameCom.Domains@11.0.980
 - pkg:nuget/Soenneker.NameCom.Domains@11.0.983
+- pkg:nuget/Soenneker.NameCom.Domains@11.0.984
+- pkg:nuget/Soenneker.NameCom.Domains@11.0.987
+- pkg:nuget/Soenneker.NameCom.Domains@11.0.989
 - pkg:nuget/Soenneker.NameCom.Domains@3.0.1
 - pkg:nuget/Soenneker.NameCom.Domains@3.0.10
 - pkg:nuget/Soenneker.NameCom.Domains@3.0.100
