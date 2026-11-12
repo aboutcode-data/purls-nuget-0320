@@ -30,6 +30,7 @@
 - pkg:nuget/Alex.NET.Helper@1.7.69
 - pkg:nuget/Alex.NET.Helper@1.8.69
 - pkg:nuget/Alex.NET.Helper@1.9.69
+- pkg:nuget/Alex.NET.Helper@10.0.20-alpha
 - pkg:nuget/Alex.NET.Helper@8.0.1
 - pkg:nuget/Alex.NET.Helper@8.0.3
 - pkg:nuget/Alex.NET.Helper@8.0.5
