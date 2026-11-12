@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.Extensions.HttpRequestDatas@11.0.175
+- pkg:nuget/Soenneker.Extensions.HttpRequestDatas@11.0.179
+- pkg:nuget/Soenneker.Extensions.HttpRequestDatas@11.0.180
 - pkg:nuget/Soenneker.Extensions.HttpRequestDatas@3.0.1
 - pkg:nuget/Soenneker.Extensions.HttpRequestDatas@3.0.2
 - pkg:nuget/Soenneker.Extensions.HttpRequestDatas@3.0.3
