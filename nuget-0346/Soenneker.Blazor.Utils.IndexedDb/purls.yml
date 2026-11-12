@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Blazor.Utils.IndexedDb@11.0.208
+- pkg:nuget/Soenneker.Blazor.Utils.IndexedDb@11.0.213
 - pkg:nuget/Soenneker.Blazor.Utils.IndexedDb@4.0.1
 - pkg:nuget/Soenneker.Blazor.Utils.IndexedDb@4.0.102
 - pkg:nuget/Soenneker.Blazor.Utils.IndexedDb@4.0.124
