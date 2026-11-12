@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Calendly.HttpClients@11.0.159
+- pkg:nuget/Soenneker.Calendly.HttpClients@11.0.164
 - pkg:nuget/Soenneker.Calendly.HttpClients@4.0.100
 - pkg:nuget/Soenneker.Calendly.HttpClients@4.0.104
 - pkg:nuget/Soenneker.Calendly.HttpClients@4.0.113
