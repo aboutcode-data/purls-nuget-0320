@@ -1,4 +1,5 @@
 - pkg:nuget/Bunifu.UI.WinForms@1.5.3
+- pkg:nuget/Bunifu.UI.WinForms@10.0.0
 - pkg:nuget/Bunifu.UI.WinForms@2.0.0-Beta
 - pkg:nuget/Bunifu.UI.WinForms@2.0.1-Beta
 - pkg:nuget/Bunifu.UI.WinForms@2.0.2-Beta
