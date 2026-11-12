@@ -1,5 +1,9 @@
 - pkg:nuget/Soenneker.Utils.DateTime@11.0.1502
 - pkg:nuget/Soenneker.Utils.DateTime@11.0.1513
+- pkg:nuget/Soenneker.Utils.DateTime@11.0.1516
+- pkg:nuget/Soenneker.Utils.DateTime@11.0.1518
+- pkg:nuget/Soenneker.Utils.DateTime@11.0.1521
+- pkg:nuget/Soenneker.Utils.DateTime@11.0.1522
 - pkg:nuget/Soenneker.Utils.DateTime@2.1.1
 - pkg:nuget/Soenneker.Utils.DateTime@2.1.10
 - pkg:nuget/Soenneker.Utils.DateTime@2.1.100
