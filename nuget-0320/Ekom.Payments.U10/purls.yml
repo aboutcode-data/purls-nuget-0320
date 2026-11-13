@@ -47,3 +47,5 @@
 - pkg:nuget/Ekom.Payments.U10@0.2.9
 - pkg:nuget/Ekom.Payments.U10@0.2.93
 - pkg:nuget/Ekom.Payments.U10@0.2.97
+- pkg:nuget/Ekom.Payments.U10@0.2.99
+- pkg:nuget/Ekom.Payments.U10@1.0.0
