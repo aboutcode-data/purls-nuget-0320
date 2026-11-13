@@ -25,3 +25,4 @@
 - pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform.Msal@13.0.2
 - pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform.Msal@14.0.0
 - pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform.Msal@14.0.1
+- pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform.Msal@14.2.4
