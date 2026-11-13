@@ -4,3 +4,4 @@
 - pkg:nuget/Carbon.WebApplication.Grpc.Client@2.6.0
 - pkg:nuget/Carbon.WebApplication.Grpc.Client@2.6.1
 - pkg:nuget/Carbon.WebApplication.Grpc.Client@2.6.2
+- pkg:nuget/Carbon.WebApplication.Grpc.Client@2.7.0
