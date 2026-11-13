@@ -13,3 +13,4 @@
 - pkg:nuget/Kanject.Cli@1.0.9
 - pkg:nuget/Kanject.Cli@1.5.0
 - pkg:nuget/Kanject.Cli@1.5.1
+- pkg:nuget/Kanject.Cli@2.0.1
