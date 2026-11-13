@@ -1,1 +1,2 @@
 - pkg:nuget/Fhi.Security.Cryptography.CLI@1.1.0-beta1
+- pkg:nuget/Fhi.Security.Cryptography.CLI@1.1.1
