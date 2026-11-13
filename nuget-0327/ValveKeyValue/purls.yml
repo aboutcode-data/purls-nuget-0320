@@ -20,6 +20,7 @@
 - pkg:nuget/ValveKeyValue@0.51.0.482
 - pkg:nuget/ValveKeyValue@0.6.0.5
 - pkg:nuget/ValveKeyValue@0.7.1
+- pkg:nuget/ValveKeyValue@0.73.0.538
 - pkg:nuget/ValveKeyValue@0.8.0.133
 - pkg:nuget/ValveKeyValue@0.8.0.139
 - pkg:nuget/ValveKeyValue@0.8.2.162
