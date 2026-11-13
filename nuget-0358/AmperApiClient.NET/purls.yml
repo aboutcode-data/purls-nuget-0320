@@ -84,6 +84,7 @@
 - pkg:nuget/AmperApiClient.NET@1.1.20
 - pkg:nuget/AmperApiClient.NET@1.1.21
 - pkg:nuget/AmperApiClient.NET@1.1.211
+- pkg:nuget/AmperApiClient.NET@1.1.214
 - pkg:nuget/AmperApiClient.NET@1.1.22
 - pkg:nuget/AmperApiClient.NET@1.1.23
 - pkg:nuget/AmperApiClient.NET@1.1.24
