@@ -33,3 +33,4 @@
 - pkg:nuget/SmartStandards.AuthTokenHandling.WinFormsClient@5.1.1
 - pkg:nuget/SmartStandards.AuthTokenHandling.WinFormsClient@5.1.2
 - pkg:nuget/SmartStandards.AuthTokenHandling.WinFormsClient@6.0.5-develop
+- pkg:nuget/SmartStandards.AuthTokenHandling.WinFormsClient@6.0.7
