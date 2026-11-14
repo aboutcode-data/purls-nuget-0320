@@ -29,3 +29,7 @@
 - pkg:nuget/uSync.Backoffice.Management.Client@16.0.3
 - pkg:nuget/uSync.Backoffice.Management.Client@16.0.4
 - pkg:nuget/uSync.Backoffice.Management.Client@17.0.1
+- pkg:nuget/uSync.Backoffice.Management.Client@17.6.2
+- pkg:nuget/uSync.Backoffice.Management.Client@18.2.0
+- pkg:nuget/uSync.Backoffice.Management.Client@19.0.0-beta01
+- pkg:nuget/uSync.Backoffice.Management.Client@19.0.0-rc1
