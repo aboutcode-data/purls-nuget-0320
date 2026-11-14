@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Adyen.HttpClients@11.0.149
+- pkg:nuget/Soenneker.Adyen.HttpClients@11.0.152
+- pkg:nuget/Soenneker.Adyen.HttpClients@11.0.157
+- pkg:nuget/Soenneker.Adyen.HttpClients@11.0.159
 - pkg:nuget/Soenneker.Adyen.HttpClients@4.0.101
 - pkg:nuget/Soenneker.Adyen.HttpClients@4.0.104
 - pkg:nuget/Soenneker.Adyen.HttpClients@4.0.106

@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Dtos.RangePointsPairs@11.0.73
+- pkg:nuget/Soenneker.Dtos.RangePointsPairs@11.0.74
 - pkg:nuget/Soenneker.Dtos.RangePointsPairs@3.0.1
 - pkg:nuget/Soenneker.Dtos.RangePointsPairs@3.0.2
 - pkg:nuget/Soenneker.Dtos.RangePointsPairs@3.0.3
@@ -11,4 +13,8 @@
 - pkg:nuget/Soenneker.Dtos.RangePointsPairs@4.0.35
 - pkg:nuget/Soenneker.Dtos.RangePointsPairs@4.0.36
 - pkg:nuget/Soenneker.Dtos.RangePointsPairs@4.0.44
+- pkg:nuget/Soenneker.Dtos.RangePointsPairs@4.0.50
+- pkg:nuget/Soenneker.Dtos.RangePointsPairs@4.0.57
+- pkg:nuget/Soenneker.Dtos.RangePointsPairs@4.0.67
+- pkg:nuget/Soenneker.Dtos.RangePointsPairs@4.0.68
 - pkg:nuget/Soenneker.Dtos.RangePointsPairs@4.0.8
