@@ -24,3 +24,4 @@
 - pkg:nuget/ElasticEmail@4.0.8
 - pkg:nuget/ElasticEmail@4.0.9
 - pkg:nuget/ElasticEmail@4.2.0
+- pkg:nuget/ElasticEmail@4.4.0
