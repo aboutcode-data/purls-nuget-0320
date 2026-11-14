@@ -29,3 +29,6 @@
 - pkg:nuget/Zongsoft.Messaging.ZeroMQ@1.5.1
 - pkg:nuget/Zongsoft.Messaging.ZeroMQ@1.6.0
 - pkg:nuget/Zongsoft.Messaging.ZeroMQ@1.7.0
+- pkg:nuget/Zongsoft.Messaging.ZeroMQ@2.3.0
+- pkg:nuget/Zongsoft.Messaging.ZeroMQ@2.6.0
+- pkg:nuget/Zongsoft.Messaging.ZeroMQ@2.7.0
