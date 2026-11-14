@@ -17,3 +17,5 @@
 - pkg:nuget/Codat.BankFeeds@7.1.0
 - pkg:nuget/Codat.BankFeeds@7.2.0
 - pkg:nuget/Codat.BankFeeds@7.3.0
+- pkg:nuget/Codat.BankFeeds@9.0.0
+- pkg:nuget/Codat.BankFeeds@9.0.0-rc1
