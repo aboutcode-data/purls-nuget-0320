@@ -57,3 +57,4 @@
 - pkg:nuget/WireMock.Net.TUnit@2.2.0
 - pkg:nuget/WireMock.Net.TUnit@2.20.0
 - pkg:nuget/WireMock.Net.TUnit@2.21.0
+- pkg:nuget/WireMock.Net.TUnit@2.31.0
