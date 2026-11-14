@@ -1,1 +1,3 @@
 - pkg:nuget/VpnHood.Core.Client.Devices.Linux@8.1.840
+- pkg:nuget/VpnHood.Core.Client.Devices.Linux@8.2.852
+- pkg:nuget/VpnHood.Core.Client.Devices.Linux@9.0.855
