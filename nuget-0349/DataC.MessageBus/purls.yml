@@ -8,6 +8,7 @@
 - pkg:nuget/DataC.MessageBus@1.1.0
 - pkg:nuget/DataC.MessageBus@1.1.1
 - pkg:nuget/DataC.MessageBus@1.1.2
+- pkg:nuget/DataC.MessageBus@10.0.0
 - pkg:nuget/DataC.MessageBus@6.0.0
 - pkg:nuget/DataC.MessageBus@6.0.0.1
 - pkg:nuget/DataC.MessageBus@6.0.1
