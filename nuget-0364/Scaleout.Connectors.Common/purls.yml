@@ -1,2 +1,3 @@
 - pkg:nuget/Scaleout.Connectors.Common@1.0.0
 - pkg:nuget/Scaleout.Connectors.Common@2.0.0
+- pkg:nuget/Scaleout.Connectors.Common@5.0.0
