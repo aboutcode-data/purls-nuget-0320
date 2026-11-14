@@ -5,3 +5,11 @@
 - pkg:nuget/FlowOrchestrator.ServiceBus@1.26.2
 - pkg:nuget/FlowOrchestrator.ServiceBus@1.26.2-preview.139
 - pkg:nuget/FlowOrchestrator.ServiceBus@1.26.3-preview.141
+- pkg:nuget/FlowOrchestrator.ServiceBus@1.27.0
+- pkg:nuget/FlowOrchestrator.ServiceBus@1.27.0-preview.144
+- pkg:nuget/FlowOrchestrator.ServiceBus@1.27.1
+- pkg:nuget/FlowOrchestrator.ServiceBus@1.27.1-preview.146
+- pkg:nuget/FlowOrchestrator.ServiceBus@1.29.2-preview.167
+- pkg:nuget/FlowOrchestrator.ServiceBus@1.31.2
+- pkg:nuget/FlowOrchestrator.ServiceBus@1.31.2-preview.174
+- pkg:nuget/FlowOrchestrator.ServiceBus@1.32.2-preview.188
