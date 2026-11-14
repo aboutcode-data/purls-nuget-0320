@@ -10,3 +10,6 @@
 - pkg:nuget/tik4net@3.3.0
 - pkg:nuget/tik4net@3.4.0
 - pkg:nuget/tik4net@3.5.0
+- pkg:nuget/tik4net@4.0.0-beta3
+- pkg:nuget/tik4net@4.0.3
+- pkg:nuget/tik4net@5.0.0-alpha3
