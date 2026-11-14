@@ -17,3 +17,5 @@
 - pkg:nuget/Blazorise.Charts.Zoom@2.0.0
 - pkg:nuget/Blazorise.Charts.Zoom@2.1.1
 - pkg:nuget/Blazorise.Charts.Zoom@2.2.2
+- pkg:nuget/Blazorise.Charts.Zoom@2.4.0
+- pkg:nuget/Blazorise.Charts.Zoom@2.4.3
