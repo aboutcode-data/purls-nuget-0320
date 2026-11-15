@@ -1,4 +1,15 @@
+- pkg:nuget/Soenneker.Render.OpenApiClient@11.0.102
+- pkg:nuget/Soenneker.Render.OpenApiClient@11.0.103
+- pkg:nuget/Soenneker.Render.OpenApiClient@11.0.111
+- pkg:nuget/Soenneker.Render.OpenApiClient@11.0.114
+- pkg:nuget/Soenneker.Render.OpenApiClient@11.0.122
+- pkg:nuget/Soenneker.Render.OpenApiClient@11.0.96
+- pkg:nuget/Soenneker.Render.OpenApiClient@11.0.98
 - pkg:nuget/Soenneker.Render.OpenApiClient@4.0.26
 - pkg:nuget/Soenneker.Render.OpenApiClient@4.0.48
 - pkg:nuget/Soenneker.Render.OpenApiClient@4.0.5
 - pkg:nuget/Soenneker.Render.OpenApiClient@4.0.6
+- pkg:nuget/Soenneker.Render.OpenApiClient@4.0.60
+- pkg:nuget/Soenneker.Render.OpenApiClient@4.0.80
+- pkg:nuget/Soenneker.Render.OpenApiClient@4.0.81
+- pkg:nuget/Soenneker.Render.OpenApiClient@4.0.89
