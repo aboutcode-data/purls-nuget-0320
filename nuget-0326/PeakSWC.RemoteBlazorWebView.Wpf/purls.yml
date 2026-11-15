@@ -9,6 +9,8 @@
 - pkg:nuget/PeakSWC.RemoteBlazorWebView.Wpf@10.0.0-preview3
 - pkg:nuget/PeakSWC.RemoteBlazorWebView.Wpf@10.0.0-preview4
 - pkg:nuget/PeakSWC.RemoteBlazorWebView.Wpf@10.0.0-preview5
+- pkg:nuget/PeakSWC.RemoteBlazorWebView.Wpf@10.0.13
+- pkg:nuget/PeakSWC.RemoteBlazorWebView.Wpf@10.0.15
 - pkg:nuget/PeakSWC.RemoteBlazorWebView.Wpf@6.0.0-preview3
 - pkg:nuget/PeakSWC.RemoteBlazorWebView.Wpf@6.0.1-preview3
 - pkg:nuget/PeakSWC.RemoteBlazorWebView.Wpf@6.0.10-preview5
