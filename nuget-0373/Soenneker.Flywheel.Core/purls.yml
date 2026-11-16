@@ -7,6 +7,7 @@
 - pkg:nuget/Soenneker.Flywheel.Core@11.0.491
 - pkg:nuget/Soenneker.Flywheel.Core@11.0.499
 - pkg:nuget/Soenneker.Flywheel.Core@11.0.500
+- pkg:nuget/Soenneker.Flywheel.Core@11.0.517
 - pkg:nuget/Soenneker.Flywheel.Core@4.0.14
 - pkg:nuget/Soenneker.Flywheel.Core@5.0.103
 - pkg:nuget/Soenneker.Flywheel.Core@5.0.106
