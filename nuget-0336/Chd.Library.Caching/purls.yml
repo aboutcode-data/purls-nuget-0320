@@ -18,6 +18,7 @@
 - pkg:nuget/Chd.Library.Caching@8.5.1
 - pkg:nuget/Chd.Library.Caching@8.5.2
 - pkg:nuget/Chd.Library.Caching@8.5.3
+- pkg:nuget/Chd.Library.Caching@8.7.1
 - pkg:nuget/Chd.Library.Caching@9.0.0
 - pkg:nuget/Chd.Library.Caching@9.0.1
 - pkg:nuget/Chd.Library.Caching@9.0.2
