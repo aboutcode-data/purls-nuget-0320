@@ -1232,3 +1232,5 @@
 - pkg:nuget/FunFair.BuildVersion.Detection@6.2.20.2529-main
 - pkg:nuget/FunFair.BuildVersion.Detection@6.2.20.2540-main
 - pkg:nuget/FunFair.BuildVersion.Detection@6.2.20.2546-main
+- pkg:nuget/FunFair.BuildVersion.Detection@6.2.20.2548-main
+- pkg:nuget/FunFair.BuildVersion.Detection@6.2.20.2549-main
