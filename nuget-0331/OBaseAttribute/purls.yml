@@ -139,6 +139,7 @@
 - pkg:nuget/OBaseAttribute@26.10.31
 - pkg:nuget/OBaseAttribute@26.10.35
 - pkg:nuget/OBaseAttribute@26.11.1
+- pkg:nuget/OBaseAttribute@26.11.16
 - pkg:nuget/OBaseAttribute@26.3.26
 - pkg:nuget/OBaseAttribute@26.3.27
 - pkg:nuget/OBaseAttribute@26.3.28
