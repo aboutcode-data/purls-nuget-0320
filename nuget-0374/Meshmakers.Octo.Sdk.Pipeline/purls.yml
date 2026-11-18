@@ -26,3 +26,4 @@
 - pkg:nuget/Meshmakers.Octo.Sdk.Pipeline@3.5.64
 - pkg:nuget/Meshmakers.Octo.Sdk.Pipeline@3.5.68
 - pkg:nuget/Meshmakers.Octo.Sdk.Pipeline@3.5.70
+- pkg:nuget/Meshmakers.Octo.Sdk.Pipeline@3.5.76
