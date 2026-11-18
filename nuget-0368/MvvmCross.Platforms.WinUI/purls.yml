@@ -10,3 +10,4 @@
 - pkg:nuget/MvvmCross.Platforms.WinUI@10.1.2-ga7b3c9439b
 - pkg:nuget/MvvmCross.Platforms.WinUI@10.1.2-gc03d08134d
 - pkg:nuget/MvvmCross.Platforms.WinUI@10.1.2-gdabc611625
+- pkg:nuget/MvvmCross.Platforms.WinUI@11.0.0
