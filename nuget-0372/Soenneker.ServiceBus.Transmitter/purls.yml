@@ -413,6 +413,7 @@
 - pkg:nuget/Soenneker.ServiceBus.Transmitter@11.0.4038
 - pkg:nuget/Soenneker.ServiceBus.Transmitter@11.0.4040
 - pkg:nuget/Soenneker.ServiceBus.Transmitter@11.0.4047
+- pkg:nuget/Soenneker.ServiceBus.Transmitter@11.0.4048
 - pkg:nuget/Soenneker.ServiceBus.Transmitter@2.0.1
 - pkg:nuget/Soenneker.ServiceBus.Transmitter@2.0.2
 - pkg:nuget/Soenneker.ServiceBus.Transmitter@2.0.3
