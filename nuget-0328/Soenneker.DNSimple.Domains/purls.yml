@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.DNSimple.Domains@11.0.631
 - pkg:nuget/Soenneker.DNSimple.Domains@11.0.637
 - pkg:nuget/Soenneker.DNSimple.Domains@11.0.644
+- pkg:nuget/Soenneker.DNSimple.Domains@11.0.650
 - pkg:nuget/Soenneker.DNSimple.Domains@3.0.1
 - pkg:nuget/Soenneker.DNSimple.Domains@3.0.10
 - pkg:nuget/Soenneker.DNSimple.Domains@3.0.100
