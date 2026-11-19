@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Blazor.Mocks.NavigationManager@11.0.442
+- pkg:nuget/Soenneker.Blazor.Mocks.NavigationManager@11.0.443
 - pkg:nuget/Soenneker.Blazor.Mocks.NavigationManager@3.0.1
 - pkg:nuget/Soenneker.Blazor.Mocks.NavigationManager@3.0.10
 - pkg:nuget/Soenneker.Blazor.Mocks.NavigationManager@3.0.100
