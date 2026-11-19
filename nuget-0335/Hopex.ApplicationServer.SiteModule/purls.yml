@@ -1286,6 +1286,7 @@
 - pkg:nuget/Hopex.ApplicationServer.SiteModule@62.23.70.3
 - pkg:nuget/Hopex.ApplicationServer.SiteModule@62.23.70.8
 - pkg:nuget/Hopex.ApplicationServer.SiteModule@62.24.0.183
+- pkg:nuget/Hopex.ApplicationServer.SiteModule@62.24.0.186
 - pkg:nuget/Hopex.ApplicationServer.SiteModule@62.24.73.1
 - pkg:nuget/Hopex.ApplicationServer.SiteModule@62.24.74.1
 - pkg:nuget/Hopex.ApplicationServer.SiteModule@62.3.0.123
