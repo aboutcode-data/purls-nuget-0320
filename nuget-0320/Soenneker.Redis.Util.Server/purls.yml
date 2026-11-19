@@ -184,6 +184,7 @@
 - pkg:nuget/Soenneker.Redis.Util.Server@11.0.3212
 - pkg:nuget/Soenneker.Redis.Util.Server@11.0.3218
 - pkg:nuget/Soenneker.Redis.Util.Server@11.0.3221
+- pkg:nuget/Soenneker.Redis.Util.Server@11.0.3234
 - pkg:nuget/Soenneker.Redis.Util.Server@2.0.1
 - pkg:nuget/Soenneker.Redis.Util.Server@2.0.179
 - pkg:nuget/Soenneker.Redis.Util.Server@2.0.180
