@@ -120,6 +120,7 @@
 - pkg:nuget/Soenneker.Extensions.Configuration@1.0.97
 - pkg:nuget/Soenneker.Extensions.Configuration@1.0.98
 - pkg:nuget/Soenneker.Extensions.Configuration@1.0.99
+- pkg:nuget/Soenneker.Extensions.Configuration@11.0.919
 - pkg:nuget/Soenneker.Extensions.Configuration@2.0.1
 - pkg:nuget/Soenneker.Extensions.Configuration@2.0.124
 - pkg:nuget/Soenneker.Extensions.Configuration@2.0.125
