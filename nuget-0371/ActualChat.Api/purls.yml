@@ -1214,6 +1214,8 @@
 - pkg:nuget/ActualChat.Api@2.25.139-alpha-g72f2437ace
 - pkg:nuget/ActualChat.Api@2.25.142-alpha-ge7294a8e41
 - pkg:nuget/ActualChat.Api@2.25.213-alpha-g16848b4e03
+- pkg:nuget/ActualChat.Api@2.25.230-alpha-g933481ead3
+- pkg:nuget/ActualChat.Api@2.25.237-alpha-g5c9e0d2dc6
 - pkg:nuget/ActualChat.Api@2.25.45-alpha-g347d0affc9
 - pkg:nuget/ActualChat.Api@2.25.54-alpha-g96da0fb6af
 - pkg:nuget/ActualChat.Api@2.25.8-alpha-g536c1a75ab
