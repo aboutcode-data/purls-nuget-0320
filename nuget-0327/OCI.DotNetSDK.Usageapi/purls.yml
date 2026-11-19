@@ -59,6 +59,7 @@
 - pkg:nuget/OCI.DotNetSDK.Usageapi@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Usageapi@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Usageapi@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Usageapi@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Usageapi@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Usageapi@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Usageapi@17.1.0
