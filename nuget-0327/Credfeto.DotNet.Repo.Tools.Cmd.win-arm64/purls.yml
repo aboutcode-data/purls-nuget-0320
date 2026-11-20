@@ -202,6 +202,7 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.win-arm64@1.5.25.4340-stale-allpackag
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.win-arm64@1.5.25.4341-stale-allpackag
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.win-arm64@1.5.25.4344-formatter-clean
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.win-arm64@1.5.25.4354-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.win-arm64@1.5.3.3139-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.win-arm64@1.5.3.3140-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.win-arm64@1.5.3.3149-unit-tests-depe
