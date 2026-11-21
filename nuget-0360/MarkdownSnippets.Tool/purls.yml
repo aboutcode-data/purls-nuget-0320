@@ -153,6 +153,8 @@
 - pkg:nuget/MarkdownSnippets.Tool@28.1.0
 - pkg:nuget/MarkdownSnippets.Tool@28.3.0
 - pkg:nuget/MarkdownSnippets.Tool@29.0.0
+- pkg:nuget/MarkdownSnippets.Tool@30.0.0
+- pkg:nuget/MarkdownSnippets.Tool@30.0.1
 - pkg:nuget/MarkdownSnippets.Tool@9.0.0
 - pkg:nuget/MarkdownSnippets.Tool@9.0.1
 - pkg:nuget/MarkdownSnippets.Tool@9.0.2
