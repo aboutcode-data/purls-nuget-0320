@@ -130,6 +130,8 @@
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Migrate@0.42.1-alpha.69
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Migrate@0.4457.0
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Migrate@0.4458.0-alpha.17
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Migrate@0.4521.0
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Migrate@0.4522.0-alpha.9
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Migrate@0.502.1-alpha.25
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Migrate@0.54.2-alpha.76
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Migrate@0.58.2-alpha.5
