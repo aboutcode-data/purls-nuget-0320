@@ -25,3 +25,4 @@
 - pkg:nuget/Franz.Common.MultiTenancy@2.2.5
 - pkg:nuget/Franz.Common.MultiTenancy@2.2.7
 - pkg:nuget/Franz.Common.MultiTenancy@2.3.2
+- pkg:nuget/Franz.Common.MultiTenancy@3.0.2
