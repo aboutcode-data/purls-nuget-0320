@@ -2,6 +2,7 @@
 - pkg:nuget/KY.Generator.Common@10.1.0
 - pkg:nuget/KY.Generator.Common@10.1.2
 - pkg:nuget/KY.Generator.Common@10.2.1
+- pkg:nuget/KY.Generator.Common@11.0.0
 - pkg:nuget/KY.Generator.Common@8.0.0
 - pkg:nuget/KY.Generator.Common@8.1.0
 - pkg:nuget/KY.Generator.Common@8.2.0
