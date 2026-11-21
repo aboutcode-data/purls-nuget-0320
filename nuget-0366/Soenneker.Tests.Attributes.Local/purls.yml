@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Tests.Attributes.Local@11.0.162
 - pkg:nuget/Soenneker.Tests.Attributes.Local@11.0.166
 - pkg:nuget/Soenneker.Tests.Attributes.Local@11.0.173
+- pkg:nuget/Soenneker.Tests.Attributes.Local@11.0.179
 - pkg:nuget/Soenneker.Tests.Attributes.Local@4.0.116
 - pkg:nuget/Soenneker.Tests.Attributes.Local@4.0.119
 - pkg:nuget/Soenneker.Tests.Attributes.Local@4.0.121
