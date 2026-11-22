@@ -8,3 +8,4 @@
 - pkg:nuget/LunaticPanel.Core.Analyzer@0.4.2
 - pkg:nuget/LunaticPanel.Core.Analyzer@0.5.8
 - pkg:nuget/LunaticPanel.Core.Analyzer@0.5.9
+- pkg:nuget/LunaticPanel.Core.Analyzer@0.6.0-preview.3
