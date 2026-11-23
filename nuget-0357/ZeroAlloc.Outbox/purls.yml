@@ -4,3 +4,4 @@
 - pkg:nuget/ZeroAlloc.Outbox@4.1.0
 - pkg:nuget/ZeroAlloc.Outbox@4.4.1
 - pkg:nuget/ZeroAlloc.Outbox@4.4.3
+- pkg:nuget/ZeroAlloc.Outbox@4.7.3
