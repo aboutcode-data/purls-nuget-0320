@@ -397,3 +397,4 @@
 - pkg:nuget/TouchSocketPro@4.2.18
 - pkg:nuget/TouchSocketPro@4.3.10
 - pkg:nuget/TouchSocketPro@4.3.4
+- pkg:nuget/TouchSocketPro@5.0.0-beta.28
