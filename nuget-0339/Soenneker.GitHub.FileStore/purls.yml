@@ -7,6 +7,7 @@
 - pkg:nuget/Soenneker.GitHub.FileStore@11.0.825
 - pkg:nuget/Soenneker.GitHub.FileStore@11.0.827
 - pkg:nuget/Soenneker.GitHub.FileStore@11.0.828
+- pkg:nuget/Soenneker.GitHub.FileStore@11.0.833
 - pkg:nuget/Soenneker.GitHub.FileStore@3.0.1
 - pkg:nuget/Soenneker.GitHub.FileStore@3.0.10
 - pkg:nuget/Soenneker.GitHub.FileStore@3.0.100
