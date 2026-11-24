@@ -34,3 +34,4 @@
 - pkg:nuget/NodeEditorAvalonia@11.1.0
 - pkg:nuget/NodeEditorAvalonia@11.1.0-rc1
 - pkg:nuget/NodeEditorAvalonia@11.2.0
+- pkg:nuget/NodeEditorAvalonia@12.2.0
