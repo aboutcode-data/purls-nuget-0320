@@ -472,6 +472,7 @@
 - pkg:nuget/JetBrains.Platform.Tests.Framework@252.0.20251120.150646
 - pkg:nuget/JetBrains.Platform.Tests.Framework@252.0.20260728.124700
 - pkg:nuget/JetBrains.Platform.Tests.Framework@252.0.20260827.135105
+- pkg:nuget/JetBrains.Platform.Tests.Framework@252.0.20261123.90853
 - pkg:nuget/JetBrains.Platform.Tests.Framework@253.0.20250914.4854-eap01
 - pkg:nuget/JetBrains.Platform.Tests.Framework@253.0.20250922.232725-eap02
 - pkg:nuget/JetBrains.Platform.Tests.Framework@253.0.20250926.140429-eap03
@@ -490,6 +491,7 @@
 - pkg:nuget/JetBrains.Platform.Tests.Framework@261.0.20260804.122418
 - pkg:nuget/JetBrains.Platform.Tests.Framework@261.0.20260827.135309
 - pkg:nuget/JetBrains.Platform.Tests.Framework@261.0.20261029.113607
+- pkg:nuget/JetBrains.Platform.Tests.Framework@261.0.20261123.85957
 - pkg:nuget/JetBrains.Platform.Tests.Framework@262.0.20260527.204840-eap04
 - pkg:nuget/JetBrains.Platform.Tests.Framework@262.0.20260611.170508-eap06
 - pkg:nuget/JetBrains.Platform.Tests.Framework@262.0.20260702.125428-eap09
@@ -500,6 +502,7 @@
 - pkg:nuget/JetBrains.Platform.Tests.Framework@262.0.20260924.172949
 - pkg:nuget/JetBrains.Platform.Tests.Framework@262.0.20261030.12655
 - pkg:nuget/JetBrains.Platform.Tests.Framework@262.0.20261116.82835
+- pkg:nuget/JetBrains.Platform.Tests.Framework@262.0.20261122.81134
 - pkg:nuget/JetBrains.Platform.Tests.Framework@263.0.20261015.214124-eap07
 - pkg:nuget/JetBrains.Platform.Tests.Framework@263.0.20261023.71039-eap08
 - pkg:nuget/JetBrains.Platform.Tests.Framework@263.0.20261029.132842-eap09

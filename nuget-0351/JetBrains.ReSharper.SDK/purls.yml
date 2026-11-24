@@ -460,8 +460,10 @@
 - pkg:nuget/JetBrains.ReSharper.SDK@2026.2.0-eap06
 - pkg:nuget/JetBrains.ReSharper.SDK@2026.2.1
 - pkg:nuget/JetBrains.ReSharper.SDK@2026.2.2
+- pkg:nuget/JetBrains.ReSharper.SDK@2026.2.5.1
 - pkg:nuget/JetBrains.ReSharper.SDK@2026.3.0-eap08
 - pkg:nuget/JetBrains.ReSharper.SDK@2026.3.0-eap09
+- pkg:nuget/JetBrains.ReSharper.SDK@2026.3.0.2
 - pkg:nuget/JetBrains.ReSharper.SDK@8.0.1086
 - pkg:nuget/JetBrains.ReSharper.SDK@8.0.1234
 - pkg:nuget/JetBrains.ReSharper.SDK@8.0.1243
