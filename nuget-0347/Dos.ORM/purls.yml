@@ -198,3 +198,4 @@
 - pkg:nuget/Dos.ORM@9.1.18
 - pkg:nuget/Dos.ORM@9.1.4
 - pkg:nuget/Dos.ORM@9.1.8
+- pkg:nuget/Dos.ORM@9.2.2
