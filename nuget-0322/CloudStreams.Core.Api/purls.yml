@@ -35,6 +35,7 @@
 - pkg:nuget/CloudStreams.Core.Api@0.6.1
 - pkg:nuget/CloudStreams.Core.Api@0.6.2
 - pkg:nuget/CloudStreams.Core.Api@0.6.3
+- pkg:nuget/CloudStreams.Core.Api@0.63.0
 - pkg:nuget/CloudStreams.Core.Api@0.7.0
 - pkg:nuget/CloudStreams.Core.Api@0.8.0
 - pkg:nuget/CloudStreams.Core.Api@0.9.0
