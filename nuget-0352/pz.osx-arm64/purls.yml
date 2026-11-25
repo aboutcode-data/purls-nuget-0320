@@ -2,4 +2,5 @@
 - pkg:nuget/pz.osx-arm64@0.12.0
 - pkg:nuget/pz.osx-arm64@0.15.0
 - pkg:nuget/pz.osx-arm64@0.16.0
+- pkg:nuget/pz.osx-arm64@0.22.1
 - pkg:nuget/pz.osx-arm64@0.7.0
