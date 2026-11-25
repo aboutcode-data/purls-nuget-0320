@@ -107,3 +107,5 @@
 - pkg:nuget/Cratis.Arc.EntityFrameworkCore@23.6.0
 - pkg:nuget/Cratis.Arc.EntityFrameworkCore@24.0.0
 - pkg:nuget/Cratis.Arc.EntityFrameworkCore@24.1.0
+- pkg:nuget/Cratis.Arc.EntityFrameworkCore@24.5.0
+- pkg:nuget/Cratis.Arc.EntityFrameworkCore@24.7.0
