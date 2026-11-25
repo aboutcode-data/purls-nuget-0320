@@ -22,4 +22,6 @@
 - pkg:nuget/Webority.Ai.Foundry@0.67.0-preview.1
 - pkg:nuget/Webority.Ai.Foundry@0.69.0-preview.1
 - pkg:nuget/Webority.Ai.Foundry@0.69.1-preview.1
+- pkg:nuget/Webority.Ai.Foundry@0.69.3-preview.1
+- pkg:nuget/Webority.Ai.Foundry@0.69.4-preview.1
 - pkg:nuget/Webority.Ai.Foundry@0.7.1-preview.1
