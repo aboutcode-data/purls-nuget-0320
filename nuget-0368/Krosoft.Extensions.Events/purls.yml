@@ -41,6 +41,8 @@
 - pkg:nuget/Krosoft.Extensions.Events@2026.1.20.5207
 - pkg:nuget/Krosoft.Extensions.Events@2026.10.16.11676
 - pkg:nuget/Krosoft.Extensions.Events@2026.10.3.10998
+- pkg:nuget/Krosoft.Extensions.Events@2026.11.16.13425
+- pkg:nuget/Krosoft.Extensions.Events@2026.11.16.13520
 - pkg:nuget/Krosoft.Extensions.Events@2026.11.2.12416
 - pkg:nuget/Krosoft.Extensions.Events@2026.11.2.12470
 - pkg:nuget/Krosoft.Extensions.Events@2026.3.28.6274
