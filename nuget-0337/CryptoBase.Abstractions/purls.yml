@@ -8,3 +8,5 @@
 - pkg:nuget/CryptoBase.Abstractions@1.6.0
 - pkg:nuget/CryptoBase.Abstractions@1.7.1
 - pkg:nuget/CryptoBase.Abstractions@1.7.2
+- pkg:nuget/CryptoBase.Abstractions@4.0.0
+- pkg:nuget/CryptoBase.Abstractions@9.0.0
