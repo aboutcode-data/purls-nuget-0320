@@ -169,6 +169,7 @@
 - pkg:nuget/NWN.Core@8193.36.6
 - pkg:nuget/NWN.Core@8193.37.0
 - pkg:nuget/NWN.Core@8193.37.1
+- pkg:nuget/NWN.Core@8193.37.12
 - pkg:nuget/NWN.Core@8193.37.2
 - pkg:nuget/NWN.Core@8193.37.3
 - pkg:nuget/NWN.Core@8193.37.6
