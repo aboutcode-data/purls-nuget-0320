@@ -5,7 +5,10 @@
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@1.1.0-alpha.6
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@1.1.0-alpha.9
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.1000.1
+- pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.1000.5
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.1002.0
+- pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.1004.2
+- pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.1009.5
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.1011.0
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.1012.0
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.1024.0
@@ -255,6 +258,7 @@
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.806.3
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.806.4
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.806.5
+- pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.806.7
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.807.0
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.807.0-alpha.216-vcst-1352
 - pkg:nuget/VirtoCommerce.ProfileExperienceApiModule.Data@3.807.0-alpha.219-vcst-1352
