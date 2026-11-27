@@ -57,6 +57,8 @@
 - pkg:nuget/Curiosity.FrontEnd.Core@26.11.8426
 - pkg:nuget/Curiosity.FrontEnd.Core@26.11.8513
 - pkg:nuget/Curiosity.FrontEnd.Core@26.11.8550
+- pkg:nuget/Curiosity.FrontEnd.Core@26.11.8596
+- pkg:nuget/Curiosity.FrontEnd.Core@26.11.8608
 - pkg:nuget/Curiosity.FrontEnd.Core@26.6.1386
 - pkg:nuget/Curiosity.FrontEnd.Core@26.6.1389
 - pkg:nuget/Curiosity.FrontEnd.Core@26.6.1398
