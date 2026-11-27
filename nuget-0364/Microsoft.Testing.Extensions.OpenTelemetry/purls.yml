@@ -1,1 +1,13 @@
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@1.0.0-alpha.26103.11
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@1.0.0-alpha.26202.7
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@1.0.0-alpha.26228.3
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@1.0.0-alpha.26264.3
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@1.0.0-alpha.26357.13
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@1.0.0-alpha.26358.12
 - pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@1.0.0-alpha.26363.8
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@1.0.0-alpha.26377.5
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@2.4.0
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@2.4.1
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@2.5.0
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@2.5.1
+- pkg:nuget/Microsoft.Testing.Extensions.OpenTelemetry@2.5.2
