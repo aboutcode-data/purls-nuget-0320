@@ -2,4 +2,6 @@
 - pkg:nuget/EraTech.AIManagement.Domain.Shared@2.2.27
 - pkg:nuget/EraTech.AIManagement.Domain.Shared@2.2.3
 - pkg:nuget/EraTech.AIManagement.Domain.Shared@2.2.30
+- pkg:nuget/EraTech.AIManagement.Domain.Shared@2.2.39
+- pkg:nuget/EraTech.AIManagement.Domain.Shared@2.2.45
 - pkg:nuget/EraTech.AIManagement.Domain.Shared@2.2.6
