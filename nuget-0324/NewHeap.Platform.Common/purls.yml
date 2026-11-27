@@ -3,6 +3,7 @@
 - pkg:nuget/NewHeap.Platform.Common@23.0.1
 - pkg:nuget/NewHeap.Platform.Common@34.0.0
 - pkg:nuget/NewHeap.Platform.Common@37.0.0
+- pkg:nuget/NewHeap.Platform.Common@39.3.1
 - pkg:nuget/NewHeap.Platform.Common@4.0.0
 - pkg:nuget/NewHeap.Platform.Common@4.1.0
 - pkg:nuget/NewHeap.Platform.Common@4.3.1
