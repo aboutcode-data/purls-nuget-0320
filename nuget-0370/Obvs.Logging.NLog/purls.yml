@@ -12,6 +12,11 @@
 - pkg:nuget/Obvs.Logging.NLog@5.0.2.16
 - pkg:nuget/Obvs.Logging.NLog@5.0.2.18
 - pkg:nuget/Obvs.Logging.NLog@6.0.10
+- pkg:nuget/Obvs.Logging.NLog@6.0.22
+- pkg:nuget/Obvs.Logging.NLog@6.0.23
+- pkg:nuget/Obvs.Logging.NLog@6.0.24
+- pkg:nuget/Obvs.Logging.NLog@6.0.25
+- pkg:nuget/Obvs.Logging.NLog@6.0.29
 - pkg:nuget/Obvs.Logging.NLog@6.0.5
 - pkg:nuget/Obvs.Logging.NLog@6.0.8
 - pkg:nuget/Obvs.Logging.NLog@6.0.9
