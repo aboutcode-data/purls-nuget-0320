@@ -1,2 +1,5 @@
 - pkg:nuget/Microsoft.Data.SqlClient.Extensions.Azure@1.0.0-preview1.26064.3
 - pkg:nuget/Microsoft.Data.SqlClient.Extensions.Azure@7.1.0-preview2.26190.5
+- pkg:nuget/Microsoft.Data.SqlClient.Extensions.Azure@7.1.0-preview3.26238.4
+- pkg:nuget/Microsoft.Data.SqlClient.Extensions.Azure@7.1.1
+- pkg:nuget/Microsoft.Data.SqlClient.Extensions.Azure@8.0.0-preview1.26313.4

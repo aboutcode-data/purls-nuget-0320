@@ -1,3 +1,12 @@
+- pkg:nuget/Soenneker.Utils.Yaml@11.0.233
+- pkg:nuget/Soenneker.Utils.Yaml@11.0.239
+- pkg:nuget/Soenneker.Utils.Yaml@11.0.244
+- pkg:nuget/Soenneker.Utils.Yaml@11.0.245
+- pkg:nuget/Soenneker.Utils.Yaml@11.0.247
+- pkg:nuget/Soenneker.Utils.Yaml@11.0.254
+- pkg:nuget/Soenneker.Utils.Yaml@11.0.256
+- pkg:nuget/Soenneker.Utils.Yaml@11.0.257
+- pkg:nuget/Soenneker.Utils.Yaml@11.0.261
 - pkg:nuget/Soenneker.Utils.Yaml@4.0.1
 - pkg:nuget/Soenneker.Utils.Yaml@4.0.111
 - pkg:nuget/Soenneker.Utils.Yaml@4.0.144
