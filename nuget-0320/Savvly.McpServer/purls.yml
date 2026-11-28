@@ -1,3 +1,4 @@
+- pkg:nuget/Savvly.McpServer@1.0.101
 - pkg:nuget/Savvly.McpServer@1.0.40
 - pkg:nuget/Savvly.McpServer@1.0.43
 - pkg:nuget/Savvly.McpServer@1.0.44
@@ -5,3 +6,4 @@
 - pkg:nuget/Savvly.McpServer@1.0.81
 - pkg:nuget/Savvly.McpServer@1.0.82
 - pkg:nuget/Savvly.McpServer@1.0.84
+- pkg:nuget/Savvly.McpServer@1.0.98
