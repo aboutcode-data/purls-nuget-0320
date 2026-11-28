@@ -1,4 +1,6 @@
 - pkg:nuget/FFmpegDotNet@8.1.2.11
 - pkg:nuget/FFmpegDotNet@8.1.2.13
+- pkg:nuget/FFmpegDotNet@8.1.2.15
 - pkg:nuget/FFmpegDotNet@8.1.2.6
 - pkg:nuget/FFmpegDotNet@9.9.0
+- pkg:nuget/FFmpegDotNet@9.9.3.1
