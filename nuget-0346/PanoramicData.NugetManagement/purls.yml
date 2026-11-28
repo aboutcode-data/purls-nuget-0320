@@ -1,3 +1,4 @@
+- pkg:nuget/PanoramicData.NugetManagement@1.0.160
 - pkg:nuget/PanoramicData.NugetManagement@1.0.6-gac22da8522
 - pkg:nuget/PanoramicData.NugetManagement@1.0.7
 - pkg:nuget/PanoramicData.NugetManagement@1.0.9
