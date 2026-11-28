@@ -2,3 +2,4 @@
 - pkg:nuget/RaspberryDotNet.Blinkt@0.3.0
 - pkg:nuget/RaspberryDotNet.Blinkt@1.1.1
 - pkg:nuget/RaspberryDotNet.Blinkt@1.8.0
+- pkg:nuget/RaspberryDotNet.Blinkt@3.0.0
