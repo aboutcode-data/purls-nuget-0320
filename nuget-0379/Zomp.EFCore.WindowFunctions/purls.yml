@@ -6,6 +6,7 @@
 - pkg:nuget/Zomp.EFCore.WindowFunctions@0.1.4-alpha
 - pkg:nuget/Zomp.EFCore.WindowFunctions@1.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions@1.0.2
+- pkg:nuget/Zomp.EFCore.WindowFunctions@11.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions@7.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions@8.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions@8.0.1-preview4
