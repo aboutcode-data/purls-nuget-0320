@@ -1,3 +1,5 @@
 - pkg:nuget/Ahsoka.Extensions.Diagnostics@5.15.0
 - pkg:nuget/Ahsoka.Extensions.Diagnostics@5.15.1
+- pkg:nuget/Ahsoka.Extensions.Diagnostics@5.15.5
 - pkg:nuget/Ahsoka.Extensions.Diagnostics@5.7.0
+- pkg:nuget/Ahsoka.Extensions.Diagnostics@6.0.0
