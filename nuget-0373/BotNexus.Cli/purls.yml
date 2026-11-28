@@ -1,1 +1,6 @@
 - pkg:nuget/BotNexus.Cli@0.1.4
+- pkg:nuget/BotNexus.Cli@0.2.0
+- pkg:nuget/BotNexus.Cli@0.24.0
+- pkg:nuget/BotNexus.Cli@0.39.0
+- pkg:nuget/BotNexus.Cli@0.45.0
+- pkg:nuget/BotNexus.Cli@0.49.0
