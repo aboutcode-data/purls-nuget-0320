@@ -3,4 +3,8 @@
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation.SqlClient@24.0.2
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation.SqlClient@24.1.0
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation.SqlClient@25.0.0
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation.SqlClient@25.0.3
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation.SqlClient@26.0.0
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation.SqlClient@27.0.0
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation.SqlClient@28.2.1
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation.SqlClient@9.0.1
