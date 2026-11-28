@@ -1,1 +1,2 @@
 - pkg:nuget/CK.AppIdentity.Monitoring.Metrics.Csv@0.4.0
+- pkg:nuget/CK.AppIdentity.Monitoring.Metrics.Csv@0.4.6
