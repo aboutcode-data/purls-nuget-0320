@@ -1,5 +1,7 @@
 - pkg:nuget/Soenneker.Blazor.Utils.ComponentHtmlRenderers@11.0.158
 - pkg:nuget/Soenneker.Blazor.Utils.ComponentHtmlRenderers@11.0.164
+- pkg:nuget/Soenneker.Blazor.Utils.ComponentHtmlRenderers@11.0.168
+- pkg:nuget/Soenneker.Blazor.Utils.ComponentHtmlRenderers@11.0.171
 - pkg:nuget/Soenneker.Blazor.Utils.ComponentHtmlRenderers@4.0.101
 - pkg:nuget/Soenneker.Blazor.Utils.ComponentHtmlRenderers@4.0.106
 - pkg:nuget/Soenneker.Blazor.Utils.ComponentHtmlRenderers@4.0.122
