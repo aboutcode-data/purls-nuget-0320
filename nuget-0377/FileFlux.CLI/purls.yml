@@ -12,3 +12,4 @@
 - pkg:nuget/FileFlux.CLI@0.56.0
 - pkg:nuget/FileFlux.CLI@0.62.0
 - pkg:nuget/FileFlux.CLI@0.65.1
+- pkg:nuget/FileFlux.CLI@0.69.0
