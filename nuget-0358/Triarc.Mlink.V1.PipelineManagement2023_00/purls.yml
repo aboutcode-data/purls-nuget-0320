@@ -9,3 +9,5 @@
 - pkg:nuget/Triarc.Mlink.V1.PipelineManagement2023_00@5.1.6
 - pkg:nuget/Triarc.Mlink.V1.PipelineManagement2023_00@5.1.7
 - pkg:nuget/Triarc.Mlink.V1.PipelineManagement2023_00@5.2.1
+- pkg:nuget/Triarc.Mlink.V1.PipelineManagement2023_00@5.4.0
+- pkg:nuget/Triarc.Mlink.V1.PipelineManagement2023_00@5.8.0
