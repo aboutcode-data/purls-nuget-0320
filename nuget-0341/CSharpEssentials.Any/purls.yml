@@ -16,3 +16,4 @@
 - pkg:nuget/CSharpEssentials.Any@6.3.0
 - pkg:nuget/CSharpEssentials.Any@6.5.0
 - pkg:nuget/CSharpEssentials.Any@7.0.0
+- pkg:nuget/CSharpEssentials.Any@9.0.0
