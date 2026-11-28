@@ -1,0 +1,4 @@
+- pkg:nuget/Amazon.AuroraDsql.Lint.Runtime@0.2.10
+- pkg:nuget/Amazon.AuroraDsql.Lint.Runtime@0.2.12
+- pkg:nuget/Amazon.AuroraDsql.Lint.Runtime@0.2.13
+- pkg:nuget/Amazon.AuroraDsql.Lint.Runtime@0.2.19
