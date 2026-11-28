@@ -60,3 +60,4 @@
 - pkg:nuget/Cogito.Autofac@5.0.5
 - pkg:nuget/Cogito.Autofac@6.0.0
 - pkg:nuget/Cogito.Autofac@6.1.0
+- pkg:nuget/Cogito.Autofac@6.1.4
