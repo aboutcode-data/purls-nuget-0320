@@ -1,6 +1,7 @@
 - pkg:nuget/Tharga.Neurolito.Client@0.0.117
 - pkg:nuget/Tharga.Neurolito.Client@0.0.118
 - pkg:nuget/Tharga.Neurolito.Client@0.0.119
+- pkg:nuget/Tharga.Neurolito.Client@0.0.138
 - pkg:nuget/Tharga.Neurolito.Client@0.0.40
 - pkg:nuget/Tharga.Neurolito.Client@0.0.47
 - pkg:nuget/Tharga.Neurolito.Client@0.0.50
