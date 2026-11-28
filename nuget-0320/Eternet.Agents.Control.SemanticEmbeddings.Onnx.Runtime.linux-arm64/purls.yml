@@ -31,4 +31,5 @@
 - pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.linux-arm64@5.2.23
 - pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.linux-arm64@5.2.31
 - pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.linux-arm64@5.2.34
+- pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.linux-arm64@5.2.43
 - pkg:nuget/Eternet.Agents.Control.SemanticEmbeddings.Onnx.Runtime.linux-arm64@5.2.6
