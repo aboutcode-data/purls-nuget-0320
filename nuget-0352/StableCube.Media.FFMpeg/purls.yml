@@ -1,2 +1,3 @@
 - pkg:nuget/StableCube.Media.FFMpeg@1.0.0
 - pkg:nuget/StableCube.Media.FFMpeg@1.0.1
+- pkg:nuget/StableCube.Media.FFMpeg@10.0.15
