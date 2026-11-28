@@ -28,6 +28,7 @@
 - pkg:nuget/Webority.Delivery.AspNetCore@0.70.1
 - pkg:nuget/Webority.Delivery.AspNetCore@0.70.3
 - pkg:nuget/Webority.Delivery.AspNetCore@0.71.0
+- pkg:nuget/Webority.Delivery.AspNetCore@0.72.1
 - pkg:nuget/Webority.Delivery.AspNetCore@0.8.1
 - pkg:nuget/Webority.Delivery.AspNetCore@0.8.2
 - pkg:nuget/Webority.Delivery.AspNetCore@0.9.0
