@@ -3,6 +3,7 @@
 - pkg:nuget/QueryFarm.VgiRpc.Gcs@0.14.0
 - pkg:nuget/QueryFarm.VgiRpc.Gcs@0.15.1
 - pkg:nuget/QueryFarm.VgiRpc.Gcs@0.18.1
+- pkg:nuget/QueryFarm.VgiRpc.Gcs@0.19.0
 - pkg:nuget/QueryFarm.VgiRpc.Gcs@0.2.0
 - pkg:nuget/QueryFarm.VgiRpc.Gcs@0.5.0
 - pkg:nuget/QueryFarm.VgiRpc.Gcs@0.6.0
